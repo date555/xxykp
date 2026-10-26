@@ -1,0 +1,50 @@
+[
+  {
+    "level": 1,
+    "toys": false,
+    "state": "lost",
+    "cleared": 9,
+    "base": 0,
+    "seconds": 577
+  },
+  {
+    "level": 1,
+    "toys": true,
+    "state": "won",
+    "cleared": 10,
+    "base": 100,
+    "seconds": 436
+  },
+  {
+    "level": 8,
+    "toys": false,
+    "state": "won",
+    "cleared": 10,
+    "base": 88,
+    "seconds": 488
+  },
+  {
+    "level": 8,
+    "toys": true,
+    "state": "won",
+    "cleared": 10,
+    "base": 100,
+    "seconds": 373
+  },
+  {
+    "level": 16,
+    "toys": false,
+    "state": "lost",
+    "cleared": 9,
+    "base": 0,
+    "seconds": 482
+  },
+  {
+    "level": 16,
+    "toys": true,
+    "state": "won",
+    "cleared": 10,
+    "base": 100,
+    "seconds": 345
+  }
+]

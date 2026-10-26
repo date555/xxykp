@@ -1,0 +1,26 @@
+{
+  "name": "向咸鱼开炮",
+  "output": "dist",
+  "files": 2176,
+  "totalBytes": 40760515,
+  "totalMiB": 38.87,
+  "largest": {
+    "file": "assets/spine/manifest.json",
+    "bytes": 1513723
+  },
+  "spineAssets": 556,
+  "cloudflarePages": {
+    "withinFreeFileLimit": true,
+    "withinAssetSizeLimit": true,
+    "dashboardDragAndDrop": false
+  },
+  "githubPages": {
+    "withinSiteSizeLimit": true
+  },
+  "checks": [
+    "relative entry, CSS and module URLs",
+    "case-sensitive runtime Spine paths",
+    "no source server, tools, tests or docs in dist"
+  ],
+  "publicDeploymentPerformed": false
+}

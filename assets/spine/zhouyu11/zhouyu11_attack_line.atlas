@@ -1,0 +1,13 @@
+
+zhouyu11_attack_line.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhouyu11_pg_yinf
+  rotate: false
+  xy: 2, 2
+  size: 82, 101
+  orig: 82, 101
+  offset: 0, 0
+  index: -1

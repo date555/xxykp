@@ -1,0 +1,4 @@
+// Generated from ui_common/Star and HeroStarSpend.
+export const STAR_TIERS=[{"key": "empty", "label": "未升星", "icon": "ui/stars/empty", "fromStar": 0, "toStar": 0}, {"key": "gold", "label": "黄星", "icon": "ui/stars/gold", "fromStar": 1, "toStar": 5}, {"key": "purple", "label": "紫星", "icon": "ui/stars/purple", "fromStar": 6, "toStar": 10}, {"key": "orange", "label": "橙星", "icon": "ui/stars/orange", "fromStar": 11, "toStar": 15}, {"key": "red", "label": "红星", "icon": "ui/stars/red", "fromStar": 16, "toStar": 20}, {"key": "crown", "label": "皇冠", "icon": "ui/stars/crown", "fromStar": 21, "toStar": 25}, {"key": "purple-crown", "label": "紫冠", "icon": "ui/stars/purple-crown", "fromStar": 26, "toStar": 30}];
+export const STAR_COSTS=[8, 8, 8, 8, 8, 40, 40, 40, 40, 40, 80, 80, 80, 80, 80, 200, 200, 200, 200, 200, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400];
+export const STAR_CAP=STAR_COSTS.length;

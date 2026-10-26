@@ -1,0 +1,181 @@
+
+jiangwei12_skill_hit.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hero_effect_halo1
+  rotate: false
+  xy: 126, 950
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+jiangwei12_skill_lshen
+  rotate: true
+  xy: 2, 255
+  size: 236, 354
+  orig: 236, 354
+  offset: 0, 0
+  index: -1
+jiangwei12_skill_ltou
+  rotate: false
+  xy: 817, 632
+  size: 183, 176
+  orig: 183, 176
+  offset: 0, 0
+  index: -1
+jiangwei12_skill_lxuzi
+  rotate: false
+  xy: 172, 945
+  size: 147, 49
+  orig: 147, 49
+  offset: 0, 0
+  index: -1
+jiangwei12_skill_lz1
+  rotate: true
+  xy: 21, 977
+  size: 17, 24
+  orig: 17, 24
+  offset: 0, 0
+  index: -1
+jiangwei12_skill_lz2
+  rotate: true
+  xy: 70, 976
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+jiangwei12_skill_lz3
+  rotate: true
+  xy: 47, 977
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+jiangwei12_skill_lz4
+  rotate: true
+  xy: 98, 973
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+jiangwei12_skill_st1
+  rotate: true
+  xy: 2, 854
+  size: 89, 224
+  orig: 89, 224
+  offset: 0, 0
+  index: -1
+jiangwei12_skill_st2
+  rotate: false
+  xy: 254, 693
+  size: 290, 119
+  orig: 290, 119
+  offset: 0, 0
+  index: -1
+jiangwei12_skill_st3
+  rotate: false
+  xy: 437, 814
+  size: 248, 98
+  orig: 248, 98
+  offset: 0, 0
+  index: -1
+jiangwei12_skill_st4
+  rotate: true
+  xy: 2, 730
+  size: 113, 250
+  orig: 113, 250
+  offset: 0, 0
+  index: -1
+jiangwei12_skill_st5
+  rotate: true
+  xy: 321, 939
+  size: 55, 249
+  orig: 55, 249
+  offset: 0, 0
+  index: -1
+jiangwei12_skill_st6
+  rotate: false
+  xy: 800, 913
+  size: 197, 81
+  orig: 197, 81
+  offset: 0, 0
+  index: -1
+jiangwei12_skill_ta
+  rotate: false
+  xy: 658, 2
+  size: 306, 251
+  orig: 306, 251
+  offset: 0, 0
+  index: -1
+jiangwei12_skill_tadi
+  rotate: false
+  xy: 408, 6
+  size: 248, 247
+  orig: 248, 247
+  offset: 0, 0
+  index: -1
+jiangwei12_skill_tal
+  rotate: true
+  xy: 2, 25
+  size: 228, 404
+  orig: 228, 404
+  offset: 0, 0
+  index: -1
+jiangwei12_skill_tar
+  rotate: false
+  xy: 358, 255
+  size: 476, 209
+  orig: 476, 209
+  offset: 0, 0
+  index: -1
+jiangwei12_skill_tax
+  rotate: false
+  xy: 2, 493
+  size: 361, 198
+  orig: 361, 198
+  offset: 0, 0
+  index: -1
+jiangwei12_skill_yan1
+  rotate: true
+  xy: 228, 845
+  size: 92, 207
+  orig: 92, 207
+  offset: 0, 0
+  index: -1
+jiangwei12_skill_yan2
+  rotate: true
+  xy: 687, 810
+  size: 101, 188
+  orig: 101, 188
+  offset: 0, 0
+  index: -1
+jiangwei12_skill_yan3
+  rotate: false
+  xy: 546, 667
+  size: 269, 141
+  orig: 269, 141
+  offset: 0, 0
+  index: -1
+jiangwei12_skill_yan4
+  rotate: false
+  xy: 365, 466
+  size: 437, 199
+  orig: 437, 199
+  offset: 0, 0
+  index: -1
+jiangwei12_wuqig
+  rotate: false
+  xy: 572, 914
+  size: 226, 80
+  orig: 226, 80
+  offset: 0, 0
+  index: -1
+xysg_hero_effect_box
+  rotate: false
+  xy: 2, 981
+  size: 17, 13
+  orig: 24, 24
+  offset: 6, 5
+  index: -1

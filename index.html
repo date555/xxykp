@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="zh-CN">
+<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="theme-color" content="#231d20"><title>向咸鱼开炮 · 五将守一城</title><link rel="icon" href="assets/heads/guojia.png"><link rel="stylesheet" href="style.css"></head>
+<body>
+ <div id="game-host">
+  <div class="game-frame" id="game-frame">
+   <header class="game-header">
+    <button class="game-brand" data-nav="battle" aria-label="返回守城战场">向咸鱼<span>开炮</span></button>
+    <div class="account"><span id="account-status">整装待发</span><small id="save-status">本地存档</small></div>
+    <div class="wallet" aria-label="营地资源">
+     <div title="局外养成金币"><img src="assets/ui/coin.png" alt="金币"><b id="gold">0</b></div>
+     <div title="局外养成精铁"><span class="iron-icon" aria-hidden="true">◆</span><b id="essence">0</b><small>精铁</small></div>
+     <div title="局外招募令"><img src="assets/ui/ticket.png" alt="招募令"><b id="tickets">0</b></div>
+    </div>
+    <div class="system-buttons"><button id="fullscreen-btn" class="icon-button" title="全屏游戏" aria-label="全屏游戏">⛶</button><button id="help-btn" class="icon-button" title="玩法说明" aria-label="玩法说明">?</button><button id="settings-btn" class="icon-button" title="设置与存档" aria-label="设置与存档"><img src="assets/ui/game/nav-settings.png" alt=""></button></div>
+   </header>
+   <main id="main"></main>
+   <nav class="game-nav" aria-label="游戏内导航">
+    <button data-nav="battle" class="nav-item active"><img src="assets/ui/game/nav-formation.png" alt=""><span>守城</span></button>
+    <button data-nav="heroes" class="nav-item"><img src="assets/ui/game/nav-heroes.png" alt=""><span>武将</span></button>
+    <button data-nav="recruit" class="nav-item"><img src="assets/ui/game/nav-recruit.png" alt=""><span>招募</span></button>
+    <button data-nav="stages" class="nav-item"><img src="assets/ui/game/nav-book.png" alt=""><span>图鉴</span></button>
+   </nav>
+   <div class="camp-footer" id="camp-footer" hidden><span>招募 · 养成 · 升星 · 衣橱</span><small>营地培养永久保留，出征奇策只在本局生效</small><button class="ui-button green" data-nav="battle">返回战场</button></div>
+   <div id="toast" role="status" aria-live="polite"></div>
+  </div>
+  <dialog id="dialog"></dialog>
+  <input id="import-file" type="file" accept="application/json,.json" hidden>
+ </div>
+ <script type="module" src="src/app.js"></script>
+</body></html>

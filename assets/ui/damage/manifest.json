@@ -1,0 +1,2023 @@
+{
+  "version": "3c7b0bfc39",
+  "assets": [
+    {
+      "file": "assets/ui/damage/normal.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle.bin",
+      "font": "attack_font",
+      "itemId": "eh2hba",
+      "uri": "ui://80f60srieh2hba",
+      "glyphs": [
+        {
+          "char": "+",
+          "itemId": "aftn90",
+          "item": "jiahao",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              605,
+              326,
+              28,
+              34
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              28,
+              34
+            ]
+          }
+        },
+        {
+          "char": "-",
+          "itemId": "aftn98",
+          "item": "jianhao",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              665,
+              186,
+              28,
+              34
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              28,
+              34
+            ]
+          }
+        },
+        {
+          "char": "0",
+          "itemId": "aftn8z",
+          "item": "shuzi0",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              605,
+              290,
+              28,
+              34
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              28,
+              34
+            ]
+          }
+        },
+        {
+          "char": "1",
+          "itemId": "aftn8x",
+          "item": "shuzi1",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              605,
+              254,
+              28,
+              34
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              28,
+              34
+            ]
+          }
+        },
+        {
+          "char": "2",
+          "itemId": "aftn8v",
+          "item": "shuzi2",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              575,
+              223,
+              28,
+              34
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              28,
+              34
+            ]
+          }
+        },
+        {
+          "char": "3",
+          "itemId": "aftn8w",
+          "item": "shuzi3",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              545,
+              223,
+              28,
+              34
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              28,
+              34
+            ]
+          }
+        },
+        {
+          "char": "4",
+          "itemId": "aftn8r",
+          "item": "shuzi4",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              739,
+              149,
+              28,
+              34
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              28,
+              34
+            ]
+          }
+        },
+        {
+          "char": "5",
+          "itemId": "aftn8s",
+          "item": "shuzi5",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              624,
+              218,
+              28,
+              34
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              28,
+              34
+            ]
+          }
+        },
+        {
+          "char": "6",
+          "itemId": "aftn8u",
+          "item": "shuzi6",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              569,
+              259,
+              28,
+              34
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              28,
+              34
+            ]
+          }
+        },
+        {
+          "char": "7",
+          "itemId": "aftn8t",
+          "item": "shuzi7",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              654,
+              222,
+              28,
+              34
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              28,
+              34
+            ]
+          }
+        },
+        {
+          "char": "8",
+          "itemId": "aftn91",
+          "item": "shuzi8",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              635,
+              258,
+              28,
+              34
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              28,
+              34
+            ]
+          }
+        },
+        {
+          "char": "9",
+          "itemId": "aftn92",
+          "item": "shuzi9",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              635,
+              294,
+              28,
+              34
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              28,
+              34
+            ]
+          }
+        },
+        {
+          "char": "i",
+          "itemId": "9aeaqct",
+          "item": "jiahao_mianyishanghai",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              366,
+              63,
+              107,
+              33
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              107,
+              33
+            ]
+          }
+        },
+        {
+          "char": ".",
+          "itemId": "yuqkqfc",
+          "item": "dian",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              447,
+              98,
+              13,
+              16
+            ],
+            "rotated": false,
+            "offset": [
+              7,
+              18
+            ],
+            "size": [
+              27,
+              34
+            ]
+          }
+        },
+        {
+          "char": "w",
+          "itemId": "yuqkqfa",
+          "item": "wan",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              587,
+              185,
+              35,
+              36
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              35,
+              36
+            ]
+          }
+        },
+        {
+          "char": "e",
+          "itemId": "yuqkqf9",
+          "item": "yi",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              823,
+              103,
+              35,
+              37
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              35,
+              37
+            ]
+          }
+        }
+      ],
+      "sha256": "99c0e7792ae9ce74fe335d61c9db7a771003a3311c344076a38ab44d06d781a2"
+    },
+    {
+      "file": "assets/ui/damage/crit.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle.bin",
+      "font": "crit_font",
+      "itemId": "aftnb6",
+      "uri": "ui://80f60sriaftnb6",
+      "glyphs": [
+        {
+          "char": "s",
+          "itemId": "aftnad",
+          "item": "baoji",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              547,
+              176,
+              38,
+              45
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              38,
+              45
+            ]
+          }
+        },
+        {
+          "char": "+",
+          "itemId": "aftnaf",
+          "item": "jiahao",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              879,
+              466,
+              28,
+              34
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              28,
+              34
+            ]
+          }
+        },
+        {
+          "char": "-",
+          "itemId": "aftnae",
+          "item": "jianhao",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              815,
+              327,
+              28,
+              34
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              28,
+              34
+            ]
+          }
+        },
+        {
+          "char": "0",
+          "itemId": "aftnac",
+          "item": "shuzi0",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              905,
+              183,
+              28,
+              34
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              28,
+              34
+            ]
+          }
+        },
+        {
+          "char": "1",
+          "itemId": "aftnab",
+          "item": "shuzi1",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              714,
+              293,
+              28,
+              34
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              28,
+              34
+            ]
+          }
+        },
+        {
+          "char": "2",
+          "itemId": "aftna9",
+          "item": "shuzi2",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              755,
+              397,
+              28,
+              34
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              28,
+              34
+            ]
+          }
+        },
+        {
+          "char": "3",
+          "itemId": "aftnaa",
+          "item": "shuzi3",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              755,
+              433,
+              28,
+              34
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              28,
+              34
+            ]
+          }
+        },
+        {
+          "char": "4",
+          "itemId": "aftna5",
+          "item": "shuzi4",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              755,
+              253,
+              28,
+              34
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              28,
+              34
+            ]
+          }
+        },
+        {
+          "char": "5",
+          "itemId": "aftna6",
+          "item": "shuzi5",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              755,
+              289,
+              28,
+              34
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              28,
+              34
+            ]
+          }
+        },
+        {
+          "char": "6",
+          "itemId": "aftnah",
+          "item": "shuzi6",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              935,
+              255,
+              28,
+              34
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              28,
+              34
+            ]
+          }
+        },
+        {
+          "char": "7",
+          "itemId": "aftna8",
+          "item": "shuzi7",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              755,
+              361,
+              28,
+              34
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              28,
+              34
+            ]
+          }
+        },
+        {
+          "char": "8",
+          "itemId": "aftnag",
+          "item": "shuzi8",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              909,
+              327,
+              28,
+              34
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              28,
+              34
+            ]
+          }
+        },
+        {
+          "char": "9",
+          "itemId": "aftn8p",
+          "item": "shuzi9",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              695,
+              188,
+              28,
+              34
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              28,
+              34
+            ]
+          }
+        },
+        {
+          "char": "i",
+          "itemId": "9aeaqcq",
+          "item": "baoji_mianyishanghi",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              0,
+              64,
+              107,
+              33
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              107,
+              33
+            ]
+          }
+        },
+        {
+          "char": ".",
+          "itemId": "yuqkqf5",
+          "item": "dian",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              665,
+              276,
+              13,
+              16
+            ],
+            "rotated": false,
+            "offset": [
+              7,
+              18
+            ],
+            "size": [
+              27,
+              34
+            ]
+          }
+        },
+        {
+          "char": "w",
+          "itemId": "yuqkqf4",
+          "item": "wan",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              738,
+              111,
+              35,
+              36
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              35,
+              36
+            ]
+          }
+        },
+        {
+          "char": "e",
+          "itemId": "yuqkqf3",
+          "item": "yi",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              860,
+              64,
+              35,
+              37
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              35,
+              37
+            ]
+          }
+        }
+      ],
+      "sha256": "b9e9221f7a1e8d744b71e5efe26ce8b816e0b983ce9eb0be24b09e0ea46e2473"
+    },
+    {
+      "file": "assets/ui/damage/poison.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle.bin",
+      "font": "poison_font",
+      "itemId": "eh2hbb",
+      "uri": "ui://80f60srieh2hbb",
+      "glyphs": [
+        {
+          "char": "s",
+          "itemId": "aftn8y",
+          "item": "zhongdu",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              505,
+              191,
+              38,
+              45
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              38,
+              45
+            ]
+          }
+        },
+        {
+          "char": "+",
+          "itemId": "aftn9a",
+          "item": "jiahao",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              684,
+              224,
+              28,
+              34
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              28,
+              34
+            ]
+          }
+        },
+        {
+          "char": "-",
+          "itemId": "aftn9b",
+          "item": "jianhao",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              927,
+              147,
+              28,
+              34
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              28,
+              34
+            ]
+          }
+        },
+        {
+          "char": "0",
+          "itemId": "aftn9u",
+          "item": "shuzi0",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              665,
+              332,
+              28,
+              34
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              28,
+              34
+            ]
+          }
+        },
+        {
+          "char": "1",
+          "itemId": "aftn9t",
+          "item": "shuzi1",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              695,
+              365,
+              28,
+              34
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              28,
+              34
+            ]
+          }
+        },
+        {
+          "char": "2",
+          "itemId": "aftn9r",
+          "item": "shuzi2",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              815,
+              435,
+              28,
+              34
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              28,
+              34
+            ]
+          }
+        },
+        {
+          "char": "3",
+          "itemId": "aftn9s",
+          "item": "shuzi3",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              845,
+              466,
+              28,
+              34
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              28,
+              34
+            ]
+          }
+        },
+        {
+          "char": "4",
+          "itemId": "aftn9n",
+          "item": "shuzi4",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              785,
+              399,
+              28,
+              34
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              28,
+              34
+            ]
+          }
+        },
+        {
+          "char": "5",
+          "itemId": "aftn9o",
+          "item": "shuzi5",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              815,
+              399,
+              28,
+              34
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              28,
+              34
+            ]
+          }
+        },
+        {
+          "char": "6",
+          "itemId": "aftn9q",
+          "item": "shuzi6",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              785,
+              435,
+              28,
+              34
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              28,
+              34
+            ]
+          }
+        },
+        {
+          "char": "7",
+          "itemId": "aftn9p",
+          "item": "shuzi7",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              845,
+              430,
+              28,
+              34
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              28,
+              34
+            ]
+          }
+        },
+        {
+          "char": "8",
+          "itemId": "aftn99",
+          "item": "shuzi8",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              849,
+              178,
+              28,
+              34
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              28,
+              34
+            ]
+          }
+        },
+        {
+          "char": "9",
+          "itemId": "aftn8q",
+          "item": "shuzi9",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              739,
+              185,
+              28,
+              34
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              28,
+              34
+            ]
+          }
+        },
+        {
+          "char": "i",
+          "itemId": "9aeaqcu",
+          "item": "zhongdu_mianyishanghai",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              257,
+              32,
+              107,
+              33
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              107,
+              33
+            ]
+          }
+        },
+        {
+          "char": ".",
+          "itemId": "yuqkqev",
+          "item": "dian",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              695,
+              314,
+              13,
+              16
+            ],
+            "rotated": false,
+            "offset": [
+              7,
+              18
+            ],
+            "size": [
+              27,
+              34
+            ]
+          }
+        },
+        {
+          "char": "w",
+          "itemId": "yuqkqfe",
+          "item": "wan",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              860,
+              140,
+              35,
+              36
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              35,
+              36
+            ]
+          }
+        },
+        {
+          "char": "e",
+          "itemId": "yuqkqfd",
+          "item": "yi",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              702,
+              149,
+              35,
+              37
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              35,
+              37
+            ]
+          }
+        }
+      ],
+      "sha256": "0c61f7a15b9275c7659f1eebcae457f14a868b5a61db2793626b0a597579c45f"
+    },
+    {
+      "file": "assets/ui/damage/burn.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle.bin",
+      "font": "burn_font",
+      "itemId": "eh2hbc",
+      "uri": "ui://80f60srieh2hbc",
+      "glyphs": [
+        {
+          "char": "s",
+          "itemId": "aftn9i",
+          "item": "zhuoshao",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              409,
+              200,
+              38,
+              45
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              38,
+              45
+            ]
+          }
+        },
+        {
+          "char": "+",
+          "itemId": "aftn9k",
+          "item": "jiahao",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              785,
+              363,
+              28,
+              34
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              28,
+              34
+            ]
+          }
+        },
+        {
+          "char": "-",
+          "itemId": "aftn9j",
+          "item": "jianhao",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              785,
+              327,
+              28,
+              34
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              28,
+              34
+            ]
+          }
+        },
+        {
+          "char": "0",
+          "itemId": "aftn9h",
+          "item": "shuzi0",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              815,
+              291,
+              28,
+              34
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              28,
+              34
+            ]
+          }
+        },
+        {
+          "char": "1",
+          "itemId": "aftn9g",
+          "item": "shuzi1",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              785,
+              291,
+              28,
+              34
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              28,
+              34
+            ]
+          }
+        },
+        {
+          "char": "2",
+          "itemId": "aftn9e",
+          "item": "shuzi2",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              785,
+              255,
+              28,
+              34
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              28,
+              34
+            ]
+          }
+        },
+        {
+          "char": "3",
+          "itemId": "aftn9f",
+          "item": "shuzi3",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              815,
+              255,
+              28,
+              34
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              28,
+              34
+            ]
+          }
+        },
+        {
+          "char": "4",
+          "itemId": "aftnb5",
+          "item": "shuzi4",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              769,
+              217,
+              28,
+              34
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              28,
+              34
+            ]
+          }
+        },
+        {
+          "char": "5",
+          "itemId": "aftn9w",
+          "item": "shuzi5",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              665,
+              296,
+              28,
+              34
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              28,
+              34
+            ]
+          }
+        },
+        {
+          "char": "6",
+          "itemId": "aftn9d",
+          "item": "shuzi6",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              725,
+              401,
+              28,
+              34
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              28,
+              34
+            ]
+          }
+        },
+        {
+          "char": "7",
+          "itemId": "aftn9c",
+          "item": "shuzi7",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              725,
+              365,
+              28,
+              34
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              28,
+              34
+            ]
+          }
+        },
+        {
+          "char": "8",
+          "itemId": "aftn9l",
+          "item": "shuzi8",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              875,
+              430,
+              28,
+              34
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              28,
+              34
+            ]
+          }
+        },
+        {
+          "char": "9",
+          "itemId": "aftn9m",
+          "item": "shuzi9",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              815,
+              363,
+              28,
+              34
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              28,
+              34
+            ]
+          }
+        },
+        {
+          "char": "i",
+          "itemId": "nnowqcv",
+          "item": "zhuoshao_mianyishanghai",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              148,
+              32,
+              107,
+              33
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              107,
+              33
+            ]
+          }
+        },
+        {
+          "char": ".",
+          "itemId": "yuqkqew",
+          "item": "dian",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              1006,
+              0,
+              13,
+              16
+            ],
+            "rotated": false,
+            "offset": [
+              7,
+              18
+            ],
+            "size": [
+              27,
+              34
+            ]
+          }
+        },
+        {
+          "char": "w",
+          "itemId": "yuqkqff",
+          "item": "wan",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              775,
+              140,
+              35,
+              36
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              35,
+              36
+            ]
+          }
+        },
+        {
+          "char": "e",
+          "itemId": "yuqkqfg",
+          "item": "yi",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              775,
+              178,
+              35,
+              37
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              35,
+              37
+            ]
+          }
+        }
+      ],
+      "sha256": "bdf69cc24ee933c6a7213215a3eabcfd0ab5345e383180d762756c8fb2e14b6a"
+    },
+    {
+      "file": "assets/ui/damage/heal.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle.bin",
+      "font": "treat_font",
+      "itemId": "eh2hb9",
+      "uri": "ui://80f60srieh2hb9",
+      "glyphs": [
+        {
+          "char": "+",
+          "itemId": "aftnal",
+          "item": "jiahao",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              965,
+              219,
+              28,
+              34
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              28,
+              34
+            ]
+          }
+        },
+        {
+          "char": "-",
+          "itemId": "aftn9y",
+          "item": "jianhao",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              849,
+              250,
+              28,
+              34
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              28,
+              34
+            ]
+          }
+        },
+        {
+          "char": "0",
+          "itemId": "aftnb4",
+          "item": "shuzi0",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              725,
+              221,
+              28,
+              34
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              28,
+              34
+            ]
+          }
+        },
+        {
+          "char": "1",
+          "itemId": "aftn9x",
+          "item": "shuzi1",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              849,
+              214,
+              28,
+              34
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              28,
+              34
+            ]
+          }
+        },
+        {
+          "char": "2",
+          "itemId": "aftn97",
+          "item": "shuzi2",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              684,
+              260,
+              28,
+              34
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              28,
+              34
+            ]
+          }
+        },
+        {
+          "char": "3",
+          "itemId": "aftn9v",
+          "item": "shuzi3",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              635,
+              330,
+              28,
+              34
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              28,
+              34
+            ]
+          }
+        },
+        {
+          "char": "4",
+          "itemId": "aftn93",
+          "item": "shuzi4",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              449,
+              238,
+              28,
+              34
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              28,
+              34
+            ]
+          }
+        },
+        {
+          "char": "5",
+          "itemId": "aftn94",
+          "item": "shuzi5",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              479,
+              238,
+              28,
+              34
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              28,
+              34
+            ]
+          }
+        },
+        {
+          "char": "6",
+          "itemId": "aftn96",
+          "item": "shuzi6",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              539,
+              259,
+              28,
+              34
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              28,
+              34
+            ]
+          }
+        },
+        {
+          "char": "7",
+          "itemId": "aftn95",
+          "item": "shuzi7",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              509,
+              238,
+              28,
+              34
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              28,
+              34
+            ]
+          }
+        },
+        {
+          "char": "8",
+          "itemId": "aftnam",
+          "item": "shuzi8",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              879,
+              291,
+              28,
+              34
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              28,
+              34
+            ]
+          }
+        },
+        {
+          "char": "9",
+          "itemId": "aftnan",
+          "item": "shuzi9",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              957,
+              147,
+              28,
+              34
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              28,
+              34
+            ]
+          }
+        },
+        {
+          "char": ".",
+          "itemId": "yuqkqf8",
+          "item": "dian",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              879,
+              399,
+              13,
+              16
+            ],
+            "rotated": false,
+            "offset": [
+              7,
+              18
+            ],
+            "size": [
+              27,
+              34
+            ]
+          }
+        },
+        {
+          "char": "w",
+          "itemId": "yuqkqf7",
+          "item": "wan",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              628,
+              180,
+              35,
+              36
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              35,
+              36
+            ]
+          }
+        },
+        {
+          "char": "e",
+          "itemId": "yuqkqf6",
+          "item": "yi",
+          "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png",
+          "sprite": {
+            "atlas": "atlas0",
+            "rect": [
+              665,
+              147,
+              35,
+              37
+            ],
+            "rotated": false,
+            "offset": [
+              0,
+              0
+            ],
+            "size": [
+              35,
+              37
+            ]
+          }
+        }
+      ],
+      "sha256": "678bebfd1822ad720b43a7c4b90f7dd826675031a440e6abe3304b3372b59787"
+    }
+  ]
+}

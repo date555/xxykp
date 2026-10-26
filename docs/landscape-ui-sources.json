@@ -1,0 +1,1291 @@
+{
+  "version": "3c7b0bfc39",
+  "assets": [
+    {
+      "file": "assets/ui/game/toy-frame.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_loading\\native\\ui_loading_atlas0.png",
+      "package": "ui_loading",
+      "itemId": "en17bf5",
+      "item": "zjjx_img_wanjucao",
+      "size": [
+        130,
+        130
+      ],
+      "grid": null,
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          734,
+          543,
+          130,
+          130
+        ],
+        "rotated": false,
+        "offset": [
+          0,
+          0
+        ],
+        "size": [
+          130,
+          130
+        ]
+      },
+      "sha256": "62e7044a7bd6dac6e9d0a1ab485c366bd14bfee2d4f36fe3075ee0ceb673d7e4"
+    },
+    {
+      "file": "assets/ui/game/toy-progress.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_loading\\native\\ui_loading_atlas0.png",
+      "package": "ui_loading",
+      "itemId": "iuz0bf8",
+      "item": "zjjx_img_dutiao",
+      "size": [
+        120,
+        96
+      ],
+      "grid": null,
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          134,
+          540,
+          120,
+          96
+        ],
+        "rotated": false,
+        "offset": [
+          0,
+          0
+        ],
+        "size": [
+          120,
+          96
+        ]
+      },
+      "sha256": "794071afe425bb2a195b803948562b1a711267e5450fc5addf600867b31c148c"
+    },
+    {
+      "file": "assets/ui/game/book-blue.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_heroBook\\native\\ui_heroBook_atlas0.png",
+      "package": "ui_heroBook",
+      "itemId": "u0tsb",
+      "item": "xj_img_tujian_lan",
+      "size": [
+        205,
+        261
+      ],
+      "grid": null,
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          0,
+          0,
+          205,
+          261
+        ],
+        "rotated": false,
+        "offset": [
+          0,
+          0
+        ],
+        "size": [
+          205,
+          261
+        ]
+      },
+      "sha256": "1b90a2cc78ccff249491a28a41776d9445bff69174c7c10d0040e204d96abda4"
+    },
+    {
+      "file": "assets/ui/game/book-green.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_heroBook\\native\\ui_heroBook_atlas0.png",
+      "package": "ui_heroBook",
+      "itemId": "u0tsc",
+      "item": "xj_img_tujian_lv",
+      "size": [
+        205,
+        261
+      ],
+      "grid": null,
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          207,
+          263,
+          204,
+          261
+        ],
+        "rotated": false,
+        "offset": [
+          0,
+          0
+        ],
+        "size": [
+          205,
+          261
+        ]
+      },
+      "sha256": "a6d2a3c4902ae12a7485440a773c6b9ef1d5ceaff6dc2f8fed113e6998e3e6ce"
+    },
+    {
+      "file": "assets/ui/game/book-purple.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_heroBook\\native\\ui_heroBook_atlas0.png",
+      "package": "ui_heroBook",
+      "itemId": "u0tsd",
+      "item": "xj_img_tujian_zi",
+      "size": [
+        205,
+        261
+      ],
+      "grid": null,
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          207,
+          526,
+          204,
+          261
+        ],
+        "rotated": false,
+        "offset": [
+          0,
+          0
+        ],
+        "size": [
+          205,
+          261
+        ]
+      },
+      "sha256": "d55f934afd2f57e83a184498a1e2de8419071b3167929478e2a2a899aada23c4"
+    },
+    {
+      "file": "assets/ui/game/book-orange.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_heroBook\\native\\ui_heroBook_atlas0.png",
+      "package": "ui_heroBook",
+      "itemId": "u0tse",
+      "item": "xj_img_tujian_cheng",
+      "size": [
+        205,
+        261
+      ],
+      "grid": null,
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          0,
+          263,
+          205,
+          261
+        ],
+        "rotated": false,
+        "offset": [
+          0,
+          0
+        ],
+        "size": [
+          205,
+          261
+        ]
+      },
+      "sha256": "df59fb1051b8f90530a592d5d89888538efd0f77e0d6bfb5caf24c0aa18aa867"
+    },
+    {
+      "file": "assets/ui/game/book-red.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_heroBook\\native\\ui_heroBook_atlas0.png",
+      "package": "ui_heroBook",
+      "itemId": "u0tsf",
+      "item": "xj_img_tujian_hong",
+      "size": [
+        205,
+        261
+      ],
+      "grid": null,
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          0,
+          526,
+          205,
+          261
+        ],
+        "rotated": false,
+        "offset": [
+          0,
+          0
+        ],
+        "size": [
+          205,
+          261
+        ]
+      },
+      "sha256": "49e5f59a5447a988881856a925131e0881aee222ac77602b7c0d6c2059265b59"
+    },
+    {
+      "file": "assets/ui/game/book-gold.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_heroBook\\native\\ui_heroBook_atlas0.png",
+      "package": "ui_heroBook",
+      "itemId": "u0tsg",
+      "item": "xj_img_tujian_jin",
+      "size": [
+        205,
+        261
+      ],
+      "grid": null,
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          207,
+          0,
+          205,
+          261
+        ],
+        "rotated": false,
+        "offset": [
+          0,
+          0
+        ],
+        "size": [
+          205,
+          261
+        ]
+      },
+      "sha256": "23a9b11e5308afda7f7fd98d9a5389c7d366d25ea97d61ce36b76bce88337c00"
+    },
+    {
+      "file": "assets/ui/game/book-locked.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_heroBook\\native\\ui_heroBook_atlas0.png",
+      "package": "ui_heroBook",
+      "itemId": "u0tsl",
+      "item": "xj_img9_weijihuodi",
+      "size": [
+        170,
+        50
+      ],
+      "grid": null,
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          0,
+          841,
+          170,
+          50
+        ],
+        "rotated": false,
+        "offset": [
+          0,
+          0
+        ],
+        "size": [
+          170,
+          50
+        ]
+      },
+      "sha256": "82dfe73df820745557e8778da566f70f3ca45bd9963dcce80c4f626d03924dbc"
+    },
+    {
+      "file": "assets/ui/game/book-active.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_heroBook\\native\\ui_heroBook_atlas0.png",
+      "package": "ui_heroBook",
+      "itemId": "u0tsm",
+      "item": "xj_img9_yijihuodi",
+      "size": [
+        170,
+        50
+      ],
+      "grid": null,
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          0,
+          789,
+          170,
+          50
+        ],
+        "rotated": false,
+        "offset": [
+          0,
+          0
+        ],
+        "size": [
+          170,
+          50
+        ]
+      },
+      "sha256": "0a9ff0f1a8cf680db4494e9958920e2ff83dd58f5ec693923c56e3850502b027"
+    },
+    {
+      "file": "assets/ui/game/nav-formation.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_heroList\\native\\ui_heroList_atlas0.png",
+      "package": "ui_heroList",
+      "itemId": "u0ts4",
+      "item": "xj_icon_buzhen",
+      "size": [
+        39,
+        36
+      ],
+      "grid": null,
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          134,
+          211,
+          37,
+          32
+        ],
+        "rotated": false,
+        "offset": [
+          1,
+          2
+        ],
+        "size": [
+          39,
+          36
+        ]
+      },
+      "sha256": "82f9d699045f6ef36aaf6c48fe57f6f8d7665ef4bd507b8d177be43adc5757ee"
+    },
+    {
+      "file": "assets/ui/game/nav-book.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_heroList\\native\\ui_heroList_atlas0.png",
+      "package": "ui_heroList",
+      "itemId": "u0ts5",
+      "item": "xj_icon_tujian",
+      "size": [
+        39,
+        36
+      ],
+      "grid": null,
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          173,
+          218,
+          34,
+          28
+        ],
+        "rotated": false,
+        "offset": [
+          3,
+          4
+        ],
+        "size": [
+          39,
+          36
+        ]
+      },
+      "sha256": "5972b1c392f0be9069c1248ee98d74eaac548101bab8b4699f2207bd81650d6b"
+    },
+    {
+      "file": "assets/ui/game/nav-heroes.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_heroList\\native\\ui_heroList_atlas0.png",
+      "package": "ui_heroList",
+      "itemId": "u0ts7",
+      "item": "xj_icon_xianjiangku",
+      "size": [
+        39,
+        36
+      ],
+      "grid": null,
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          76,
+          218,
+          32,
+          21
+        ],
+        "rotated": false,
+        "offset": [
+          4,
+          8
+        ],
+        "size": [
+          39,
+          36
+        ]
+      },
+      "sha256": "2a9a9d9c7ab95361dec171a80e798cdf4055da4970b17e60c53d0162f49a5ac0"
+    },
+    {
+      "file": "assets/ui/game/nav-settings.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_heroList\\native\\ui_heroList_atlas0.png",
+      "package": "ui_heroList",
+      "itemId": "u0tsa",
+      "item": "xj_icon_shezhi",
+      "size": [
+        39,
+        36
+      ],
+      "grid": null,
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          41,
+          218,
+          33,
+          32
+        ],
+        "rotated": false,
+        "offset": [
+          3,
+          2
+        ],
+        "size": [
+          39,
+          36
+        ]
+      },
+      "sha256": "eabcbe92fce52af0faf2cf6b0147371f6a5e4ab918d3577dd99c9893a75ed745"
+    },
+    {
+      "file": "assets/ui/game/nav-toy.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_heroList\\native\\ui_heroList_atlas0.png",
+      "package": "ui_heroList",
+      "itemId": "twhdp",
+      "item": "xj_icon_wanju",
+      "size": [
+        80,
+        80
+      ],
+      "grid": null,
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          134,
+          147,
+          64,
+          62
+        ],
+        "rotated": false,
+        "offset": [
+          8,
+          9
+        ],
+        "size": [
+          80,
+          80
+        ]
+      },
+      "sha256": "c016396d664c20a363f24a953f740320e38d04c34b7f9645f42d78df04973daf"
+    },
+    {
+      "file": "assets/ui/game/nav-recruit.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_main\\native\\ui_main_atlas0.png",
+      "package": "ui_main",
+      "itemId": "ooigbid",
+      "item": "zd_icon_zhaomu",
+      "size": [
+        80,
+        80
+      ],
+      "grid": null,
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          0,
+          777,
+          78,
+          79
+        ],
+        "rotated": false,
+        "offset": [
+          2,
+          1
+        ],
+        "size": [
+          80,
+          80
+        ]
+      },
+      "sha256": "42ee6f60d94e90e5f7f7e6774be8392593bdf3396340c7ac5a3dbdcb66e85be1"
+    },
+    {
+      "file": "assets/ui/game/round-base.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_main\\native\\ui_main_atlas0.png",
+      "package": "ui_main",
+      "itemId": "qorjbeb",
+      "item": "zd_img_yuananniudi",
+      "size": [
+        91,
+        92
+      ],
+      "grid": null,
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          468,
+          519,
+          91,
+          92
+        ],
+        "rotated": false,
+        "offset": [
+          0,
+          0
+        ],
+        "size": [
+          91,
+          92
+        ]
+      },
+      "sha256": "6faa082e98d2925a0041a35b3e93adbdf25f31f371374aff75c841a431d4bcd0"
+    },
+    {
+      "file": "assets/ui/game/round-progress.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_main\\native\\ui_main_atlas0.png",
+      "package": "ui_main",
+      "itemId": "qorjbec",
+      "item": "zd_img_yuananniudutiao",
+      "size": [
+        83,
+        84
+      ],
+      "grid": null,
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          777,
+          485,
+          83,
+          84
+        ],
+        "rotated": false,
+        "offset": [
+          0,
+          0
+        ],
+        "size": [
+          83,
+          84
+        ]
+      },
+      "sha256": "000f12fe1e4b5c81898dfad23d6732570b8a41570a50f11d20aea48fc4241ef5"
+    },
+    {
+      "file": "assets/ui/game/battle-red.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battleScene\\native\\ui_battleScene_atlas0.png",
+      "package": "ui_battleScene",
+      "itemId": "n9fm6",
+      "item": "xjt_img_hongdi",
+      "size": [
+        127,
+        112
+      ],
+      "grid": null,
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          1558,
+          696,
+          127,
+          112
+        ],
+        "rotated": false,
+        "offset": [
+          0,
+          0
+        ],
+        "size": [
+          127,
+          112
+        ]
+      },
+      "sha256": "8ecf94a35e548be975d32cdd4797cc7d8d4524e58e739a754260808d0dc0496f"
+    },
+    {
+      "file": "assets/ui/game/battle-green.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battleScene\\native\\ui_battleScene_atlas0.png",
+      "package": "ui_battleScene",
+      "itemId": "n9fm7",
+      "item": "xjt_img_lvdi",
+      "size": [
+        127,
+        112
+      ],
+      "grid": null,
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          1699,
+          659,
+          127,
+          112
+        ],
+        "rotated": false,
+        "offset": [
+          0,
+          0
+        ],
+        "size": [
+          127,
+          112
+        ]
+      },
+      "sha256": "dbd5b5ebc4937372e11ca18e3ce6c847143cf6082fe401fab511a8b95c377bc6"
+    },
+    {
+      "file": "assets/ui/game/speed-one.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battleScene\\native\\ui_battleScene_atlas0.png",
+      "package": "ui_battleScene",
+      "itemId": "n9fm8",
+      "item": "xjt_img_x1",
+      "size": [
+        76,
+        74
+      ],
+      "grid": null,
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          1712,
+          1368,
+          69,
+          68
+        ],
+        "rotated": false,
+        "offset": [
+          4,
+          3
+        ],
+        "size": [
+          76,
+          74
+        ]
+      },
+      "sha256": "4d0dc027b6ae84ab37705b38a2297fcbf504e1bb63e3957e868bb0a837e27316"
+    },
+    {
+      "file": "assets/ui/game/speed-two.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battleScene\\native\\ui_battleScene_atlas0.png",
+      "package": "ui_battleScene",
+      "itemId": "n9fm9",
+      "item": "xjt_img_x2",
+      "size": [
+        76,
+        74
+      ],
+      "grid": null,
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          1558,
+          1584,
+          76,
+          68
+        ],
+        "rotated": false,
+        "offset": [
+          0,
+          3
+        ],
+        "size": [
+          76,
+          74
+        ]
+      },
+      "sha256": "ab97f9af8d64ee356f964d52180881672a397ea6e1be822af5c9aba4cb6e9067"
+    },
+    {
+      "file": "assets/ui/game/timer-gold.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battleScene\\native\\ui_battleScene_atlas0.png",
+      "package": "ui_battleScene",
+      "itemId": "n9fme",
+      "item": "xjt_img_daojishidi_huang",
+      "size": [
+        125,
+        126
+      ],
+      "grid": null,
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          1921,
+          341,
+          125,
+          126
+        ],
+        "rotated": false,
+        "offset": [
+          0,
+          0
+        ],
+        "size": [
+          125,
+          126
+        ]
+      },
+      "sha256": "02ff082c248fd3ccfdbd8247ff73eef30e15b682454f921f4f557f4ed23d982d"
+    },
+    {
+      "file": "assets/ui/game/timer-white.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battleScene\\native\\ui_battleScene_atlas0.png",
+      "package": "ui_battleScene",
+      "itemId": "n9fmf",
+      "item": "xjt_img_daojishidi_bai",
+      "size": [
+        125,
+        126
+      ],
+      "grid": null,
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          1921,
+          469,
+          125,
+          126
+        ],
+        "rotated": false,
+        "offset": [
+          0,
+          0
+        ],
+        "size": [
+          125,
+          126
+        ]
+      },
+      "sha256": "9fecc1992dfe1e057e151504cd8477c1294ab6d67e669f79841d28ab024e7c1c"
+    },
+    {
+      "file": "assets/ui/game/timer-glow.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battleScene\\native\\ui_battleScene_atlas0.png",
+      "package": "ui_battleScene",
+      "itemId": "n9fmh",
+      "item": "xjt_img_daojishidi_guangxing",
+      "size": [
+        110,
+        110
+      ],
+      "grid": null,
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          1687,
+          773,
+          110,
+          110
+        ],
+        "rotated": false,
+        "offset": [
+          0,
+          0
+        ],
+        "size": [
+          110,
+          110
+        ]
+      },
+      "sha256": "a943a28946cf09d4cbd122bdfa3e7ccf583600c049fcba04ec86ca22df755fc6"
+    },
+    {
+      "file": "assets/ui/game/battle-bar.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battleScene\\native\\ui_battleScene_atlas0.png",
+      "package": "ui_battleScene",
+      "itemId": "l412n9n",
+      "item": "sdsl_img_zhandoudi",
+      "size": [
+        686,
+        82
+      ],
+      "grid": null,
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          0,
+          1626,
+          686,
+          82
+        ],
+        "rotated": false,
+        "offset": [
+          0,
+          0
+        ],
+        "size": [
+          686,
+          82
+        ]
+      },
+      "sha256": "7ebf03e792970d557a32c8c127c59afec998597fc813115824e87bf2a655b2c1"
+    },
+    {
+      "file": "assets/ui/game/control-base.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battleScene\\native\\ui_battleScene_atlas0.png",
+      "package": "ui_battleScene",
+      "itemId": "sh7on5o",
+      "item": "sdsl_img9_anniudi",
+      "size": [
+        48,
+        48
+      ],
+      "grid": [
+        17,
+        22,
+        7,
+        7
+      ],
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          1588,
+          1674,
+          48,
+          48
+        ],
+        "rotated": false,
+        "offset": [
+          0,
+          0
+        ],
+        "size": [
+          48,
+          48
+        ]
+      },
+      "sha256": "dec3528af7a1216c68d381a2311135bcf60b3c288617127d34abb14d522f68aa"
+    },
+    {
+      "file": "assets/ui/game/choice-white.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_levelWeapon\\native\\ui_levelWeapon_atlas0.png",
+      "package": "ui_levelWeapon",
+      "itemId": "c2rtt",
+      "item": "gkjn_img_dibai",
+      "size": [
+        229,
+        318
+      ],
+      "grid": null,
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          705,
+          108,
+          229,
+          318
+        ],
+        "rotated": false,
+        "offset": [
+          0,
+          0
+        ],
+        "size": [
+          229,
+          318
+        ]
+      },
+      "sha256": "bb3ae38fb22bf2b54bb57c65734259a72a637f296573e304c712b30abd68eeee"
+    },
+    {
+      "file": "assets/ui/game/choice-red.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_levelWeapon\\native\\ui_levelWeapon_atlas0.png",
+      "package": "ui_levelWeapon",
+      "itemId": "c2rtu",
+      "item": "gkjn_img_dihong",
+      "size": [
+        229,
+        318
+      ],
+      "grid": null,
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          231,
+          360,
+          229,
+          318
+        ],
+        "rotated": false,
+        "offset": [
+          0,
+          0
+        ],
+        "size": [
+          229,
+          318
+        ]
+      },
+      "sha256": "dac7c3f73059c8ca3e7dea803d85262379e05a489697b0f5a82f3a4f06c57dfb"
+    },
+    {
+      "file": "assets/ui/game/choice-gold.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_levelWeapon\\native\\ui_levelWeapon_atlas0.png",
+      "package": "ui_levelWeapon",
+      "itemId": "c2rtv",
+      "item": "gkjn_img_dihuang",
+      "size": [
+        229,
+        318
+      ],
+      "grid": null,
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          0,
+          136,
+          229,
+          318
+        ],
+        "rotated": false,
+        "offset": [
+          0,
+          0
+        ],
+        "size": [
+          229,
+          318
+        ]
+      },
+      "sha256": "1c1aa55e8154ca7359ec14ea12a21d63b202765086c74630b203fb65614752a0"
+    },
+    {
+      "file": "assets/ui/game/paper.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0_1.png",
+      "package": "ui_common",
+      "itemId": "vmy0fs",
+      "item": "gyzy_img9_zhizhangdi",
+      "size": [
+        125,
+        52
+      ],
+      "grid": [
+        57,
+        18,
+        15,
+        16
+      ],
+      "sprite": {
+        "atlas": "atlas100",
+        "rect": [
+          551,
+          1958,
+          125,
+          52
+        ],
+        "rotated": false,
+        "offset": [
+          0,
+          0
+        ],
+        "size": [
+          125,
+          52
+        ]
+      },
+      "sha256": "7938b38544475caf971d4a28f7d8aba22222919633e10924ceedba5520aed064"
+    },
+    {
+      "file": "assets/ui/game/list-dark.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png",
+      "package": "ui_common",
+      "itemId": "94w3e2",
+      "item": "xj_img9_liebiaoandi",
+      "size": [
+        8,
+        8
+      ],
+      "grid": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          1163,
+          185,
+          8,
+          8
+        ],
+        "rotated": false,
+        "offset": [
+          0,
+          0
+        ],
+        "size": [
+          8,
+          8
+        ]
+      },
+      "sha256": "0905aa363f4cb0c947f28cbff56603f34ea20c89ae5f28cc58c242fbdf0cdae2"
+    },
+    {
+      "file": "assets/ui/game/list-light.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png",
+      "package": "ui_common",
+      "itemId": "94w3e3",
+      "item": "xj_img9_liebiaodi",
+      "size": [
+        8,
+        8
+      ],
+      "grid": [
+        3,
+        3,
+        2,
+        2
+      ],
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          1304,
+          489,
+          8,
+          8
+        ],
+        "rotated": false,
+        "offset": [
+          0,
+          0
+        ],
+        "size": [
+          8,
+          8
+        ]
+      },
+      "sha256": "2ca8c77cfc4dc5883e36436f0efa968c84cee50288a58654cf5136c6c644d61d"
+    },
+    {
+      "file": "assets/ui/game/panel.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png",
+      "package": "ui_common",
+      "itemId": "94w3e4",
+      "item": "xj_img9_zhjuedi",
+      "size": [
+        8,
+        8
+      ],
+      "grid": [
+        3,
+        3,
+        2,
+        2
+      ],
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          630,
+          136,
+          8,
+          8
+        ],
+        "rotated": false,
+        "offset": [
+          0,
+          0
+        ],
+        "size": [
+          8,
+          8
+        ]
+      },
+      "sha256": "8bd12d115571f7f171de948b31f42f39c35fe6ae163e27b049c790df824604a4"
+    },
+    {
+      "file": "assets/ui/game/dark-panel.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png",
+      "package": "ui_common",
+      "itemId": "toni1f",
+      "item": "gyzy_img9_heidi",
+      "size": [
+        12,
+        12
+      ],
+      "grid": [
+        3,
+        3,
+        3,
+        2
+      ],
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          1015,
+          661,
+          12,
+          12
+        ],
+        "rotated": false,
+        "offset": [
+          0,
+          0
+        ],
+        "size": [
+          12,
+          12
+        ]
+      },
+      "sha256": "39ca8e023c5056587b3d53ea1f5e4aaf4f665933384f71f999e9c5e8fce2b421"
+    },
+    {
+      "file": "assets/ui/game/resource-base.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png",
+      "package": "ui_common",
+      "itemId": "bqteap",
+      "item": "gyzy_img_ziyuandi",
+      "size": [
+        80,
+        44
+      ],
+      "grid": [
+        20,
+        11,
+        40,
+        22
+      ],
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          406,
+          260,
+          80,
+          44
+        ],
+        "rotated": false,
+        "offset": [
+          0,
+          0
+        ],
+        "size": [
+          80,
+          44
+        ]
+      },
+      "sha256": "9874a882ff5d1136f02168f54f0f9f1d20c3f706949712c43c5e6a945878b7b3"
+    },
+    {
+      "file": "assets/ui/game/item-base.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png",
+      "package": "ui_common",
+      "itemId": "x8yqdp",
+      "item": "tc_img9_zhuangbeidi",
+      "size": [
+        40,
+        40
+      ],
+      "grid": [
+        16,
+        15,
+        9,
+        11
+      ],
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          1166,
+          982,
+          40,
+          40
+        ],
+        "rotated": false,
+        "offset": [
+          0,
+          0
+        ],
+        "size": [
+          40,
+          40
+        ]
+      },
+      "sha256": "ebb757821347d5d787b5bd42ca04015087b24c391a9bb02c0549bda4e17cee47"
+    },
+    {
+      "file": "assets/ui/game/clock.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png",
+      "package": "ui_common",
+      "itemId": "owwk9uwbmw",
+      "item": "gyzy_icon_shijian",
+      "size": [
+        34,
+        34
+      ],
+      "grid": null,
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          1194,
+          669,
+          32,
+          32
+        ],
+        "rotated": false,
+        "offset": [
+          1,
+          1
+        ],
+        "size": [
+          34,
+          34
+        ]
+      },
+      "sha256": "428c475b0826683e75541195d8594aa17447f2e49970f457ba2bdde8812c7b98"
+    },
+    {
+      "file": "assets/ui/game/lock.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png",
+      "package": "ui_common",
+      "itemId": "st219uwbse",
+      "item": "kfhd_icon_suo",
+      "size": [
+        27,
+        32
+      ],
+      "grid": null,
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          1295,
+          845,
+          27,
+          32
+        ],
+        "rotated": false,
+        "offset": [
+          0,
+          0
+        ],
+        "size": [
+          27,
+          32
+        ]
+      },
+      "sha256": "3a1b73466a1ffec6e72feed8658bef0bb653bdb0b50a98da6d50a51d1474873b"
+    },
+    {
+      "file": "assets/ui/game/search.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png",
+      "package": "ui_common",
+      "itemId": "rqsq1v6f5dv",
+      "item": "gyzy_icon_sousuo",
+      "size": [
+        24,
+        27
+      ],
+      "grid": null,
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          1278,
+          145,
+          24,
+          27
+        ],
+        "rotated": false,
+        "offset": [
+          0,
+          0
+        ],
+        "size": [
+          24,
+          27
+        ]
+      },
+      "sha256": "91e33565b6ad4189f2489b366a5e4fc6c08aecced66824dfdc0036e2287fa20e"
+    }
+  ],
+  "components": [
+    "ui_loading/WeaponSkillSlot",
+    "ui_loading/WeaponSkillProgress",
+    "ui_heroBook/HeroBookSlot"
+  ],
+  "adaptation": "原版图集切片；网页重排为横屏。原版玩具能量百分比改为本作冷却剩余秒数，蓄满后可释放。"
+}

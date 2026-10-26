@@ -1,0 +1,5246 @@
+[
+  {
+    "bundle": "ui_common",
+    "id": "cp5lge",
+    "item": {
+      "type": 0,
+      "id": "cp5lge",
+      "name": "gyzy_btn_guanbi2",
+      "file": null,
+      "w": 119,
+      "h": 122,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas100",
+      "rect": [
+        1650,
+        1843,
+        119,
+        122
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        119,
+        122
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0_1.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "d6rqw",
+    "item": {
+      "type": 0,
+      "id": "d6rqw",
+      "name": "xzq_btn_xiexia",
+      "file": null,
+      "w": 76,
+      "h": 76,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        411,
+        738,
+        76,
+        76
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        76,
+        76
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "eapi1v6f4jb",
+    "item": {
+      "type": 0,
+      "id": "eapi1v6f4jb",
+      "name": "zjjx_btn_xiexia",
+      "file": null,
+      "w": 105,
+      "h": 105,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        1,
+        223,
+        105,
+        105
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        105,
+        105
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "eo0l1v6f4mx",
+    "item": {
+      "type": 0,
+      "id": "eo0l1v6f4mx",
+      "name": "xj_btn_ling",
+      "file": null,
+      "w": 59,
+      "h": 72,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        776,
+        60,
+        59,
+        72
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        59,
+        72
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "f3di9t",
+    "item": {
+      "type": 0,
+      "id": "f3di9t",
+      "name": "xj_btn_quanbu",
+      "file": null,
+      "w": 59,
+      "h": 72,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        815,
+        823,
+        59,
+        72
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        59,
+        72
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "f3di9y",
+    "item": {
+      "type": 0,
+      "id": "f3di9y",
+      "name": "xj_btn_zuhe",
+      "file": null,
+      "w": 59,
+      "h": 72,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        837,
+        134,
+        59,
+        72
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        59,
+        72
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "fonedv",
+    "item": {
+      "type": 0,
+      "id": "fonedv",
+      "name": "gyzy_img_touxiangkuang_jin",
+      "file": null,
+      "w": 204,
+      "h": 101,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas100",
+      "rect": [
+        233,
+        1442,
+        204,
+        101
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        204,
+        101
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0_1.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "fonedw",
+    "item": {
+      "type": 0,
+      "id": "fonedw",
+      "name": "gyzy_img_touxiangkuang_zi",
+      "file": null,
+      "w": 204,
+      "h": 101,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas100",
+      "rect": [
+        788,
+        1437,
+        204,
+        101
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        204,
+        101
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0_1.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "g7br1v6f4j0",
+    "item": {
+      "type": 0,
+      "id": "g7br1v6f4j0",
+      "name": "gyzy_btn_xiangqing",
+      "file": null,
+      "w": 26,
+      "h": 28,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        1177,
+        312,
+        26,
+        28
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        26,
+        28
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "jvgxfv",
+    "item": {
+      "type": 0,
+      "id": "jvgxfv",
+      "name": "gyzy_btn_bghe",
+      "file": null,
+      "w": 245,
+      "h": 234,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas100",
+      "rect": [
+        1145,
+        1115,
+        244,
+        222
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        7
+      ],
+      "size": [
+        245,
+        234
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0_1.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "jvgxfw",
+    "item": {
+      "type": 0,
+      "id": "jvgxfw",
+      "name": "gyzy_btn_bghuang",
+      "file": null,
+      "w": 245,
+      "h": 234,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas100",
+      "rect": [
+        300,
+        883,
+        245,
+        234
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        245,
+        234
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0_1.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "jvgxfx",
+    "item": {
+      "type": 0,
+      "id": "jvgxfx",
+      "name": "gyzy_btn_bglv",
+      "file": null,
+      "w": 245,
+      "h": 234,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas100",
+      "rect": [
+        1145,
+        880,
+        244,
+        233
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        1
+      ],
+      "size": [
+        245,
+        234
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0_1.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "l01xb",
+    "item": {
+      "type": 0,
+      "id": "l01xb",
+      "name": "znq_btn_lijiqianwang",
+      "file": null,
+      "w": 328,
+      "h": 163,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas100",
+      "rect": [
+        753,
+        633,
+        328,
+        163
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        328,
+        163
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0_1.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "lvhygp",
+    "item": {
+      "type": 0,
+      "id": "lvhygp",
+      "name": "gyzy_img_touxiangkuang_cheng",
+      "file": null,
+      "w": 204,
+      "h": 101,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas100",
+      "rect": [
+        233,
+        1545,
+        204,
+        101
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        204,
+        101
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0_1.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "m0gf1v6f5e1",
+    "item": {
+      "type": 0,
+      "id": "m0gf1v6f5e1",
+      "name": "zbg_btn_jin",
+      "file": null,
+      "w": 161,
+      "h": 45,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas100",
+      "rect": [
+        827,
+        1742,
+        161,
+        45
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        161,
+        45
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0_1.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "m73n1v6f4iu",
+    "item": {
+      "type": 0,
+      "id": "m73n1v6f4iu",
+      "name": "gyzy_btn_fuzhi",
+      "file": null,
+      "w": 32,
+      "h": 33,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        1194,
+        703,
+        32,
+        33
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        32,
+        33
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "mceb1v6f4id",
+    "item": {
+      "type": 0,
+      "id": "mceb1v6f4id",
+      "name": "gyzy_btn_wjh2",
+      "file": null,
+      "w": 141,
+      "h": 88,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas100",
+      "rect": [
+        1764,
+        732,
+        141,
+        88
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        141,
+        88
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0_1.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "mceb1v6f4ie",
+    "item": {
+      "type": 0,
+      "id": "mceb1v6f4ie",
+      "name": "gyzy_btn_jh2",
+      "file": null,
+      "w": 143,
+      "h": 97,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas100",
+      "rect": [
+        999,
+        1216,
+        143,
+        97
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        143,
+        97
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0_1.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "mceb1v6f4if",
+    "item": {
+      "type": 0,
+      "id": "mceb1v6f4if",
+      "name": "gyzy_btn_diban",
+      "file": null,
+      "w": 66,
+      "h": 88,
+      "grid": [
+        33,
+        22,
+        5,
+        44
+      ],
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        642,
+        77,
+        66,
+        88
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        66,
+        88
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "nuo71v6f4kj",
+    "item": {
+      "type": 0,
+      "id": "nuo71v6f4kj",
+      "name": "grxx_btn_xianshi",
+      "file": null,
+      "w": 44,
+      "h": 42,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        1131,
+        103,
+        44,
+        42
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        44,
+        42
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "nuo71v6f4kk",
+    "item": {
+      "type": 0,
+      "id": "nuo71v6f4kk",
+      "name": "grxx_btn_yincang",
+      "file": null,
+      "w": 44,
+      "h": 42,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        1062,
+        269,
+        44,
+        42
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        44,
+        42
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "o3uvuwbhz",
+    "item": {
+      "type": 0,
+      "id": "o3uvuwbhz",
+      "name": "lt_btn_laba",
+      "file": null,
+      "w": 39,
+      "h": 28,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        1049,
+        468,
+        39,
+        28
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        39,
+        28
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "psiouwbhs",
+    "item": {
+      "type": 0,
+      "id": "psiouwbhs",
+      "name": "xj_btn_ling",
+      "file": null,
+      "w": 59,
+      "h": 72,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        772,
+        325,
+        59,
+        72
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        59,
+        72
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "qappwbgm",
+    "item": {
+      "type": 0,
+      "id": "qappwbgm",
+      "name": "gyzy_btn_smhong",
+      "file": null,
+      "w": 71,
+      "h": 66,
+      "grid": [
+        17,
+        16,
+        34,
+        32
+      ],
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        556,
+        493,
+        71,
+        66
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        71,
+        66
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "qappwbgn",
+    "item": {
+      "type": 0,
+      "id": "qappwbgn",
+      "name": "gyzy_btn_smcheng",
+      "file": null,
+      "w": 71,
+      "h": 66,
+      "grid": [
+        17,
+        16,
+        34,
+        32
+      ],
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        555,
+        629,
+        71,
+        66
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        71,
+        66
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "qggc2m",
+    "item": {
+      "type": 0,
+      "id": "qggc2m",
+      "name": "anniu_guanbi_tanchuang",
+      "file": null,
+      "w": 123,
+      "h": 120,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas100",
+      "rect": [
+        1784,
+        1713,
+        123,
+        120
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        123,
+        120
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0_1.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "s933gf",
+    "item": {
+      "type": 0,
+      "id": "s933gf",
+      "name": "gyzy_btn_smhuang",
+      "file": null,
+      "w": 71,
+      "h": 66,
+      "grid": [
+        17,
+        16,
+        34,
+        32
+      ],
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        489,
+        737,
+        71,
+        66
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        71,
+        66
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "sj6y1v6f5j3",
+    "item": {
+      "type": 0,
+      "id": "sj6y1v6f5j3",
+      "name": "cw_img_zhandougolden",
+      "file": null,
+      "w": 131,
+      "h": 139,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas100",
+      "rect": [
+        1133,
+        1891,
+        131,
+        139
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        131,
+        139
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0_1.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "uejm1v6f4k8",
+    "item": {
+      "type": 0,
+      "id": "uejm1v6f4k8",
+      "name": "grxx_btn_xiuggai",
+      "file": null,
+      "w": 79,
+      "h": 43,
+      "grid": [
+        48,
+        10,
+        8,
+        20
+      ],
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        414,
+        306,
+        79,
+        43
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        79,
+        43
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "uejm1v6f4k9",
+    "item": {
+      "type": 0,
+      "id": "uejm1v6f4k9",
+      "name": "grxx_btn_qingchu",
+      "file": null,
+      "w": 79,
+      "h": 43,
+      "grid": [
+        47,
+        10,
+        9,
+        20
+      ],
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        488,
+        260,
+        79,
+        43
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        79,
+        43
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "uejm1v6f4kc",
+    "item": {
+      "type": 0,
+      "id": "uejm1v6f4kc",
+      "name": "gyzy_btn_suodingguanli",
+      "file": null,
+      "w": 37,
+      "h": 35,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        1101,
+        313,
+        37,
+        35
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        37,
+        35
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "10bun1v6f4ir",
+    "item": {
+      "type": 0,
+      "id": "10bun1v6f4ir",
+      "name": "gyzy_btn_smcheng_jian2",
+      "file": null,
+      "w": 39,
+      "h": 26,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        1208,
+        982,
+        39,
+        26
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        39,
+        26
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "11sii5",
+    "item": {
+      "type": 0,
+      "id": "11sii5",
+      "name": "gyzy_btn_huangsexiaowenhao",
+      "file": null,
+      "w": 21,
+      "h": 37,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        1319,
+        170,
+        21,
+        37
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        21,
+        37
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "7tug1i",
+    "item": {
+      "type": 0,
+      "id": "7tug1i",
+      "name": "jjc_btn_zhandouanniu",
+      "file": null,
+      "w": 186,
+      "h": 163,
+      "grid": [
+        97,
+        72,
+        21,
+        34
+      ],
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas100",
+      "rect": [
+        1576,
+        664,
+        186,
+        163
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        186,
+        163
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0_1.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "7tug1j",
+    "item": {
+      "type": 0,
+      "id": "7tug1j",
+      "name": "jjc_btn_zhandouanniu2",
+      "file": null,
+      "w": 186,
+      "h": 163,
+      "grid": [
+        93,
+        84,
+        25,
+        22
+      ],
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas100",
+      "rect": [
+        1717,
+        438,
+        186,
+        163
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        186,
+        163
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0_1.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "7tug1n",
+    "item": {
+      "type": 0,
+      "id": "7tug1n",
+      "name": "gyzy_btn_huangsexiao",
+      "file": null,
+      "w": 62,
+      "h": 68,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        625,
+        767,
+        62,
+        68
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        62,
+        68
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "92lc1v6f4n4",
+    "item": {
+      "type": 0,
+      "id": "92lc1v6f4n4",
+      "name": "gyzy_btn_shanchu",
+      "file": null,
+      "w": 30,
+      "h": 31,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        1234,
+        919,
+        30,
+        31
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        30,
+        31
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "94w3dx",
+    "item": {
+      "type": 0,
+      "id": "94w3dx",
+      "name": "gyzy_btn_cyhuangse",
+      "file": null,
+      "w": 174,
+      "h": 108,
+      "grid": [
+        59,
+        43,
+        57,
+        20
+      ],
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas100",
+      "rect": [
+        1408,
+        1422,
+        174,
+        108
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        174,
+        108
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0_1.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "94w3dy",
+    "item": {
+      "type": 0,
+      "id": "94w3dy",
+      "name": "gyzy_btn_cylvse",
+      "file": null,
+      "w": 174,
+      "h": 108,
+      "grid": [
+        43,
+        27,
+        86,
+        54
+      ],
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas100",
+      "rect": [
+        1408,
+        1532,
+        174,
+        108
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        174,
+        108
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0_1.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "94w3dz",
+    "item": {
+      "type": 0,
+      "id": "94w3dz",
+      "name": "gyzy_btn_hese",
+      "file": null,
+      "w": 184,
+      "h": 109,
+      "grid": [
+        46,
+        27,
+        92,
+        54
+      ],
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas100",
+      "rect": [
+        1408,
+        1311,
+        184,
+        109
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        184,
+        109
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0_1.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "94w3e0",
+    "item": {
+      "type": 0,
+      "id": "94w3e0",
+      "name": "gyzy_btn_huangse",
+      "file": null,
+      "w": 184,
+      "h": 109,
+      "grid": [
+        46,
+        27,
+        92,
+        54
+      ],
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas100",
+      "rect": [
+        1577,
+        1089,
+        184,
+        109
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        184,
+        109
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0_1.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "94w3e1",
+    "item": {
+      "type": 0,
+      "id": "94w3e1",
+      "name": "gyzy_btn_lvse",
+      "file": null,
+      "w": 184,
+      "h": 109,
+      "grid": [
+        46,
+        27,
+        92,
+        54
+      ],
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas100",
+      "rect": [
+        1391,
+        1200,
+        184,
+        109
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        184,
+        109
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0_1.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "9m0y9uwbms",
+    "item": {
+      "type": 0,
+      "id": "9m0y9uwbms",
+      "name": "dengshen_map_star2",
+      "file": null,
+      "w": 170,
+      "h": 169,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas100",
+      "rect": [
+        1181,
+        1597,
+        170,
+        169
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        170,
+        169
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0_1.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "9m0y9uwbmt",
+    "item": {
+      "type": 0,
+      "id": "9m0y9uwbmt",
+      "name": "dengshen_map_star3",
+      "file": null,
+      "w": 168,
+      "h": 148,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas100",
+      "rect": [
+        1584,
+        1422,
+        168,
+        148
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        168,
+        148
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0_1.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "9m0y9uwbmu",
+    "item": {
+      "type": 0,
+      "id": "9m0y9uwbmu",
+      "name": "dengshen_map_star1",
+      "file": null,
+      "w": 42,
+      "h": 43,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        1046,
+        502,
+        42,
+        43
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        42,
+        43
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "c01ibeo",
+    "item": {
+      "type": 0,
+      "id": "c01ibeo",
+      "name": "gyzy_btn_jiahao2",
+      "file": null,
+      "w": 60,
+      "h": 59,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        775,
+        193,
+        60,
+        59
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        60,
+        59
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "d68guwbho",
+    "item": {
+      "type": 0,
+      "id": "d68guwbho",
+      "name": "gyzy_btn9_tipsct",
+      "file": null,
+      "w": 48,
+      "h": 42,
+      "grid": [
+        20,
+        0,
+        6,
+        42
+      ],
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        968,
+        954,
+        48,
+        42
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        48,
+        42
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "dize1v6f4lk",
+    "item": {
+      "type": 0,
+      "id": "dize1v6f4lk",
+      "name": "tc_btn_chongzhi",
+      "file": null,
+      "w": 55,
+      "h": 56,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        1072,
+        50,
+        55,
+        56
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        55,
+        56
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "ey8r4l",
+    "item": {
+      "type": 0,
+      "id": "ey8r4l",
+      "name": "chendi_beijingmengban",
+      "file": null,
+      "w": 50,
+      "h": 50,
+      "grid": [
+        12,
+        12,
+        24,
+        24
+      ],
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        815,
+        971,
+        50,
+        50
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        50,
+        50
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "f3di9u",
+    "item": {
+      "type": 0,
+      "id": "f3di9u",
+      "name": "xj_btn_qun",
+      "file": null,
+      "w": 59,
+      "h": 72,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        815,
+        897,
+        59,
+        72
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        59,
+        72
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "f3di9v",
+    "item": {
+      "type": 0,
+      "id": "f3di9v",
+      "name": "xj_btn_shu",
+      "file": null,
+      "w": 59,
+      "h": 72,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        837,
+        60,
+        59,
+        72
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        59,
+        72
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "f3di9w",
+    "item": {
+      "type": 0,
+      "id": "f3di9w",
+      "name": "xj_btn_wei",
+      "file": null,
+      "w": 59,
+      "h": 72,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        897,
+        391,
+        59,
+        72
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        59,
+        72
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "f3di9x",
+    "item": {
+      "type": 0,
+      "id": "f3di9x",
+      "name": "xj_btn_wu",
+      "file": null,
+      "w": 59,
+      "h": 72,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        895,
+        317,
+        59,
+        72
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        59,
+        72
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "f3die8",
+    "item": {
+      "type": 0,
+      "id": "f3die8",
+      "name": "gyzy_btn_smhe",
+      "file": null,
+      "w": 71,
+      "h": 66,
+      "grid": [
+        16,
+        19,
+        34,
+        25
+      ],
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        556,
+        561,
+        71,
+        66
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        71,
+        66
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "f3die9",
+    "item": {
+      "type": 0,
+      "id": "f3die9",
+      "name": "gyzy_btn_smhui",
+      "file": null,
+      "w": 71,
+      "h": 66,
+      "grid": [
+        17,
+        16,
+        34,
+        32
+      ],
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        629,
+        561,
+        71,
+        66
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        71,
+        66
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "f3diea",
+    "item": {
+      "type": 0,
+      "id": "f3diea",
+      "name": "gyzy_btn_smlv",
+      "file": null,
+      "w": 71,
+      "h": 66,
+      "grid": [
+        17,
+        16,
+        34,
+        32
+      ],
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        558,
+        371,
+        71,
+        66
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        71,
+        66
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "f3diej",
+    "item": {
+      "type": 0,
+      "id": "f3diej",
+      "name": "gyzy_btn_fanhui",
+      "file": null,
+      "w": 101,
+      "h": 114,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        107,
+        881,
+        101,
+        114
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        101,
+        114
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "fjcy1v6f4is",
+    "item": {
+      "type": 0,
+      "id": "fjcy1v6f4is",
+      "name": "grxx_btn_xiugai_xiao",
+      "file": null,
+      "w": 44,
+      "h": 42,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        1009,
+        802,
+        44,
+        42
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        44,
+        42
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "fonedu",
+    "item": {
+      "type": 0,
+      "id": "fonedu",
+      "name": "gyzy_img_touxiangkuang_hong",
+      "file": null,
+      "w": 204,
+      "h": 101,
+      "grid": [
+        51,
+        48,
+        102,
+        26
+      ],
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas100",
+      "rect": [
+        793,
+        1216,
+        204,
+        101
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        204,
+        101
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0_1.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "h25b1v6f4lr",
+    "item": {
+      "type": 0,
+      "id": "h25b1v6f4lr",
+      "name": "gyzy_btn_xiaohong",
+      "file": null,
+      "w": 56,
+      "h": 49,
+      "grid": [
+        18,
+        12,
+        19,
+        25
+      ],
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        711,
+        263,
+        56,
+        49
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        56,
+        49
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "hg1m1v6f5ed",
+    "item": {
+      "type": 0,
+      "id": "hg1m1v6f5ed",
+      "name": "gyzy_btn_red",
+      "file": null,
+      "w": 184,
+      "h": 109,
+      "grid": [
+        46,
+        27,
+        92,
+        54
+      ],
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas100",
+      "rect": [
+        1391,
+        1089,
+        184,
+        109
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        184,
+        109
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0_1.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "hkpp1v6f5eh",
+    "item": {
+      "type": 0,
+      "id": "hkpp1v6f5eh",
+      "name": "gyzy_btn_tihuan",
+      "file": null,
+      "w": 37,
+      "h": 34,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        1108,
+        269,
+        37,
+        34
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        37,
+        34
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "hsxr2f",
+    "item": {
+      "type": 0,
+      "id": "hsxr2f",
+      "name": "jjc_btn_xiangqing",
+      "file": null,
+      "w": 138,
+      "h": 117,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas100",
+      "rect": [
+        993,
+        1798,
+        138,
+        117
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        138,
+        117
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0_1.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "hsxrbfk",
+    "item": {
+      "type": 0,
+      "id": "hsxrbfk",
+      "name": "gyzy_img_touxiangkuang2",
+      "file": null,
+      "w": 84,
+      "h": 84,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        315,
+        416,
+        84,
+        84
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        84,
+        84
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "iknt1v6f4l9",
+    "item": {
+      "type": 0,
+      "id": "iknt1v6f4l9",
+      "name": "gyzy_btn_xiaocheng",
+      "file": null,
+      "w": 56,
+      "h": 49,
+      "grid": [
+        20,
+        12,
+        17,
+        24
+      ],
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        897,
+        465,
+        56,
+        49
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        56,
+        49
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "iknt1v6f4la",
+    "item": {
+      "type": 0,
+      "id": "iknt1v6f4la",
+      "name": "gyzy_btn_xiaolv",
+      "file": null,
+      "w": 56,
+      "h": 48,
+      "grid": [
+        18,
+        12,
+        19,
+        24
+      ],
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        957,
+        211,
+        56,
+        48
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        56,
+        48
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "is99uwbia",
+    "item": {
+      "type": 0,
+      "id": "is99uwbia",
+      "name": "grxx_btn_xiaoguanbi",
+      "file": null,
+      "w": 55,
+      "h": 56,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        1015,
+        60,
+        55,
+        56
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        55,
+        56
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "it1p42",
+    "item": {
+      "type": 0,
+      "id": "it1p42",
+      "name": "jjc_btn_zhandouanniu3",
+      "file": null,
+      "w": 186,
+      "h": 163,
+      "grid": [
+        103,
+        40,
+        15,
+        80
+      ],
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas100",
+      "rect": [
+        639,
+        1742,
+        186,
+        163
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        186,
+        163
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0_1.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "j4bn1g",
+    "item": {
+      "type": 0,
+      "id": "j4bn1g",
+      "name": "ck_img_wupinxuanzhongkuang",
+      "file": null,
+      "w": 113,
+      "h": 111,
+      "grid": [
+        28,
+        27,
+        56,
+        54
+      ],
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas100",
+      "rect": [
+        1921,
+        1200,
+        113,
+        111
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        113,
+        111
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0_1.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "j4bn1t",
+    "item": {
+      "type": 0,
+      "id": "j4bn1t",
+      "name": "gyzy_btn_yeqianchangtai",
+      "file": null,
+      "w": 58,
+      "h": 72,
+      "grid": [
+        17,
+        18,
+        20,
+        22
+      ],
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        898,
+        1,
+        58,
+        72
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        58,
+        72
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "j4bn1u",
+    "item": {
+      "type": 0,
+      "id": "j4bn1u",
+      "name": "gyzy_btn_yeqiandangqian",
+      "file": null,
+      "w": 58,
+      "h": 72,
+      "grid": [
+        14,
+        18,
+        28,
+        22
+      ],
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        956,
+        269,
+        58,
+        72
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        58,
+        72
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "jjdj1v6f4np",
+    "item": {
+      "type": 0,
+      "id": "jjdj1v6f4np",
+      "name": "gyzy_btn_huangsexiaolv",
+      "file": null,
+      "w": 62,
+      "h": 68,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        711,
+        193,
+        62,
+        68
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        62,
+        68
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "k1iduwbhu",
+    "item": {
+      "type": 0,
+      "id": "k1iduwbhu",
+      "name": "gyzy_btn_huangseshezhi",
+      "file": null,
+      "w": 35,
+      "h": 35,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        1127,
+        538,
+        35,
+        35
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        35,
+        35
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "k1iduwbhv",
+    "item": {
+      "type": 0,
+      "id": "k1iduwbhv",
+      "name": "gyzy_btn_huangseyoujian",
+      "file": null,
+      "w": 33,
+      "h": 28,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        1169,
+        429,
+        33,
+        28
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        33,
+        28
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "k1iduwbhw",
+    "item": {
+      "type": 0,
+      "id": "k1iduwbhw",
+      "name": "gyzy_btn9_shurukuang",
+      "file": null,
+      "w": 56,
+      "h": 56,
+      "grid": [
+        14,
+        14,
+        28,
+        28
+      ],
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        1015,
+        211,
+        56,
+        56
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        56,
+        56
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "kudf1v6f4nr",
+    "item": {
+      "type": 0,
+      "id": "kudf1v6f4nr",
+      "name": "tag_gold",
+      "file": null,
+      "w": 165,
+      "h": 49,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas100",
+      "rect": [
+        1353,
+        1985,
+        165,
+        49
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        165,
+        49
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0_1.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "l80g7g",
+    "item": {
+      "type": 0,
+      "id": "l80g7g",
+      "name": "anniu_xiangqing",
+      "file": null,
+      "w": 49,
+      "h": 43,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        877,
+        763,
+        49,
+        43
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        49,
+        43
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "ls1y7a",
+    "item": {
+      "type": 0,
+      "id": "ls1y7a",
+      "name": "tubiao_jinbi_zhuxian",
+      "file": null,
+      "w": 82,
+      "h": 66,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        313,
+        953,
+        82,
+        66
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        82,
+        66
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "ly9qbg4",
+    "item": {
+      "type": 0,
+      "id": "ly9qbg4",
+      "name": "zd_btn_fangjiantiaozhuan_jiantou",
+      "file": null,
+      "w": 43,
+      "h": 35,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        1055,
+        771,
+        43,
+        35
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        43,
+        35
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "mceb1v6f4ig",
+    "item": {
+      "type": 0,
+      "id": "mceb1v6f4ig",
+      "name": "gyzy_btn_diban2",
+      "file": null,
+      "w": 404,
+      "h": 91,
+      "grid": [
+        13,
+        21,
+        8,
+        44
+      ],
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas100",
+      "rect": [
+        753,
+        540,
+        404,
+        91
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        404,
+        91
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0_1.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "n5tquwbir",
+    "item": {
+      "type": 0,
+      "id": "n5tquwbir",
+      "name": "grxx_btn_shendiyeqian1",
+      "file": null,
+      "w": 8,
+      "h": 8,
+      "grid": [
+        3,
+        3,
+        2,
+        2
+      ],
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        1008,
+        998,
+        8,
+        8
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        8,
+        8
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "n5tquwbis",
+    "item": {
+      "type": 0,
+      "id": "n5tquwbis",
+      "name": "grxx_btn_shendiyeqian2",
+      "file": null,
+      "w": 8,
+      "h": 8,
+      "grid": [
+        3,
+        4,
+        2,
+        2
+      ],
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        1163,
+        195,
+        8,
+        8
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        8,
+        8
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "ow2e1v6f4js",
+    "item": {
+      "type": 0,
+      "id": "ow2e1v6f4js",
+      "name": "xingxing_man",
+      "file": null,
+      "w": 54,
+      "h": 45,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        1129,
+        56,
+        54,
+        45
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        54,
+        45
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "ow2e1v6f4jt",
+    "item": {
+      "type": 0,
+      "id": "ow2e1v6f4jt",
+      "name": "xingxing_kong",
+      "file": null,
+      "w": 46,
+      "h": 48,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        991,
+        566,
+        46,
+        48
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        46,
+        48
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "pjp1h9",
+    "item": {
+      "type": 0,
+      "id": "pjp1h9",
+      "name": "gyzy_btn_cyhese",
+      "file": null,
+      "w": 174,
+      "h": 108,
+      "grid": [
+        68,
+        45,
+        39,
+        17
+      ],
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas100",
+      "rect": [
+        1579,
+        829,
+        174,
+        108
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        174,
+        108
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0_1.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "q7pwuwbih",
+    "item": {
+      "type": 0,
+      "id": "q7pwuwbih",
+      "name": "gyzy_btn_jh",
+      "file": null,
+      "w": 123,
+      "h": 97,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas100",
+      "rect": [
+        1923,
+        1,
+        123,
+        97
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        123,
+        97
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0_1.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "q7pwuwbii",
+    "item": {
+      "type": 0,
+      "id": "q7pwuwbii",
+      "name": "gyzy_btn_wjh",
+      "file": null,
+      "w": 121,
+      "h": 88,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas100",
+      "rect": [
+        1784,
+        1835,
+        121,
+        88
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        121,
+        88
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0_1.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "qappwbgo",
+    "item": {
+      "type": 0,
+      "id": "qappwbgo",
+      "name": "gyzy_btn_smcheng_jian",
+      "file": null,
+      "w": 40,
+      "h": 26,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        958,
+        431,
+        40,
+        26
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        40,
+        26
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "qappwbgp",
+    "item": {
+      "type": 0,
+      "id": "qappwbgp",
+      "name": "gyzy_btn_smhong_jian",
+      "file": null,
+      "w": 40,
+      "h": 26,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        1118,
+        729,
+        40,
+        26
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        40,
+        26
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "r963uwbij",
+    "item": {
+      "type": 0,
+      "id": "r963uwbij",
+      "name": "gyzy_btn_kaiguan",
+      "file": null,
+      "w": 55,
+      "h": 47,
+      "grid": [
+        13,
+        11,
+        26,
+        22
+      ],
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        1017,
+        1,
+        55,
+        47
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        55,
+        47
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "r963uwbik",
+    "item": {
+      "type": 0,
+      "id": "r963uwbik",
+      "name": "gyzy_btn_kaiguandi1",
+      "file": null,
+      "w": 59,
+      "h": 59,
+      "grid": [
+        20,
+        20,
+        19,
+        19
+      ],
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        816,
+        747,
+        59,
+        59
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        59,
+        59
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "r963uwbil",
+    "item": {
+      "type": 0,
+      "id": "r963uwbil",
+      "name": "gyzy_btn_kaiguandi2",
+      "file": null,
+      "w": 59,
+      "h": 59,
+      "grid": [
+        20,
+        20,
+        19,
+        19
+      ],
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        896,
+        208,
+        59,
+        59
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        59,
+        59
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "raib9uwbn8",
+    "item": {
+      "type": 0,
+      "id": "raib9uwbn8",
+      "name": "sqhd_btn_jiangli",
+      "file": null,
+      "w": 39,
+      "h": 36,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        1251,
+        65,
+        33,
+        29
+      ],
+      "rotated": false,
+      "offset": [
+        3,
+        4
+      ],
+      "size": [
+        39,
+        36
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "sbor1v6f4no",
+    "item": {
+      "type": 0,
+      "id": "sbor1v6f4no",
+      "name": "gyzy_btn_change",
+      "file": null,
+      "w": 44,
+      "h": 45,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        1009,
+        343,
+        44,
+        45
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        44,
+        45
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "tep0mgfm49",
+    "item": {
+      "type": 0,
+      "id": "tep0mgfm49",
+      "name": "xtj_btn_fu",
+      "file": null,
+      "w": 59,
+      "h": 72,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        891,
+        516,
+        59,
+        72
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        59,
+        72
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "tlpluwbhu",
+    "item": {
+      "type": 0,
+      "id": "tlpluwbhu",
+      "name": "gyzy_btn9_shurukuang",
+      "file": null,
+      "w": 56,
+      "h": 56,
+      "grid": [
+        24,
+        14,
+        10,
+        28
+      ],
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        1073,
+        211,
+        56,
+        56
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        56,
+        56
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "uoakbeh",
+    "item": {
+      "type": 0,
+      "id": "uoakbeh",
+      "name": "zd_img9_jinbijiadi",
+      "file": null,
+      "w": 44,
+      "h": 36,
+      "grid": [
+        19,
+        14,
+        8,
+        9
+      ],
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        1027,
+        846,
+        44,
+        36
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        44,
+        36
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "uoakbei",
+    "item": {
+      "type": 0,
+      "id": "uoakbei",
+      "name": "zd_img9_jinbijiadijiantou",
+      "file": null,
+      "w": 14,
+      "h": 11,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        1144,
+        804,
+        14,
+        11
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        14,
+        11
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "vmy0fo",
+    "item": {
+      "type": 0,
+      "id": "vmy0fo",
+      "name": "gyzy_btn_cyhong",
+      "file": null,
+      "w": 174,
+      "h": 108,
+      "grid": [
+        43,
+        27,
+        86,
+        54
+      ],
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas100",
+      "rect": [
+        1577,
+        1200,
+        174,
+        108
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        174,
+        108
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0_1.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "vmy0fr",
+    "item": {
+      "type": 0,
+      "id": "vmy0fr",
+      "name": "gyzy_btn_cylanse",
+      "file": null,
+      "w": 174,
+      "h": 108,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas100",
+      "rect": [
+        1579,
+        939,
+        174,
+        108
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        174,
+        108
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0_1.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "vmy0ft",
+    "item": {
+      "type": 0,
+      "id": "vmy0ft",
+      "name": "gyzy_btn_konggou",
+      "file": null,
+      "w": 51,
+      "h": 45,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        1100,
+        362,
+        38,
+        38
+      ],
+      "rotated": false,
+      "offset": [
+        3,
+        7
+      ],
+      "size": [
+        51,
+        45
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png"
+  },
+  {
+    "bundle": "ui_common",
+    "id": "vmy0fu",
+    "item": {
+      "type": 0,
+      "id": "vmy0fu",
+      "name": "gyzy_btn_duigou",
+      "file": null,
+      "w": 51,
+      "h": 45,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        956,
+        343,
+        51,
+        45
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        51,
+        45
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png"
+  },
+  {
+    "bundle": "ui_bg",
+    "id": "hnrme",
+    "item": {
+      "type": 0,
+      "id": "hnrme",
+      "name": "xjt_map_dingceng",
+      "file": null,
+      "w": 632,
+      "h": 843,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas_hnrme",
+      "rect": [
+        0,
+        0,
+        632,
+        843
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        632,
+        843
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_bg\\native\\ui_bg_atlas_hnrme.png"
+  },
+  {
+    "bundle": "ui_bg",
+    "id": "hnrmf",
+    "item": {
+      "type": 0,
+      "id": "hnrmf",
+      "name": "xjt_map_yitongguan",
+      "file": null,
+      "w": 632,
+      "h": 843,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas_hnrmf",
+      "rect": [
+        0,
+        0,
+        632,
+        843
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        632,
+        843
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_bg\\native\\ui_bg_atlas_hnrmf.png"
+  },
+  {
+    "bundle": "ui_bg",
+    "id": "hnrmg",
+    "item": {
+      "type": 0,
+      "id": "hnrmg",
+      "name": "xjt_map_weitongguan",
+      "file": null,
+      "w": 632,
+      "h": 843,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas_hnrmg",
+      "rect": [
+        0,
+        0,
+        632,
+        843
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        632,
+        843
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_bg\\native\\ui_bg_atlas_hnrmg.png"
+  },
+  {
+    "bundle": "ui_bg",
+    "id": "hnrmh",
+    "item": {
+      "type": 0,
+      "id": "hnrmh",
+      "name": "xjt_map3_weitongguan",
+      "file": null,
+      "w": 632,
+      "h": 843,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas_hnrmh",
+      "rect": [
+        0,
+        0,
+        632,
+        843
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        632,
+        843
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_bg\\native\\ui_bg_atlas_hnrmh.png"
+  },
+  {
+    "bundle": "ui_bg",
+    "id": "hnrmi",
+    "item": {
+      "type": 0,
+      "id": "hnrmi",
+      "name": "xjt_map2_weitongguan",
+      "file": null,
+      "w": 632,
+      "h": 843,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas_hnrmi",
+      "rect": [
+        0,
+        0,
+        632,
+        843
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        632,
+        843
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_bg\\native\\ui_bg_atlas_hnrmi.png"
+  },
+  {
+    "bundle": "ui_bg",
+    "id": "hzhoj",
+    "item": {
+      "type": 0,
+      "id": "hzhoj",
+      "name": "xjt_map4_weitongguan",
+      "file": null,
+      "w": 632,
+      "h": 843,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas_hzhoj",
+      "rect": [
+        0,
+        0,
+        632,
+        843
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        632,
+        843
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_bg\\native\\ui_bg_atlas_hzhoj.png"
+  },
+  {
+    "bundle": "ui_bg",
+    "id": "hzhok",
+    "item": {
+      "type": 0,
+      "id": "hzhok",
+      "name": "xjt_map4_dingceng",
+      "file": null,
+      "w": 632,
+      "h": 843,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas_hzhok",
+      "rect": [
+        0,
+        0,
+        632,
+        843
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        632,
+        843
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_bg\\native\\ui_bg_atlas_hzhok.png"
+  },
+  {
+    "bundle": "ui_bg",
+    "id": "hzhol",
+    "item": {
+      "type": 0,
+      "id": "hzhol",
+      "name": "xjt_map4_diceng",
+      "file": null,
+      "w": 632,
+      "h": 843,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas_hzhol",
+      "rect": [
+        0,
+        0,
+        632,
+        843
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        632,
+        843
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_bg\\native\\ui_bg_atlas_hzhol.png"
+  },
+  {
+    "bundle": "ui_bg",
+    "id": "hzhom",
+    "item": {
+      "type": 0,
+      "id": "hzhom",
+      "name": "xjt_map4_zhongjianceng",
+      "file": null,
+      "w": 632,
+      "h": 843,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas_hzhom",
+      "rect": [
+        0,
+        0,
+        632,
+        843
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        632,
+        843
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_bg\\native\\ui_bg_atlas_hzhom.png"
+  },
+  {
+    "bundle": "ui_bg",
+    "id": "icscn",
+    "item": {
+      "type": 0,
+      "id": "icscn",
+      "name": "xjt_map5_diceng",
+      "file": null,
+      "w": 632,
+      "h": 843,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas_icscn",
+      "rect": [
+        0,
+        0,
+        632,
+        843
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        632,
+        843
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_bg\\native\\ui_bg_atlas_icscn.png"
+  },
+  {
+    "bundle": "ui_bg",
+    "id": "icsco",
+    "item": {
+      "type": 0,
+      "id": "icsco",
+      "name": "xjt_map5_dingceng",
+      "file": null,
+      "w": 632,
+      "h": 843,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas_icsco",
+      "rect": [
+        0,
+        0,
+        632,
+        843
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        632,
+        843
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_bg\\native\\ui_bg_atlas_icsco.png"
+  },
+  {
+    "bundle": "ui_bg",
+    "id": "icscp",
+    "item": {
+      "type": 0,
+      "id": "icscp",
+      "name": "xjt_map5_weitongguan",
+      "file": null,
+      "w": 632,
+      "h": 843,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas_icscp",
+      "rect": [
+        0,
+        0,
+        632,
+        843
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        632,
+        843
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_bg\\native\\ui_bg_atlas_icscp.png"
+  },
+  {
+    "bundle": "ui_bg",
+    "id": "icscq",
+    "item": {
+      "type": 0,
+      "id": "icscq",
+      "name": "xjt_map5_zhongjianceng",
+      "file": null,
+      "w": 632,
+      "h": 843,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas_icscq",
+      "rect": [
+        0,
+        0,
+        632,
+        843
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        632,
+        843
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_bg\\native\\ui_bg_atlas_icscq.png"
+  },
+  {
+    "bundle": "ui_bg",
+    "id": "icscr",
+    "item": {
+      "type": 0,
+      "id": "icscr",
+      "name": "xjt_map6_diceng",
+      "file": null,
+      "w": 632,
+      "h": 843,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas_icscr",
+      "rect": [
+        0,
+        0,
+        632,
+        843
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        632,
+        843
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_bg\\native\\ui_bg_atlas_icscr.png"
+  },
+  {
+    "bundle": "ui_bg",
+    "id": "icscs",
+    "item": {
+      "type": 0,
+      "id": "icscs",
+      "name": "xjt_map6_dingceng",
+      "file": null,
+      "w": 632,
+      "h": 843,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas_icscs",
+      "rect": [
+        0,
+        0,
+        632,
+        843
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        632,
+        843
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_bg\\native\\ui_bg_atlas_icscs.png"
+  },
+  {
+    "bundle": "ui_bg",
+    "id": "icsct",
+    "item": {
+      "type": 0,
+      "id": "icsct",
+      "name": "xjt_map6_weitongguan",
+      "file": null,
+      "w": 632,
+      "h": 843,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas_icsct",
+      "rect": [
+        0,
+        0,
+        632,
+        843
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        632,
+        843
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_bg\\native\\ui_bg_atlas_icsct.png"
+  },
+  {
+    "bundle": "ui_bg",
+    "id": "icscu",
+    "item": {
+      "type": 0,
+      "id": "icscu",
+      "name": "xjt_map6_zhongjianceng",
+      "file": null,
+      "w": 632,
+      "h": 843,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas_icscu",
+      "rect": [
+        0,
+        0,
+        632,
+        843
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        632,
+        843
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_bg\\native\\ui_bg_atlas_icscu.png"
+  },
+  {
+    "bundle": "ui_bg",
+    "id": "nkkn10",
+    "item": {
+      "type": 0,
+      "id": "nkkn10",
+      "name": "xsxjt_map_weitongguan",
+      "file": null,
+      "w": 632,
+      "h": 843,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas_nkkn10",
+      "rect": [
+        0,
+        0,
+        632,
+        843
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        632,
+        843
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_bg\\native\\ui_bg_atlas_nkkn10.png"
+  },
+  {
+    "bundle": "ui_bg",
+    "id": "nkkn11",
+    "item": {
+      "type": 0,
+      "id": "nkkn11",
+      "name": "xsxjt_map_zhongjianceng",
+      "file": null,
+      "w": 632,
+      "h": 843,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas_nkkn11",
+      "rect": [
+        0,
+        0,
+        632,
+        843
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        632,
+        843
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_bg\\native\\ui_bg_atlas_nkkn11.png"
+  },
+  {
+    "bundle": "ui_bg",
+    "id": "nkkny",
+    "item": {
+      "type": 0,
+      "id": "nkkny",
+      "name": "xsxjt_map_diceng",
+      "file": null,
+      "w": 632,
+      "h": 843,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas_nkkny",
+      "rect": [
+        0,
+        0,
+        632,
+        843
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        632,
+        843
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_bg\\native\\ui_bg_atlas_nkkny.png"
+  },
+  {
+    "bundle": "ui_bg",
+    "id": "nkknz",
+    "item": {
+      "type": 0,
+      "id": "nkknz",
+      "name": "xsxjt_map_dingceng",
+      "file": null,
+      "w": 632,
+      "h": 843,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas_nkknz",
+      "rect": [
+        0,
+        0,
+        632,
+        843
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        632,
+        843
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_bg\\native\\ui_bg_atlas_nkknz.png"
+  },
+  {
+    "bundle": "ui_bg",
+    "id": "u4kav",
+    "item": {
+      "type": 0,
+      "id": "u4kav",
+      "name": "sj_dalou_rukou",
+      "file": null,
+      "w": 632,
+      "h": 843,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas_u4kav",
+      "rect": [
+        0,
+        0,
+        632,
+        843
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        632,
+        843
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_bg\\native\\ui_bg_atlas_u4kav.png"
+  },
+  {
+    "bundle": "ui_bg",
+    "id": "u4kaw",
+    "item": {
+      "type": 0,
+      "id": "u4kaw",
+      "name": "sj_dalou_zhongjian",
+      "file": null,
+      "w": 632,
+      "h": 843,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas_u4kaw",
+      "rect": [
+        0,
+        0,
+        632,
+        843
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        632,
+        843
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_bg\\native\\ui_bg_atlas_u4kaw.png"
+  },
+  {
+    "bundle": "ui_bg",
+    "id": "u4kax",
+    "item": {
+      "type": 0,
+      "id": "u4kax",
+      "name": "sj_dalou_ding",
+      "file": null,
+      "w": 632,
+      "h": 843,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas_u4kax",
+      "rect": [
+        0,
+        0,
+        632,
+        843
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        632,
+        843
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_bg\\native\\ui_bg_atlas_u4kax.png"
+  },
+  {
+    "bundle": "ui_bg",
+    "id": "y00x0",
+    "item": {
+      "type": 0,
+      "id": "y00x0",
+      "name": "xjt_map_zhongjianceng",
+      "file": null,
+      "w": 632,
+      "h": 843,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas_y00x0",
+      "rect": [
+        0,
+        0,
+        632,
+        843
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        632,
+        843
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_bg\\native\\ui_bg_atlas_y00x0.png"
+  },
+  {
+    "bundle": "ui_bg",
+    "id": "y00x4",
+    "item": {
+      "type": 0,
+      "id": "y00x4",
+      "name": "xjt_map_diceng",
+      "file": null,
+      "w": 632,
+      "h": 843,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas_y00x4",
+      "rect": [
+        0,
+        0,
+        632,
+        843
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        632,
+        843
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_bg\\native\\ui_bg_atlas_y00x4.png"
+  },
+  {
+    "bundle": "ui_bg",
+    "id": "y00x5",
+    "item": {
+      "type": 0,
+      "id": "y00x5",
+      "name": "xjt_map3_zhongjianceng",
+      "file": null,
+      "w": 632,
+      "h": 843,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas_y00x5",
+      "rect": [
+        0,
+        0,
+        632,
+        843
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        632,
+        843
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_bg\\native\\ui_bg_atlas_y00x5.png"
+  },
+  {
+    "bundle": "ui_bg",
+    "id": "y00x7",
+    "item": {
+      "type": 0,
+      "id": "y00x7",
+      "name": "xjt_map3_dingceng",
+      "file": null,
+      "w": 632,
+      "h": 843,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas_y00x7",
+      "rect": [
+        0,
+        0,
+        632,
+        843
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        632,
+        843
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_bg\\native\\ui_bg_atlas_y00x7.png"
+  },
+  {
+    "bundle": "ui_bg",
+    "id": "y00x8",
+    "item": {
+      "type": 0,
+      "id": "y00x8",
+      "name": "xjt_map3_diceng",
+      "file": null,
+      "w": 632,
+      "h": 843,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas_y00x8",
+      "rect": [
+        0,
+        0,
+        632,
+        843
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        632,
+        843
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_bg\\native\\ui_bg_atlas_y00x8.png"
+  },
+  {
+    "bundle": "ui_bg",
+    "id": "y00x9",
+    "item": {
+      "type": 0,
+      "id": "y00x9",
+      "name": "xjt_map2_zhongjianceng",
+      "file": null,
+      "w": 632,
+      "h": 843,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas_y00x9",
+      "rect": [
+        0,
+        0,
+        632,
+        843
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        632,
+        843
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_bg\\native\\ui_bg_atlas_y00x9.png"
+  },
+  {
+    "bundle": "ui_bg",
+    "id": "y00xb",
+    "item": {
+      "type": 0,
+      "id": "y00xb",
+      "name": "xjt_map2_dingceng",
+      "file": null,
+      "w": 632,
+      "h": 843,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas_y00xb",
+      "rect": [
+        0,
+        0,
+        632,
+        843
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        632,
+        843
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_bg\\native\\ui_bg_atlas_y00xb.png"
+  },
+  {
+    "bundle": "ui_bg",
+    "id": "y00xc",
+    "item": {
+      "type": 0,
+      "id": "y00xc",
+      "name": "xjt_map2_diceng",
+      "file": null,
+      "w": 632,
+      "h": 843,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas_y00xc",
+      "rect": [
+        0,
+        0,
+        632,
+        843
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        632,
+        843
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_bg\\native\\ui_bg_atlas_y00xc.png"
+  },
+  {
+    "bundle": "ui_battle",
+    "id": "a7k0qd8",
+    "item": {
+      "type": 0,
+      "id": "a7k0qd8",
+      "name": "jinbi_dui01_season",
+      "file": null,
+      "w": 39,
+      "h": 36,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        658,
+        103,
+        39,
+        36
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        39,
+        36
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png"
+  },
+  {
+    "bundle": "ui_battle",
+    "id": "l76yqbo",
+    "item": {
+      "type": 0,
+      "id": "l76yqbo",
+      "name": "gjjl_img_coin",
+      "file": null,
+      "w": 115,
+      "h": 113,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        902,
+        32,
+        114,
+        113
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        115,
+        113
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png"
+  },
+  {
+    "bundle": "ui_battle",
+    "id": "pbfg74",
+    "item": {
+      "type": 0,
+      "id": "pbfg74",
+      "name": "jinbi_dui01",
+      "file": null,
+      "w": 39,
+      "h": 36,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        547,
+        138,
+        39,
+        36
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        39,
+        36
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_battle\\native\\ui_battle_atlas0.png"
+  },
+  {
+    "bundle": "ui_main",
+    "id": "e1wfbig",
+    "item": {
+      "type": 0,
+      "id": "e1wfbig",
+      "name": "zd_btn_cancel",
+      "file": null,
+      "w": 96,
+      "h": 42,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        594,
+        446,
+        96,
+        42
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        96,
+        42
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_main\\native\\ui_main_atlas0.png"
+  },
+  {
+    "bundle": "ui_main",
+    "id": "e1wfbih",
+    "item": {
+      "type": 0,
+      "id": "e1wfbih",
+      "name": "zd_btn_kuozhan",
+      "file": null,
+      "w": 70,
+      "h": 29,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        232,
+        613,
+        70,
+        29
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        70,
+        29
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_main\\native\\ui_main_atlas0.png"
+  },
+  {
+    "bundle": "ui_main",
+    "id": "e1wfbii",
+    "item": {
+      "type": 0,
+      "id": "e1wfbii",
+      "name": "zd_btn_sure",
+      "file": null,
+      "w": 96,
+      "h": 42,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        594,
+        490,
+        96,
+        42
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        96,
+        42
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_main\\native\\ui_main_atlas0.png"
+  },
+  {
+    "bundle": "ui_main",
+    "id": "ky7ibk0",
+    "item": {
+      "type": 0,
+      "id": "ky7ibk0",
+      "name": "guanzijiqiren_anniu3",
+      "file": null,
+      "w": 104,
+      "h": 108,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        770,
+        381,
+        100,
+        102
+      ],
+      "rotated": false,
+      "offset": [
+        3,
+        2
+      ],
+      "size": [
+        104,
+        108
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_main\\native\\ui_main_atlas0.png"
+  },
+  {
+    "bundle": "ui_main",
+    "id": "ky7ibk1",
+    "item": {
+      "type": 0,
+      "id": "ky7ibk1",
+      "name": "guanzijiqiren_anniu4",
+      "file": null,
+      "w": 104,
+      "h": 108,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        875,
+        347,
+        100,
+        102
+      ],
+      "rotated": false,
+      "offset": [
+        2,
+        5
+      ],
+      "size": [
+        104,
+        108
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_main\\native\\ui_main_atlas0.png"
+  },
+  {
+    "bundle": "ui_main",
+    "id": "qorjbeb",
+    "item": {
+      "type": 0,
+      "id": "qorjbeb",
+      "name": "zd_img_yuananniudi",
+      "file": null,
+      "w": 91,
+      "h": 92,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        468,
+        519,
+        91,
+        92
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        91,
+        92
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_main\\native\\ui_main_atlas0.png"
+  },
+  {
+    "bundle": "ui_main",
+    "id": "qorjbec",
+    "item": {
+      "type": 0,
+      "id": "qorjbec",
+      "name": "zd_img_yuananniudutiao",
+      "file": null,
+      "w": 83,
+      "h": 84,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        777,
+        485,
+        83,
+        84
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        83,
+        84
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_main\\native\\ui_main_atlas0.png"
+  },
+  {
+    "bundle": "ui_main",
+    "id": "vwzwbjj",
+    "item": {
+      "type": 0,
+      "id": "vwzwbjj",
+      "name": "zd_btn_guanzhuyouli",
+      "file": null,
+      "w": 64,
+      "h": 54,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        928,
+        64,
+        54
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        64,
+        54
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_main\\native\\ui_main_atlas0.png"
+  },
+  {
+    "bundle": "ui_main",
+    "id": "ycodbi1",
+    "item": {
+      "type": 0,
+      "id": "ycodbi1",
+      "name": "btnTopBg",
+      "file": null,
+      "w": 80,
+      "h": 36,
+      "grid": [
+        20,
+        15,
+        40,
+        3
+      ],
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        941,
+        256,
+        80,
+        36
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        80,
+        36
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_main\\native\\ui_main_atlas0.png"
+  },
+  {
+    "bundle": "ui_weapon",
+    "id": "icfz56",
+    "item": {
+      "type": 0,
+      "id": "icfz56",
+      "name": "wj_btn_weixuanzhong",
+      "file": null,
+      "w": 326,
+      "h": 96,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        753,
+        171,
+        326,
+        90
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        6
+      ],
+      "size": [
+        326,
+        96
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_weapon\\native\\ui_weapon_atlas0.png"
+  },
+  {
+    "bundle": "ui_weapon",
+    "id": "icfz57",
+    "item": {
+      "type": 0,
+      "id": "icfz57",
+      "name": "wj_btn_xuanzhong",
+      "file": null,
+      "w": 326,
+      "h": 96,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        753,
+        263,
+        326,
+        96
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        326,
+        96
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_weapon\\native\\ui_weapon_atlas0.png"
+  },
+  {
+    "bundle": "ui_weapon",
+    "id": "icfz58",
+    "item": {
+      "type": 0,
+      "id": "icfz58",
+      "name": "wj_btn_yeqian1",
+      "file": null,
+      "w": 50,
+      "h": 49,
+      "grid": [
+        22,
+        25,
+        5,
+        11
+      ],
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        1189,
+        581,
+        50,
+        49
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        50,
+        49
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_weapon\\native\\ui_weapon_atlas0.png"
+  },
+  {
+    "bundle": "ui_weapon",
+    "id": "icfz59",
+    "item": {
+      "type": 0,
+      "id": "icfz59",
+      "name": "wj_btn_yeqian2",
+      "file": null,
+      "w": 50,
+      "h": 42,
+      "grid": [
+        22,
+        21,
+        6,
+        9
+      ],
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        1189,
+        537,
+        50,
+        42
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        50,
+        42
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_weapon\\native\\ui_weapon_atlas0.png"
+  },
+  {
+    "bundle": "ui_weapon",
+    "id": "icfz5a",
+    "item": {
+      "type": 0,
+      "id": "icfz5a",
+      "name": "wj_btn_yeqianline",
+      "file": null,
+      "w": 10,
+      "h": 4,
+      "grid": [
+        2,
+        1,
+        4,
+        2
+      ],
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        1261,
+        632,
+        10,
+        4
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        10,
+        4
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_weapon\\native\\ui_weapon_atlas0.png"
+  },
+  {
+    "bundle": "ui_weapon",
+    "id": "ox6g3x",
+    "item": {
+      "type": 0,
+      "id": "ox6g3x",
+      "name": "scs_btn_press",
+      "file": null,
+      "w": 150,
+      "h": 75,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        1411,
+        1,
+        150,
+        75
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        150,
+        75
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_weapon\\native\\ui_weapon_atlas0.png"
+  },
+  {
+    "bundle": "ui_weapon",
+    "id": "ox6g3y",
+    "item": {
+      "type": 0,
+      "id": "ox6g3y",
+      "name": "scs_btn_normal",
+      "file": null,
+      "w": 150,
+      "h": 75,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        1365,
+        463,
+        150,
+        71
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        4
+      ],
+      "size": [
+        150,
+        75
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_weapon\\native\\ui_weapon_atlas0.png"
+  },
+  {
+    "bundle": "ui_weapon",
+    "id": "vlsh3s",
+    "item": {
+      "type": 0,
+      "id": "vlsh3s",
+      "name": "gyzy_img_touxiangkuang",
+      "file": null,
+      "w": 99,
+      "h": 104,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        1438,
+        536,
+        99,
+        104
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        99,
+        104
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_weapon\\native\\ui_weapon_atlas0.png"
+  },
+  {
+    "bundle": "ui_weapon",
+    "id": "yean3e",
+    "item": {
+      "type": 0,
+      "id": "yean3e",
+      "name": "tc_img_beijing",
+      "file": null,
+      "w": 642,
+      "h": 460,
+      "tile": true
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        1,
+        397,
+        642,
+        460
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        642,
+        460
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_weapon\\native\\ui_weapon_atlas0.png"
+  },
+  {
+    "bundle": "ui_weapon",
+    "id": "zf3u18",
+    "item": {
+      "type": 0,
+      "id": "zf3u18",
+      "name": "zjjx_btn_zhuanhua",
+      "file": null,
+      "w": 65,
+      "h": 71,
+      "tile": false
+    },
+    "sprite": {
+      "atlas": "atlas0",
+      "rect": [
+        1081,
+        171,
+        65,
+        71
+      ],
+      "rotated": false,
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        65,
+        71
+      ]
+    },
+    "atlas": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_weapon\\native\\ui_weapon_atlas0.png"
+  }
+]

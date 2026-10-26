@@ -1,0 +1,5133 @@
+{
+  "assetVersion": "3c7b0bfc39",
+  "configVersion": "58b91ed6c8",
+  "heroes": [
+    {
+      "id": "simayi",
+      "heroId": 101,
+      "name": "司马懿",
+      "faction": 1,
+      "job": 4,
+      "attackBorn": 182,
+      "defaultAvatarId": 101,
+      "variants": [
+        {
+          "heroId": 101,
+          "heroName": "司马懿",
+          "avatarId": 101,
+          "path": "simayi",
+          "name": "司马懿",
+          "body": "simayi",
+          "skin": "",
+          "head": "small_heads/heroes/simayi",
+          "portrait": "bodies/heroes/simayi",
+          "types": [
+            "Move",
+            "Line"
+          ]
+        },
+        {
+          "heroId": 101,
+          "heroName": "司马懿",
+          "avatarId": 10108,
+          "path": "simayi8",
+          "name": "耀·龙王·司马懿",
+          "body": "simayi8",
+          "skin": "",
+          "head": "small_heads/heroes/simayi8",
+          "portrait": "bodies/heroes/simayi8",
+          "types": [
+            "Move",
+            "Position"
+          ]
+        },
+        {
+          "heroId": 101,
+          "heroName": "司马懿",
+          "avatarId": 10103,
+          "path": "simayi4",
+          "name": "龙王·司马懿",
+          "body": "simayi4",
+          "skin": "",
+          "head": "small_heads/heroes/simayi4",
+          "portrait": "bodies/heroes/simayi4",
+          "types": [
+            "Line",
+            "Position"
+          ]
+        },
+        {
+          "heroId": 101,
+          "heroName": "司马懿",
+          "avatarId": 10101,
+          "path": "simayi2",
+          "name": "机甲·司马懿",
+          "body": "simayi2",
+          "skin": "",
+          "head": "small_heads/heroes/simayi2",
+          "portrait": "bodies/heroes/simayi2",
+          "types": [
+            "Move",
+            "Move"
+          ]
+        },
+        {
+          "heroId": 101,
+          "heroName": "司马懿",
+          "avatarId": 10111,
+          "path": "simayi11",
+          "name": "山河锦绣·司马懿",
+          "body": "simayi11",
+          "skin": "",
+          "head": "small_heads/heroes/simayi11",
+          "portrait": "bodies/heroes/simayi11",
+          "types": [
+            "Position",
+            "Position"
+          ]
+        },
+        {
+          "heroId": 101,
+          "heroName": "司马懿",
+          "avatarId": 10102,
+          "path": "simayi3",
+          "name": "沙滩派对·司马懿",
+          "body": "simayi3",
+          "skin": "",
+          "head": "small_heads/heroes/simayi3",
+          "portrait": "bodies/heroes/simayi3",
+          "types": [
+            "Line",
+            "Position"
+          ]
+        },
+        {
+          "heroId": 101,
+          "heroName": "司马懿",
+          "avatarId": 2001,
+          "path": "simayi7",
+          "name": "侠客·司马懿",
+          "body": "simayi7",
+          "skin": "",
+          "head": "small_heads/heroes/simayi7",
+          "portrait": "bodies/heroes/simayi7",
+          "types": [
+            "Move",
+            "Position"
+          ]
+        },
+        {
+          "heroId": 101,
+          "heroName": "司马懿",
+          "avatarId": 1009,
+          "path": "simayi5",
+          "name": "战神·司马懿",
+          "body": "simayi5",
+          "skin": "",
+          "head": "small_heads/heroes/simayi5",
+          "portrait": "bodies/heroes/simayi5",
+          "types": [
+            "Position",
+            "Position"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "guojia",
+      "heroId": 102,
+      "name": "郭嘉",
+      "faction": 1,
+      "job": 4,
+      "attackBorn": 180,
+      "defaultAvatarId": 102,
+      "variants": [
+        {
+          "heroId": 102,
+          "heroName": "郭嘉",
+          "avatarId": 102,
+          "path": "guojia",
+          "name": "郭嘉",
+          "body": "guojia",
+          "skin": "",
+          "head": "small_heads/heroes/guojia",
+          "portrait": "bodies/heroes/guojia",
+          "types": [
+            "Line",
+            "Line"
+          ]
+        },
+        {
+          "heroId": 102,
+          "heroName": "郭嘉",
+          "avatarId": 10206,
+          "path": "guojia6",
+          "name": "镇元大仙·郭嘉",
+          "body": "guojia6",
+          "skin": "",
+          "head": "small_heads/heroes/guojia6",
+          "portrait": "bodies/heroes/guojia6",
+          "types": [
+            "Move",
+            "Position"
+          ]
+        },
+        {
+          "heroId": 102,
+          "heroName": "郭嘉",
+          "avatarId": 10201,
+          "path": "guojia2",
+          "name": "机甲·郭嘉",
+          "body": "guojia2",
+          "skin": "",
+          "head": "small_heads/heroes/guojia2",
+          "portrait": "bodies/heroes/guojia2",
+          "types": [
+            "Move",
+            "Move"
+          ]
+        },
+        {
+          "heroId": 102,
+          "heroName": "郭嘉",
+          "avatarId": 10207,
+          "path": "guojia7",
+          "name": "「鱼」音绕梁·郭嘉",
+          "body": "guojia7",
+          "skin": "",
+          "head": "small_heads/heroes/guojia7",
+          "portrait": "bodies/heroes/guojia7",
+          "types": [
+            "Move",
+            "Position"
+          ]
+        },
+        {
+          "heroId": 102,
+          "heroName": "郭嘉",
+          "avatarId": 2004,
+          "path": "guojia5",
+          "name": "侠客·郭嘉",
+          "body": "guojia5",
+          "skin": "",
+          "head": "small_heads/heroes/guojia5",
+          "portrait": "bodies/heroes/guojia5",
+          "types": [
+            "Move",
+            "Position"
+          ]
+        },
+        {
+          "heroId": 102,
+          "heroName": "郭嘉",
+          "avatarId": 1012,
+          "path": "guojia4",
+          "name": "战神·郭嘉",
+          "body": "guojia4",
+          "skin": "",
+          "head": "small_heads/heroes/guojia4",
+          "portrait": "bodies/heroes/guojia4",
+          "types": [
+            "Move",
+            "Position"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "guanyu",
+      "heroId": 103,
+      "name": "关羽",
+      "faction": 2,
+      "job": 1,
+      "attackBorn": 161,
+      "defaultAvatarId": 10307,
+      "variants": [
+        {
+          "heroId": 103,
+          "heroName": "关羽",
+          "avatarId": 10307,
+          "path": "guanyu7",
+          "name": "耀·托塔天王·关羽",
+          "body": "guanyu7",
+          "skin": "",
+          "head": "small_heads/heroes/guanyu7",
+          "portrait": "bodies/heroes/guanyu7",
+          "types": [
+            "Position",
+            "Position"
+          ]
+        },
+        {
+          "heroId": 103,
+          "heroName": "关羽",
+          "avatarId": 10302,
+          "path": "guanyu3",
+          "name": "托塔天王·关羽",
+          "body": "guanyu3",
+          "skin": "",
+          "head": "small_heads/heroes/guanyu3",
+          "portrait": "bodies/heroes/guanyu3",
+          "types": [
+            "Position",
+            "Position"
+          ]
+        },
+        {
+          "heroId": 103,
+          "heroName": "关羽",
+          "avatarId": 10313,
+          "path": "guanyu13",
+          "name": "山河锦绣·关羽",
+          "body": "guanyu13",
+          "skin": "",
+          "head": "small_heads/heroes/guanyu13",
+          "portrait": "bodies/heroes/guanyu13",
+          "types": [
+            "Move",
+            "Position"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "zhugeliang",
+      "heroId": 104,
+      "name": "诸葛亮",
+      "faction": 2,
+      "job": 4,
+      "attackBorn": 181,
+      "defaultAvatarId": 104,
+      "variants": [
+        {
+          "heroId": 104,
+          "heroName": "诸葛亮",
+          "avatarId": 104,
+          "path": "zhugeliang",
+          "name": "诸葛亮",
+          "body": "zhugeliang",
+          "skin": "",
+          "head": "small_heads/heroes/zhugeliang",
+          "portrait": "bodies/heroes/zhugeliang",
+          "types": [
+            "Line",
+            "Position"
+          ]
+        },
+        {
+          "heroId": 104,
+          "heroName": "诸葛亮",
+          "avatarId": 10408,
+          "path": "zhugeliang8",
+          "name": "青龙·诸葛亮",
+          "body": "zhugeliang8",
+          "skin": "",
+          "head": "small_heads/heroes/zhugeliang8",
+          "portrait": "bodies/heroes/zhugeliang8",
+          "types": [
+            "Move",
+            "Center"
+          ]
+        },
+        {
+          "heroId": 104,
+          "heroName": "诸葛亮",
+          "avatarId": 10403,
+          "path": "zhugeliang4",
+          "name": "玄奘·诸葛亮",
+          "body": "zhugeliang4",
+          "skin": "",
+          "head": "small_heads/heroes/zhugeliang4",
+          "portrait": "bodies/heroes/zhugeliang4",
+          "types": [
+            "Move",
+            "Position"
+          ]
+        },
+        {
+          "heroId": 104,
+          "heroName": "诸葛亮",
+          "avatarId": 10404,
+          "path": "zhugeliang5",
+          "name": "食神·诸葛亮",
+          "body": "zhugeliang5",
+          "skin": "",
+          "head": "small_heads/heroes/zhugeliang5",
+          "portrait": "bodies/heroes/zhugeliang5",
+          "types": [
+            "Move",
+            "Position"
+          ]
+        },
+        {
+          "heroId": 104,
+          "heroName": "诸葛亮",
+          "avatarId": 10409,
+          "path": "zhugeliang9",
+          "name": "白无常·诸葛亮",
+          "body": "zhugeliang9",
+          "skin": "",
+          "head": "small_heads/heroes/zhugeliang9",
+          "portrait": "bodies/heroes/zhugeliang9",
+          "types": [
+            "Position",
+            "Center"
+          ]
+        },
+        {
+          "heroId": 104,
+          "heroName": "诸葛亮",
+          "avatarId": 2013,
+          "path": "zhugeliang7",
+          "name": "墨家·诸葛亮",
+          "body": "zhugeliang7",
+          "skin": "",
+          "head": "small_heads/heroes/zhugeliang7",
+          "portrait": "bodies/heroes/zhugeliang7",
+          "types": [
+            "Line",
+            "Position"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "zhouyu",
+      "heroId": 105,
+      "name": "周瑜",
+      "faction": 3,
+      "job": 4,
+      "attackBorn": 180,
+      "defaultAvatarId": 105,
+      "variants": [
+        {
+          "heroId": 105,
+          "heroName": "周瑜",
+          "avatarId": 105,
+          "path": "zhouyu",
+          "name": "周瑜",
+          "body": "zhouyu",
+          "skin": "",
+          "head": "small_heads/heroes/zhouyu",
+          "portrait": "bodies/heroes/zhouyu",
+          "types": [
+            "Line",
+            "Rush"
+          ]
+        },
+        {
+          "heroId": 105,
+          "heroName": "周瑜",
+          "avatarId": 10508,
+          "path": "zhouyu8",
+          "name": "朱雀·周瑜",
+          "body": "zhouyu8",
+          "skin": "",
+          "head": "small_heads/heroes/zhouyu8",
+          "portrait": "bodies/heroes/zhouyu8",
+          "types": [
+            "Move",
+            "Position"
+          ]
+        },
+        {
+          "heroId": 105,
+          "heroName": "周瑜",
+          "avatarId": 10503,
+          "path": "zhouyu4",
+          "name": "太上老君·周瑜",
+          "body": "zhouyu4",
+          "skin": "",
+          "head": "small_heads/heroes/zhouyu4",
+          "portrait": "bodies/heroes/zhouyu4",
+          "types": [
+            "Line",
+            "Position"
+          ]
+        },
+        {
+          "heroId": 105,
+          "heroName": "周瑜",
+          "avatarId": 10501,
+          "path": "zhouyu2",
+          "name": "机甲·周瑜",
+          "body": "zhouyu2",
+          "skin": "",
+          "head": "small_heads/heroes/zhouyu2",
+          "portrait": "bodies/heroes/zhouyu2",
+          "types": [
+            "Line",
+            "Position"
+          ]
+        },
+        {
+          "heroId": 105,
+          "heroName": "周瑜",
+          "avatarId": 10511,
+          "path": "zhouyu11",
+          "name": "吟游诗人·周瑜",
+          "body": "zhouyu11",
+          "skin": "",
+          "head": "small_heads/heroes/zhouyu11",
+          "portrait": "bodies/heroes/zhouyu11",
+          "types": [
+            "Move",
+            "Position"
+          ]
+        },
+        {
+          "heroId": 105,
+          "heroName": "周瑜",
+          "avatarId": 10504,
+          "path": "zhouyu5",
+          "name": "替身·周瑜",
+          "body": "zhouyu5",
+          "skin": "",
+          "head": "small_heads/heroes/zhouyu5",
+          "portrait": "bodies/heroes/zhouyu5",
+          "types": [
+            "Move",
+            "Position"
+          ]
+        },
+        {
+          "heroId": 105,
+          "heroName": "周瑜",
+          "avatarId": 10502,
+          "path": "zhouyu3",
+          "name": "破浪·周瑜",
+          "body": "zhouyu3",
+          "skin": "",
+          "head": "small_heads/heroes/zhouyu3",
+          "portrait": "bodies/heroes/zhouyu3",
+          "types": [
+            "Move",
+            "Position"
+          ]
+        },
+        {
+          "heroId": 105,
+          "heroName": "周瑜",
+          "avatarId": 2005,
+          "path": "zhouyu7",
+          "name": "风水师·周瑜",
+          "body": "zhouyu7",
+          "skin": "",
+          "head": "small_heads/heroes/zhouyu7",
+          "portrait": "bodies/heroes/zhouyu7",
+          "types": [
+            "Move",
+            "Position"
+          ]
+        },
+        {
+          "heroId": 105,
+          "heroName": "周瑜",
+          "avatarId": 1013,
+          "path": "zhouyu6",
+          "name": "战神·周瑜",
+          "body": "zhouyu6",
+          "skin": "",
+          "head": "small_heads/heroes/zhouyu6",
+          "portrait": "bodies/heroes/zhouyu6",
+          "types": [
+            "Move",
+            "Position"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "taishici",
+      "heroId": 106,
+      "name": "太史慈",
+      "faction": 3,
+      "job": 6,
+      "attackBorn": 177,
+      "defaultAvatarId": 10607,
+      "variants": [
+        {
+          "heroId": 106,
+          "heroName": "太史慈",
+          "avatarId": 10607,
+          "path": "taishici7",
+          "name": "朱雀·太史慈",
+          "body": "taishici7",
+          "skin": "",
+          "head": "small_heads/heroes/taishici7",
+          "portrait": "bodies/heroes/taishici7",
+          "types": [
+            "Line",
+            "Position"
+          ]
+        },
+        {
+          "heroId": 106,
+          "heroName": "太史慈",
+          "avatarId": 10601,
+          "path": "taishici2",
+          "name": "机甲·太史慈",
+          "body": "taishici2",
+          "skin": "",
+          "head": "small_heads/heroes/taishici2",
+          "portrait": "bodies/heroes/taishici2",
+          "types": [
+            "Move",
+            "Position"
+          ]
+        },
+        {
+          "heroId": 106,
+          "heroName": "太史慈",
+          "avatarId": 1002,
+          "path": "taishici4",
+          "name": "战神·太史慈",
+          "body": "taishici4",
+          "skin": "",
+          "head": "small_heads/heroes/taishici4",
+          "portrait": "bodies/heroes/taishici4",
+          "types": [
+            "Move",
+            "Move"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lvbu",
+      "heroId": 107,
+      "name": "吕布",
+      "faction": 4,
+      "job": 1,
+      "attackBorn": 162,
+      "defaultAvatarId": 10712,
+      "variants": [
+        {
+          "heroId": 107,
+          "heroName": "吕布",
+          "avatarId": 10712,
+          "path": "lvbu12",
+          "name": "天穹主宰(壹)·吕布",
+          "body": "lvbu12",
+          "skin": "",
+          "head": "small_heads/heroes/lvbu12",
+          "portrait": "bodies/heroes/lvbu12",
+          "types": [
+            "Move",
+            "Position"
+          ]
+        },
+        {
+          "heroId": 107,
+          "heroName": "吕布",
+          "avatarId": 10713,
+          "path": "lvbu13",
+          "name": "天穹主宰(贰)·吕布",
+          "body": "lvbu13",
+          "skin": "",
+          "head": "small_heads/heroes/lvbu13",
+          "portrait": "bodies/heroes/lvbu13",
+          "types": [
+            "Move",
+            "Position"
+          ]
+        },
+        {
+          "heroId": 107,
+          "heroName": "吕布",
+          "avatarId": 10714,
+          "path": "lvbu14",
+          "name": "天穹主宰(叁)·吕布",
+          "body": "lvbu14",
+          "skin": "",
+          "head": "small_heads/heroes/lvbu14",
+          "portrait": "bodies/heroes/lvbu14",
+          "types": [
+            "Move",
+            "Position"
+          ]
+        },
+        {
+          "heroId": 107,
+          "heroName": "吕布",
+          "avatarId": 10707,
+          "path": "lvbu8",
+          "name": "摇摇虎·吕布",
+          "body": "lvbu8",
+          "skin": "",
+          "head": "small_heads/heroes/lvbu8",
+          "portrait": "bodies/heroes/lvbu8",
+          "types": [
+            "Move",
+            "Position"
+          ]
+        },
+        {
+          "heroId": 107,
+          "heroName": "吕布",
+          "avatarId": 10703,
+          "path": "lvbu4",
+          "name": "恶龙·吕布",
+          "body": "lvbu4",
+          "skin": "",
+          "head": "small_heads/heroes/lvbu4",
+          "portrait": "bodies/heroes/lvbu4",
+          "types": [
+            "Move",
+            "Line"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "huatuo",
+      "heroId": 108,
+      "name": "华佗",
+      "faction": 4,
+      "job": 3,
+      "attackBorn": 136,
+      "defaultAvatarId": 10805,
+      "variants": [
+        {
+          "heroId": 108,
+          "heroName": "华佗",
+          "avatarId": 10805,
+          "path": "huatuo5",
+          "name": "南极仙翁·华佗",
+          "body": "huatuo5",
+          "skin": "",
+          "head": "small_heads/heroes/huatuo5",
+          "portrait": "bodies/heroes/huatuo5",
+          "types": [
+            "Move",
+            "Position"
+          ]
+        },
+        {
+          "heroId": 108,
+          "heroName": "华佗",
+          "avatarId": 10801,
+          "path": "huatuo2",
+          "name": "机甲·华佗",
+          "body": "huatuo2",
+          "skin": "",
+          "head": "small_heads/heroes/huatuo2",
+          "portrait": "bodies/heroes/huatuo2",
+          "types": [
+            "Line",
+            "Line"
+          ]
+        },
+        {
+          "heroId": 108,
+          "heroName": "华佗",
+          "avatarId": 10807,
+          "path": "huatuo7",
+          "name": "青囊绘塾·华佗",
+          "body": "huatuo7",
+          "skin": "",
+          "head": "small_heads/heroes/huatuo7",
+          "portrait": "bodies/heroes/huatuo7",
+          "types": [
+            "Move",
+            "Position"
+          ]
+        },
+        {
+          "heroId": 108,
+          "heroName": "华佗",
+          "avatarId": 2009,
+          "path": "huatuo6",
+          "name": "炼器师·华佗",
+          "body": "huatuo6",
+          "skin": "",
+          "head": "small_heads/heroes/huatuo6",
+          "portrait": "bodies/heroes/huatuo6",
+          "types": [
+            "Move",
+            "Position"
+          ]
+        },
+        {
+          "heroId": 108,
+          "heroName": "华佗",
+          "avatarId": 1010,
+          "path": "huatuo4",
+          "name": "战神·华佗",
+          "body": "huatuo4",
+          "skin": "",
+          "head": "small_heads/heroes/huatuo4",
+          "portrait": "bodies/heroes/huatuo4",
+          "types": [
+            "Line",
+            "Position"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "zhenji",
+      "heroId": 109,
+      "name": "甄姬",
+      "faction": 1,
+      "job": 3,
+      "attackBorn": 139,
+      "defaultAvatarId": 109,
+      "variants": [
+        {
+          "heroId": 109,
+          "heroName": "甄姬",
+          "avatarId": 109,
+          "path": "zhenji",
+          "name": "甄姬",
+          "body": "zhenji",
+          "skin": "",
+          "head": "small_heads/heroes/zhenji",
+          "portrait": "bodies/heroes/zhenji",
+          "types": [
+            "Move",
+            "Position"
+          ]
+        },
+        {
+          "heroId": 109,
+          "heroName": "甄姬",
+          "avatarId": 10909,
+          "path": "zhenji9",
+          "name": "玄武·甄姬",
+          "body": "zhenji9",
+          "skin": "",
+          "head": "small_heads/heroes/zhenji9",
+          "portrait": "bodies/heroes/zhenji9",
+          "types": [
+            "Move",
+            "Position"
+          ]
+        },
+        {
+          "heroId": 109,
+          "heroName": "甄姬",
+          "avatarId": 10903,
+          "path": "zhenji4",
+          "name": "广寒仙子·甄姬",
+          "body": "zhenji4",
+          "skin": "",
+          "head": "small_heads/heroes/zhenji4",
+          "portrait": "bodies/heroes/zhenji4",
+          "types": [
+            "Move",
+            "Position"
+          ]
+        },
+        {
+          "heroId": 109,
+          "heroName": "甄姬",
+          "avatarId": 10901,
+          "path": "zhenji2",
+          "name": "机甲·甄姬",
+          "body": "zhenji2",
+          "skin": "",
+          "head": "small_heads/heroes/zhenji2",
+          "portrait": "bodies/heroes/zhenji2",
+          "types": [
+            "Line",
+            "Position"
+          ]
+        },
+        {
+          "heroId": 109,
+          "heroName": "甄姬",
+          "avatarId": 2002,
+          "path": "zhenji7",
+          "name": "侠客·甄姬",
+          "body": "zhenji7",
+          "skin": "",
+          "head": "small_heads/heroes/zhenji7",
+          "portrait": "bodies/heroes/zhenji7",
+          "types": [
+            "Move",
+            "Position"
+          ]
+        },
+        {
+          "heroId": 109,
+          "heroName": "甄姬",
+          "avatarId": 1007,
+          "path": "zhenji5",
+          "name": "战神·甄姬",
+          "body": "zhenji5",
+          "skin": "",
+          "head": "small_heads/heroes/zhenji5",
+          "portrait": "bodies/heroes/zhenji5",
+          "types": [
+            "Move",
+            "Position"
+          ]
+        },
+        {
+          "heroId": 109,
+          "heroName": "甄姬",
+          "avatarId": 10902,
+          "path": "zhenji3",
+          "name": "兔女郎·甄姬",
+          "body": "zhenji3",
+          "skin": "",
+          "head": "small_heads/heroes/zhenji3",
+          "portrait": "bodies/heroes/zhenji3",
+          "types": [
+            "Move",
+            "Move"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "huangyueying",
+      "heroId": 110,
+      "name": "黄月英",
+      "faction": 2,
+      "job": 6,
+      "attackBorn": 150,
+      "defaultAvatarId": 110,
+      "variants": [
+        {
+          "heroId": 110,
+          "heroName": "黄月英",
+          "avatarId": 110,
+          "path": "huangyueying",
+          "name": "黄月英",
+          "body": "huangyueying",
+          "skin": "",
+          "head": "small_heads/heroes/huangyueying",
+          "portrait": "bodies/heroes/huangyueying",
+          "types": [
+            "Line",
+            "Line"
+          ]
+        },
+        {
+          "heroId": 110,
+          "heroName": "黄月英",
+          "avatarId": 11005,
+          "path": "huangyueying6",
+          "name": "西梁女王·黄月英",
+          "body": "huangyueying6",
+          "skin": "",
+          "head": "small_heads/heroes/huangyueying6",
+          "portrait": "bodies/heroes/huangyueying6",
+          "types": [
+            "Move",
+            "Position"
+          ]
+        },
+        {
+          "heroId": 110,
+          "heroName": "黄月英",
+          "avatarId": 11001,
+          "path": "huangyueying2",
+          "name": "机甲·黄月英",
+          "body": "huangyueying2",
+          "skin": "",
+          "head": "small_heads/heroes/huangyueying2",
+          "portrait": "bodies/heroes/huangyueying2",
+          "types": [
+            "Move",
+            "Position"
+          ]
+        },
+        {
+          "heroId": 110,
+          "heroName": "黄月英",
+          "avatarId": 11006,
+          "path": "huangyueying8",
+          "name": "金牌教师·黄月英",
+          "body": "huangyueying8",
+          "skin": "",
+          "head": "small_heads/heroes/huangyueying8",
+          "portrait": "bodies/heroes/huangyueying8",
+          "types": [
+            "Move",
+            "Center"
+          ]
+        },
+        {
+          "heroId": 110,
+          "heroName": "黄月英",
+          "avatarId": 2014,
+          "path": "huangyueying7",
+          "name": "墨家·黄月英",
+          "body": "huangyueying7",
+          "skin": "",
+          "head": "small_heads/heroes/huangyueying7",
+          "portrait": "bodies/heroes/huangyueying7",
+          "types": [
+            "Line",
+            "Position"
+          ]
+        },
+        {
+          "heroId": 110,
+          "heroName": "黄月英",
+          "avatarId": 1011,
+          "path": "huangyueying5",
+          "name": "战神·黄月英",
+          "body": "huangyueying5",
+          "skin": "",
+          "head": "small_heads/heroes/huangyueying5",
+          "portrait": "bodies/heroes/huangyueying5",
+          "types": [
+            "Line",
+            "Position"
+          ]
+        },
+        {
+          "heroId": 110,
+          "heroName": "黄月英",
+          "avatarId": 11002,
+          "path": "huangyueying3",
+          "name": "猫女·黄月英",
+          "body": "huangyueying3",
+          "skin": "",
+          "head": "small_heads/heroes/huangyueying3",
+          "portrait": "bodies/heroes/huangyueying3",
+          "types": [
+            "Move",
+            "Position"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sunce",
+      "heroId": 111,
+      "name": "孙策",
+      "faction": 3,
+      "job": 2,
+      "attackBorn": 155,
+      "defaultAvatarId": 11108,
+      "variants": [
+        {
+          "heroId": 111,
+          "heroName": "孙策",
+          "avatarId": 11108,
+          "path": "sunce8",
+          "name": "朱雀·孙策",
+          "body": "sunce8",
+          "skin": "",
+          "head": "small_heads/heroes/sunce8",
+          "portrait": "bodies/heroes/sunce8",
+          "types": [
+            "Position",
+            "Center"
+          ]
+        },
+        {
+          "heroId": 111,
+          "heroName": "孙策",
+          "avatarId": 11102,
+          "path": "sunce3",
+          "name": "牛魔王·孙策",
+          "body": "sunce3",
+          "skin": "",
+          "head": "small_heads/heroes/sunce3",
+          "portrait": "bodies/heroes/sunce3",
+          "types": [
+            "Position",
+            "Position"
+          ]
+        },
+        {
+          "heroId": 111,
+          "heroName": "孙策",
+          "avatarId": 11109,
+          "path": "sunce9",
+          "name": "山河锦绣·孙策",
+          "body": "sunce9",
+          "skin": "",
+          "head": "small_heads/heroes/sunce9",
+          "portrait": "bodies/heroes/sunce9",
+          "types": [
+            "Move",
+            "Position"
+          ]
+        },
+        {
+          "heroId": 111,
+          "heroName": "孙策",
+          "avatarId": 11104,
+          "path": "sunce6",
+          "name": "童年时光·孙策",
+          "body": "sunce6",
+          "skin": "",
+          "head": "small_heads/heroes/sunce6",
+          "portrait": "bodies/heroes/sunce6",
+          "types": [
+            "Position",
+            "Position"
+          ]
+        },
+        {
+          "heroId": 111,
+          "heroName": "孙策",
+          "avatarId": 2006,
+          "path": "sunce5",
+          "name": "风水师·孙策",
+          "body": "sunce5",
+          "skin": "",
+          "head": "small_heads/heroes/sunce5",
+          "portrait": "bodies/heroes/sunce5",
+          "types": [
+            "Move",
+            "Position"
+          ]
+        },
+        {
+          "heroId": 111,
+          "heroName": "孙策",
+          "avatarId": 11107,
+          "path": "sunce7",
+          "name": "扬帆起航·孙策",
+          "body": "sunce7",
+          "skin": "",
+          "head": "small_heads/heroes/sunce7",
+          "portrait": "bodies/heroes/sunce7",
+          "types": [
+            "Parabola",
+            "Parabola"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jiaxu",
+      "heroId": 112,
+      "name": "贾诩",
+      "faction": 4,
+      "job": 5,
+      "attackBorn": 179,
+      "defaultAvatarId": 11208,
+      "variants": [
+        {
+          "heroId": 112,
+          "heroName": "贾诩",
+          "avatarId": 11208,
+          "path": "jiaxu8",
+          "name": "白虎·贾诩",
+          "body": "jiaxu8",
+          "skin": "",
+          "head": "small_heads/heroes/jiaxu8",
+          "portrait": "bodies/heroes/jiaxu8",
+          "types": [
+            "Move",
+            "Center"
+          ]
+        },
+        {
+          "heroId": 112,
+          "heroName": "贾诩",
+          "avatarId": 11204,
+          "path": "jiaxu5",
+          "name": "阎王·贾诩",
+          "body": "jiaxu5",
+          "skin": "",
+          "head": "small_heads/heroes/jiaxu5",
+          "portrait": "bodies/heroes/jiaxu5",
+          "types": [
+            "Move",
+            "Position"
+          ]
+        },
+        {
+          "heroId": 112,
+          "heroName": "贾诩",
+          "avatarId": 11201,
+          "path": "jiaxu2",
+          "name": "机甲·贾诩",
+          "body": "jiaxu2",
+          "skin": "",
+          "head": "small_heads/heroes/jiaxu2",
+          "portrait": "bodies/heroes/jiaxu2",
+          "types": [
+            "Move",
+            "Move"
+          ]
+        },
+        {
+          "heroId": 112,
+          "heroName": "贾诩",
+          "avatarId": 2011,
+          "path": "jiaxu6",
+          "name": "炼器师·贾诩",
+          "body": "jiaxu6",
+          "skin": "",
+          "head": "small_heads/heroes/jiaxu6",
+          "portrait": "bodies/heroes/jiaxu6",
+          "types": [
+            "Move",
+            "Position"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "caoren",
+      "heroId": 113,
+      "name": "曹仁",
+      "faction": 1,
+      "job": 2,
+      "attackBorn": 163,
+      "defaultAvatarId": 11307,
+      "variants": [
+        {
+          "heroId": 113,
+          "heroName": "曹仁",
+          "avatarId": 11307,
+          "path": "caoren7",
+          "name": "玄武·曹仁",
+          "body": "caoren7",
+          "skin": "p4",
+          "head": "small_heads/heroes/caoren7",
+          "portrait": "bodies/heroes/caoren7",
+          "types": [
+            "Move",
+            "Position"
+          ]
+        },
+        {
+          "heroId": 113,
+          "heroName": "曹仁",
+          "avatarId": 11302,
+          "path": "caoren3",
+          "name": "天蓬元帅·曹仁",
+          "body": "caoren3",
+          "skin": "",
+          "head": "small_heads/heroes/caoren3",
+          "portrait": "bodies/heroes/caoren3",
+          "types": [
+            "Line",
+            "Position"
+          ]
+        },
+        {
+          "heroId": 113,
+          "heroName": "曹仁",
+          "avatarId": 11309,
+          "path": "caoren9",
+          "name": "山河锦绣·曹仁",
+          "body": "caoren9",
+          "skin": "",
+          "head": "small_heads/heroes/caoren9",
+          "portrait": "bodies/heroes/caoren9",
+          "types": [
+            "Move",
+            "Center"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jiangwei",
+      "heroId": 114,
+      "name": "姜维",
+      "faction": 2,
+      "job": 5,
+      "attackBorn": 178,
+      "defaultAvatarId": 11408,
+      "variants": [
+        {
+          "heroId": 114,
+          "heroName": "姜维",
+          "avatarId": 11408,
+          "path": "jiangwei8",
+          "name": "耀·二郎真君·姜维",
+          "body": "jiangwei8",
+          "skin": "",
+          "head": "small_heads/heroes/jiangwei8",
+          "portrait": "bodies/heroes/jiangwei8",
+          "types": [
+            "Line",
+            "Position"
+          ]
+        },
+        {
+          "heroId": 114,
+          "heroName": "姜维",
+          "avatarId": 11403,
+          "path": "jiangwei5",
+          "name": "二郎真君·姜维",
+          "body": "jiangwei5",
+          "skin": "",
+          "head": "small_heads/heroes/jiangwei5",
+          "portrait": "bodies/heroes/jiangwei5",
+          "types": [
+            "Move",
+            "Position"
+          ]
+        },
+        {
+          "heroId": 114,
+          "heroName": "姜维",
+          "avatarId": 11411,
+          "path": "jiangwei11",
+          "name": "阴律司·姜维",
+          "body": "jiangwei11",
+          "skin": "",
+          "head": "small_heads/heroes/jiangwei11",
+          "portrait": "bodies/heroes/jiangwei11",
+          "types": [
+            "Line",
+            "Position"
+          ]
+        },
+        {
+          "heroId": 114,
+          "heroName": "姜维",
+          "avatarId": 11401,
+          "path": "jiangwei2",
+          "name": "机甲·姜维",
+          "body": "jiangwei2",
+          "skin": "",
+          "head": "small_heads/heroes/jiangwei2",
+          "portrait": "bodies/heroes/jiangwei2",
+          "types": [
+            "Line",
+            "Position"
+          ]
+        },
+        {
+          "heroId": 114,
+          "heroName": "姜维",
+          "avatarId": 11412,
+          "path": "jiangwei12",
+          "name": "山河锦绣·姜维",
+          "body": "jiangwei12",
+          "skin": "",
+          "head": "small_heads/heroes/jiangwei12",
+          "portrait": "bodies/heroes/jiangwei12",
+          "types": [
+            "Move",
+            "Position"
+          ]
+        },
+        {
+          "heroId": 114,
+          "heroName": "姜维",
+          "avatarId": 11406,
+          "path": "jiangwei6",
+          "name": "唐伯虎·姜维",
+          "body": "jiangwei6",
+          "skin": "",
+          "head": "small_heads/heroes/jiangwei6",
+          "portrait": "bodies/heroes/jiangwei6",
+          "types": [
+            "Move",
+            "Position"
+          ]
+        },
+        {
+          "heroId": 114,
+          "heroName": "姜维",
+          "avatarId": 11402,
+          "path": "jiangwei3",
+          "name": "裁判·姜维",
+          "body": "jiangwei3",
+          "skin": "",
+          "head": "small_heads/heroes/jiangwei3",
+          "portrait": "bodies/heroes/jiangwei3",
+          "types": [
+            "Move",
+            "Position"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sunjian",
+      "heroId": 115,
+      "name": "孙坚",
+      "faction": 3,
+      "job": 2,
+      "attackBorn": 160,
+      "defaultAvatarId": 11504,
+      "variants": [
+        {
+          "heroId": 115,
+          "heroName": "孙坚",
+          "avatarId": 11504,
+          "path": "sunjian5",
+          "name": "卷帘大将·孙坚",
+          "body": "sunjian5",
+          "skin": "",
+          "head": "small_heads/heroes/sunjian5",
+          "portrait": "bodies/heroes/sunjian5",
+          "types": [
+            "Line",
+            "Position"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gongsunzan",
+      "heroId": 116,
+      "name": "公孙瓒",
+      "faction": 4,
+      "job": 6,
+      "attackBorn": 166,
+      "defaultAvatarId": 116,
+      "variants": [
+        {
+          "heroId": 116,
+          "heroName": "公孙瓒",
+          "avatarId": 116,
+          "path": "gongsunzan",
+          "name": "公孙瓒",
+          "body": "gongsunzan",
+          "skin": "",
+          "head": "small_heads/heroes/gongsunzan",
+          "portrait": "bodies/heroes/gongsunzan",
+          "types": [
+            "Parabola",
+            "Move"
+          ]
+        },
+        {
+          "heroId": 116,
+          "heroName": "公孙瓒",
+          "avatarId": 11608,
+          "path": "gongsunzan8",
+          "name": "白虎·公孙瓒",
+          "body": "gongsunzan8",
+          "skin": "",
+          "head": "small_heads/heroes/gongsunzan8",
+          "portrait": "bodies/heroes/gongsunzan8",
+          "types": [
+            "Line",
+            "Center"
+          ]
+        },
+        {
+          "heroId": 116,
+          "heroName": "公孙瓒",
+          "avatarId": 11601,
+          "path": "gongsunzan2",
+          "name": "机甲·公孙瓒",
+          "body": "gongsunzan2",
+          "skin": "",
+          "head": "small_heads/heroes/gongsunzan2",
+          "portrait": "bodies/heroes/gongsunzan2",
+          "types": [
+            "Line",
+            "Move"
+          ]
+        },
+        {
+          "heroId": 116,
+          "heroName": "公孙瓒",
+          "avatarId": 11605,
+          "path": "gongsunzan7",
+          "name": "中投靓仔·公孙瓒",
+          "body": "gongsunzan7",
+          "skin": "",
+          "head": "small_heads/heroes/gongsunzan7",
+          "portrait": "bodies/heroes/gongsunzan7",
+          "types": [
+            "Parabola",
+            "Position"
+          ]
+        },
+        {
+          "heroId": 116,
+          "heroName": "公孙瓒",
+          "avatarId": 2010,
+          "path": "gongsunzan6",
+          "name": "炼器师·公孙瓒",
+          "body": "gongsunzan6",
+          "skin": "",
+          "head": "small_heads/heroes/gongsunzan6",
+          "portrait": "bodies/heroes/gongsunzan6",
+          "types": [
+            "Move",
+            "Position"
+          ]
+        },
+        {
+          "heroId": 116,
+          "heroName": "公孙瓒",
+          "avatarId": 1005,
+          "path": "gongsunzan4",
+          "name": "战神·公孙瓒",
+          "body": "gongsunzan4",
+          "skin": "",
+          "head": "small_heads/heroes/gongsunzan4",
+          "portrait": "bodies/heroes/gongsunzan4",
+          "types": [
+            "Position",
+            "Position"
+          ]
+        },
+        {
+          "heroId": 116,
+          "heroName": "公孙瓒",
+          "avatarId": 11602,
+          "path": "gongsunzan3",
+          "name": "马戏·公孙瓒",
+          "body": "gongsunzan3",
+          "skin": "",
+          "head": "small_heads/heroes/gongsunzan3",
+          "portrait": "bodies/heroes/gongsunzan3",
+          "types": [
+            "Line",
+            "Move"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "daqiao",
+      "heroId": 119,
+      "name": "大乔",
+      "faction": 3,
+      "job": 3,
+      "attackBorn": 156,
+      "defaultAvatarId": 119,
+      "variants": [
+        {
+          "heroId": 119,
+          "heroName": "大乔",
+          "avatarId": 119,
+          "path": "daqiao",
+          "name": "大乔",
+          "body": "daqiao",
+          "skin": "",
+          "head": "small_heads/heroes/daqiao",
+          "portrait": "bodies/heroes/daqiao",
+          "types": [
+            "Move",
+            "Center"
+          ]
+        },
+        {
+          "heroId": 119,
+          "heroName": "大乔",
+          "avatarId": 11903,
+          "path": "daqiao3",
+          "name": "机甲·大乔",
+          "body": "daqiao3",
+          "skin": "",
+          "head": "small_heads/heroes/daqiao3",
+          "portrait": "bodies/heroes/daqiao3",
+          "types": [
+            "Move",
+            "Position"
+          ]
+        },
+        {
+          "heroId": 119,
+          "heroName": "大乔",
+          "avatarId": 11904,
+          "path": "daqiao4",
+          "name": "铁扇公主·大乔",
+          "body": "daqiao4",
+          "skin": "",
+          "head": "small_heads/heroes/daqiao4",
+          "portrait": "bodies/heroes/daqiao4",
+          "types": [
+            "Move",
+            "Center"
+          ]
+        },
+        {
+          "heroId": 119,
+          "heroName": "大乔",
+          "avatarId": 11905,
+          "path": "daqiao5",
+          "name": "西域蝶舞·大乔",
+          "body": "daqiao5",
+          "skin": "",
+          "head": "small_heads/heroes/daqiao5",
+          "portrait": "bodies/heroes/daqiao5",
+          "types": [
+            "Move",
+            "Center"
+          ]
+        },
+        {
+          "heroId": 119,
+          "heroName": "大乔",
+          "avatarId": 3001,
+          "path": "daqiao2",
+          "name": "观星者·大乔",
+          "body": "daqiao2",
+          "skin": "",
+          "head": "small_heads/heroes/daqiao2",
+          "portrait": "bodies/heroes/daqiao2",
+          "types": [
+            "Move",
+            "Position"
+          ]
+        },
+        {
+          "heroId": 119,
+          "heroName": "大乔",
+          "avatarId": 11906,
+          "path": "daqiao6",
+          "name": "风水师·大乔",
+          "body": "daqiao6",
+          "skin": "",
+          "head": "small_heads/heroes/daqiao6",
+          "portrait": "bodies/heroes/daqiao6",
+          "types": [
+            "Position",
+            "Center"
+          ]
+        },
+        {
+          "heroId": 119,
+          "heroName": "大乔",
+          "avatarId": 11908,
+          "path": "daqiao8",
+          "name": "电竞女神·大乔",
+          "body": "daqiao8",
+          "skin": "",
+          "head": "small_heads/heroes/daqiao8",
+          "portrait": "bodies/heroes/daqiao8",
+          "types": [
+            "Move",
+            "Center"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "zhangjiao2_1",
+      "heroId": 120,
+      "name": "张角",
+      "faction": 4,
+      "job": 4,
+      "attackBorn": 162,
+      "defaultAvatarId": 12002,
+      "variants": [
+        {
+          "heroId": 120,
+          "heroName": "张角",
+          "avatarId": 12002,
+          "path": "zhangjiao2_1",
+          "name": "张角",
+          "body": "zhangjiao2_1",
+          "skin": "",
+          "head": "small_heads/heroes/zhangjiao2",
+          "portrait": "bodies/heroes/zhangjiao2",
+          "types": [
+            "Line",
+            "Position"
+          ]
+        },
+        {
+          "heroId": 120,
+          "heroName": "张角",
+          "avatarId": 12006,
+          "path": "zhangjiao6",
+          "name": "白虎·张角",
+          "body": "zhangjiao6",
+          "skin": "",
+          "head": "small_heads/heroes/zhangjiao6",
+          "portrait": "bodies/heroes/zhangjiao6",
+          "types": [
+            "Position",
+            "Position"
+          ]
+        },
+        {
+          "heroId": 120,
+          "heroName": "张角",
+          "avatarId": 12005,
+          "path": "zhangjiao5",
+          "name": "太乙真人·张角",
+          "body": "zhangjiao5",
+          "skin": "",
+          "head": "small_heads/heroes/zhangjiao5",
+          "portrait": "bodies/heroes/zhangjiao5",
+          "types": [
+            "Move",
+            "Position"
+          ]
+        },
+        {
+          "heroId": 120,
+          "heroName": "张角",
+          "avatarId": 12003,
+          "path": "zhangjiao3_1",
+          "name": "机甲·张角",
+          "body": "zhangjiao3_1",
+          "skin": "",
+          "head": "small_heads/heroes/zhangjiao3",
+          "portrait": "bodies/heroes/zhangjiao3",
+          "types": [
+            "Line",
+            "Position"
+          ]
+        },
+        {
+          "heroId": 120,
+          "heroName": "张角",
+          "avatarId": 12004,
+          "path": "zhangjiao4_1",
+          "name": "观星者·张角",
+          "body": "zhangjiao4_1",
+          "skin": "",
+          "head": "small_heads/heroes/zhangjiao4",
+          "portrait": "bodies/heroes/zhangjiao4",
+          "types": [
+            "Move",
+            "Position"
+          ]
+        },
+        {
+          "heroId": 120,
+          "heroName": "张角",
+          "avatarId": 12007,
+          "path": "zhangjiao7",
+          "name": "炼器师·张角",
+          "body": "zhangjiao7",
+          "skin": "",
+          "head": "small_heads/heroes/zhangjiao7",
+          "portrait": "bodies/heroes/zhangjiao7",
+          "types": [
+            "Parabola",
+            "Position"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lusu2",
+      "heroId": 121,
+      "name": "鲁肃",
+      "faction": 3,
+      "job": 3,
+      "attackBorn": 162,
+      "defaultAvatarId": 12101,
+      "variants": [
+        {
+          "heroId": 121,
+          "heroName": "鲁肃",
+          "avatarId": 12101,
+          "path": "lusu2",
+          "name": "鲁肃",
+          "body": "lusu2",
+          "skin": "",
+          "head": "small_heads/heroes/lusu2",
+          "portrait": "bodies/heroes/lusu2",
+          "types": [
+            "Move",
+            "Center"
+          ]
+        },
+        {
+          "heroId": 121,
+          "heroName": "鲁肃",
+          "avatarId": 12103,
+          "path": "lusu3",
+          "name": "机甲·鲁肃",
+          "body": "lusu3",
+          "skin": "",
+          "head": "small_heads/heroes/lusu3",
+          "portrait": "bodies/heroes/lusu3",
+          "types": [
+            "Position",
+            "Position"
+          ]
+        },
+        {
+          "heroId": 121,
+          "heroName": "鲁肃",
+          "avatarId": 12106,
+          "path": "lusu6",
+          "name": "山河锦绣·鲁肃",
+          "body": "lusu6",
+          "skin": "",
+          "head": "small_heads/heroes/lusu6",
+          "portrait": "bodies/heroes/lusu6",
+          "types": [
+            "Move",
+            "Center"
+          ]
+        },
+        {
+          "heroId": 121,
+          "heroName": "鲁肃",
+          "avatarId": 12105,
+          "path": "lusu5",
+          "name": "财神·鲁肃",
+          "body": "lusu5",
+          "skin": "",
+          "head": "small_heads/heroes/lusu5",
+          "portrait": "bodies/heroes/lusu5",
+          "types": [
+            "Move",
+            "Center"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pangtong",
+      "heroId": 206,
+      "name": "庞统",
+      "faction": 2,
+      "job": 3,
+      "attackBorn": 154,
+      "defaultAvatarId": 206,
+      "variants": [
+        {
+          "heroId": 206,
+          "heroName": "庞统",
+          "avatarId": 206,
+          "path": "pangtong",
+          "name": "庞统",
+          "body": "pangtong",
+          "skin": "",
+          "head": "small_heads/heroes/pangtong",
+          "portrait": "bodies/heroes/pangtong",
+          "types": [
+            "Move",
+            "Move"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lusu",
+      "heroId": 207,
+      "name": "鲁肃",
+      "faction": 3,
+      "job": 3,
+      "attackBorn": 162,
+      "defaultAvatarId": 207,
+      "variants": [
+        {
+          "heroId": 207,
+          "heroName": "鲁肃",
+          "avatarId": 207,
+          "path": "lusu",
+          "name": "鲁肃",
+          "body": "lusu",
+          "skin": "",
+          "head": "small_heads/heroes/lusu",
+          "portrait": "bodies/heroes/lusu",
+          "types": [
+            "Move",
+            "Move"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ganning",
+      "heroId": 209,
+      "name": "甘宁",
+      "faction": 3,
+      "job": 6,
+      "attackBorn": 136,
+      "defaultAvatarId": 209,
+      "variants": [
+        {
+          "heroId": 209,
+          "heroName": "甘宁",
+          "avatarId": 209,
+          "path": "ganning",
+          "name": "甘宁",
+          "body": "ganning",
+          "skin": "",
+          "head": "small_heads/heroes/ganning",
+          "portrait": "bodies/heroes/ganning",
+          "types": [
+            "Parabola",
+            "Rush"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "zhangjiao",
+      "heroId": 212,
+      "name": "张角",
+      "faction": 4,
+      "job": 4,
+      "attackBorn": 162,
+      "defaultAvatarId": 212,
+      "variants": [
+        {
+          "heroId": 212,
+          "heroName": "张角",
+          "avatarId": 212,
+          "path": "zhangjiao",
+          "name": "张角",
+          "body": "zhangjiao",
+          "skin": "",
+          "head": "small_heads/heroes/zhangjiao",
+          "portrait": "bodies/heroes/zhangjiao",
+          "types": [
+            "Move",
+            "Move"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "xiahouyuan",
+      "heroId": 216,
+      "name": "夏侯渊",
+      "faction": 1,
+      "job": 6,
+      "attackBorn": 136,
+      "defaultAvatarId": 216,
+      "variants": [
+        {
+          "heroId": 216,
+          "heroName": "夏侯渊",
+          "avatarId": 216,
+          "path": "xiahouyuan",
+          "name": "夏侯渊",
+          "body": "xiahouyuan",
+          "skin": "",
+          "head": "small_heads/heroes/xiahouyuan",
+          "portrait": "bodies/heroes/xiahouyuan",
+          "types": [
+            "Parabola",
+            "Parabola"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "huangzhong",
+      "heroId": 218,
+      "name": "黄忠",
+      "faction": 2,
+      "job": 6,
+      "attackBorn": 168,
+      "defaultAvatarId": 218,
+      "variants": [
+        {
+          "heroId": 218,
+          "heroName": "黄忠",
+          "avatarId": 218,
+          "path": "huangzhong",
+          "name": "黄忠",
+          "body": "huangzhong",
+          "skin": "",
+          "head": "small_heads/heroes/huangzhong",
+          "portrait": "bodies/heroes/huangzhong",
+          "types": [
+            "Parabola",
+            "Position"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "xiaoqiao",
+      "heroId": 224,
+      "name": "小乔",
+      "faction": 3,
+      "job": 4,
+      "attackBorn": 156,
+      "defaultAvatarId": 224,
+      "variants": [
+        {
+          "heroId": 224,
+          "heroName": "小乔",
+          "avatarId": 224,
+          "path": "xiaoqiao",
+          "name": "小乔",
+          "body": "xiaoqiao",
+          "skin": "",
+          "head": "small_heads/heroes/xiaoqiao",
+          "portrait": "bodies/heroes/xiaoqiao",
+          "types": [
+            "Move",
+            "Position"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "zhangzhao",
+      "heroId": 308,
+      "name": "张昭",
+      "faction": 3,
+      "job": 3,
+      "attackBorn": 121,
+      "defaultAvatarId": 308,
+      "variants": [
+        {
+          "heroId": 308,
+          "heroName": "张昭",
+          "avatarId": 308,
+          "path": "zhangzhao",
+          "name": "张昭",
+          "body": "zhangzhao",
+          "skin": "",
+          "head": "small_heads/heroes/zhangzhao",
+          "portrait": "bodies/heroes/zhangzhao",
+          "types": [
+            "Move",
+            "Move"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "luji",
+      "heroId": 309,
+      "name": "陆绩",
+      "faction": 3,
+      "job": 4,
+      "attackBorn": 106,
+      "defaultAvatarId": 309,
+      "variants": [
+        {
+          "heroId": 309,
+          "heroName": "陆绩",
+          "avatarId": 309,
+          "path": "luji",
+          "name": "陆绩",
+          "body": "luji",
+          "skin": "",
+          "head": "small_heads/heroes/luji",
+          "portrait": "bodies/heroes/luji",
+          "types": [
+            "Move",
+            "Line"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "zhurongfuren",
+      "heroId": 313,
+      "name": "祝融夫人",
+      "faction": 2,
+      "job": 4,
+      "attackBorn": 117,
+      "defaultAvatarId": 313,
+      "variants": [
+        {
+          "heroId": 313,
+          "heroName": "祝融夫人",
+          "avatarId": 313,
+          "path": "zhurongfuren",
+          "name": "祝融夫人",
+          "body": "zhurongfuren",
+          "skin": "",
+          "head": "small_heads/heroes/zhurongfuren",
+          "portrait": "bodies/heroes/zhurongfuren",
+          "types": [
+            "Move",
+            "Move"
+          ]
+        }
+      ]
+    }
+  ],
+  "excluded": [
+    {
+      "heroId": 101,
+      "heroName": "司马懿",
+      "avatarId": 10109,
+      "path": "simayi9",
+      "name": "玄武·司马懿",
+      "reason": "命中特效配置缺失 1010910"
+    },
+    {
+      "heroId": 102,
+      "heroName": "郭嘉",
+      "avatarId": 10202,
+      "path": "guojia3",
+      "name": "修理工·郭嘉",
+      "reason": "没有原版普攻弹道"
+    },
+    {
+      "heroId": 103,
+      "heroName": "关羽",
+      "avatarId": 103,
+      "path": "guanyu",
+      "name": "关羽",
+      "reason": "原版未提供独立弹道配置 attack #1030"
+    },
+    {
+      "heroId": 103,
+      "heroName": "关羽",
+      "avatarId": 10308,
+      "path": "guanyu8",
+      "name": "青龙·关羽",
+      "reason": "原版未提供独立弹道配置 attack #103080"
+    },
+    {
+      "heroId": 103,
+      "heroName": "关羽",
+      "avatarId": 10312,
+      "path": "guanyu12",
+      "name": "武圣·金·关羽",
+      "reason": "没有原版普攻弹道"
+    },
+    {
+      "heroId": 103,
+      "heroName": "关羽",
+      "avatarId": 10311,
+      "path": "guanyu11",
+      "name": "武圣·赤·关羽",
+      "reason": "没有原版普攻弹道"
+    },
+    {
+      "heroId": 103,
+      "heroName": "关羽",
+      "avatarId": 10310,
+      "path": "guanyu10",
+      "name": "武圣·青·关羽",
+      "reason": "没有原版普攻弹道"
+    },
+    {
+      "heroId": 103,
+      "heroName": "关羽",
+      "avatarId": 10301,
+      "path": "guanyu2",
+      "name": "机甲·关羽",
+      "reason": "原版未提供独立弹道配置 attack #103010"
+    },
+    {
+      "heroId": 103,
+      "heroName": "关羽",
+      "avatarId": 10304,
+      "path": "guanyu5",
+      "name": "狙神·关羽",
+      "reason": "没有原版普攻弹道"
+    },
+    {
+      "heroId": 103,
+      "heroName": "关羽",
+      "avatarId": 2016,
+      "path": "guanyu6",
+      "name": "墨家·关羽",
+      "reason": "原版未提供独立弹道配置 attack #0"
+    },
+    {
+      "heroId": 103,
+      "heroName": "关羽",
+      "avatarId": 1003,
+      "path": "guanyu4",
+      "name": "战神·关羽",
+      "reason": "原版未提供独立弹道配置 attack #103030"
+    },
+    {
+      "heroId": 104,
+      "heroName": "诸葛亮",
+      "avatarId": 10401,
+      "path": "zhugeliang2",
+      "name": "机甲·诸葛亮",
+      "reason": "原版未提供独立弹道配置 skill #104011"
+    },
+    {
+      "heroId": 104,
+      "heroName": "诸葛亮",
+      "avatarId": 10402,
+      "path": "zhugeliang3",
+      "name": "乘风·诸葛亮",
+      "reason": "原版未提供独立弹道配置 skill #104021"
+    },
+    {
+      "heroId": 104,
+      "heroName": "诸葛亮",
+      "avatarId": 1014,
+      "path": "zhugeliang6",
+      "name": "战神·诸葛亮",
+      "reason": "复合弹道暂不匹配 ComplexPosition"
+    },
+    {
+      "heroId": 105,
+      "heroName": "周瑜",
+      "avatarId": 10509,
+      "path": "zhouyu9",
+      "name": "耀·太上老君·周瑜",
+      "reason": "原版未提供独立弹道配置 attack #105090"
+    },
+    {
+      "heroId": 106,
+      "heroName": "太史慈",
+      "avatarId": 106,
+      "path": "taishici",
+      "name": "太史慈",
+      "reason": "原版未提供独立弹道配置 skill #1061"
+    },
+    {
+      "heroId": 106,
+      "heroName": "太史慈",
+      "avatarId": 10603,
+      "path": "taishici5",
+      "name": "哪吒·太史慈",
+      "reason": "原版未提供独立弹道配置 attack #106030"
+    },
+    {
+      "heroId": 106,
+      "heroName": "太史慈",
+      "avatarId": 10606,
+      "path": "taishici6",
+      "name": "风水师·太史慈",
+      "reason": "原版未提供独立弹道配置 skill #106061"
+    },
+    {
+      "heroId": 106,
+      "heroName": "太史慈",
+      "avatarId": 10602,
+      "path": "taishici3",
+      "name": "大法官·太史慈",
+      "reason": "没有原版普攻弹道"
+    },
+    {
+      "heroId": 107,
+      "heroName": "吕布",
+      "avatarId": 107,
+      "path": "lvbu",
+      "name": "吕布",
+      "reason": "原版未提供独立弹道配置 attack #1070"
+    },
+    {
+      "heroId": 107,
+      "heroName": "吕布",
+      "avatarId": 10711,
+      "path": "lvbu11",
+      "name": "白虎·吕布",
+      "reason": "原版未提供独立弹道配置 attack #107110"
+    },
+    {
+      "heroId": 107,
+      "heroName": "吕布",
+      "avatarId": 10704,
+      "path": "lvbu5",
+      "name": "耀·齐天大圣·吕布",
+      "reason": "原版未提供独立弹道配置 attack #107040"
+    },
+    {
+      "heroId": 107,
+      "heroName": "吕布",
+      "avatarId": 10702,
+      "path": "lvbu3",
+      "name": "齐天大圣·吕布",
+      "reason": "原版未提供独立弹道配置 attack #107020"
+    },
+    {
+      "heroId": 107,
+      "heroName": "吕布",
+      "avatarId": 10701,
+      "path": "lvbu2",
+      "name": "机甲·吕布",
+      "reason": "原版未提供独立弹道配置 skill #107011"
+    },
+    {
+      "heroId": 107,
+      "heroName": "吕布",
+      "avatarId": 10716,
+      "path": "lvbu16",
+      "name": "山河锦绣·吕布",
+      "reason": "没有原版普攻弹道"
+    },
+    {
+      "heroId": 107,
+      "heroName": "吕布",
+      "avatarId": 10708,
+      "path": "lvbu9",
+      "name": "至尊宝·吕布",
+      "reason": "没有原版普攻弹道"
+    },
+    {
+      "heroId": 107,
+      "heroName": "吕布",
+      "avatarId": 2012,
+      "path": "lvbu10",
+      "name": "炼器师·吕布",
+      "reason": "没有原版技能弹道"
+    },
+    {
+      "heroId": 107,
+      "heroName": "吕布",
+      "avatarId": 1008,
+      "path": "lvbu7",
+      "name": "战神·吕布",
+      "reason": "原版未提供独立弹道配置 attack #107060"
+    },
+    {
+      "heroId": 108,
+      "heroName": "华佗",
+      "avatarId": 108,
+      "path": "huatuo",
+      "name": "华佗",
+      "reason": "原版未提供独立弹道配置 attack #1080"
+    },
+    {
+      "heroId": 108,
+      "heroName": "华佗",
+      "avatarId": 10808,
+      "path": "huatuo8",
+      "name": "白虎·华佗",
+      "reason": "没有原版技能弹道"
+    },
+    {
+      "heroId": 108,
+      "heroName": "华佗",
+      "avatarId": 10802,
+      "path": "huatuo3",
+      "name": "神医·华佗",
+      "reason": "没有原版普攻弹道"
+    },
+    {
+      "heroId": 109,
+      "heroName": "甄姬",
+      "avatarId": 10908,
+      "path": "zhenji8",
+      "name": "紫霞·甄姬",
+      "reason": "原版未提供独立弹道配置 skill #109081"
+    },
+    {
+      "heroId": 110,
+      "heroName": "黄月英",
+      "avatarId": 11009,
+      "path": "huangyueying9",
+      "name": "黑无常·黄月英",
+      "reason": "没有原版普攻弹道"
+    },
+    {
+      "heroId": 111,
+      "heroName": "孙策",
+      "avatarId": 111,
+      "path": "sunce",
+      "name": "孙策",
+      "reason": "原版未提供独立弹道配置 attack #1110"
+    },
+    {
+      "heroId": 111,
+      "heroName": "孙策",
+      "avatarId": 11101,
+      "path": "sunce2",
+      "name": "机甲·孙策",
+      "reason": "原版未提供独立弹道配置 attack #111010"
+    },
+    {
+      "heroId": 111,
+      "heroName": "孙策",
+      "avatarId": 11103,
+      "path": "sunce4",
+      "name": "战神·孙策",
+      "reason": "没有原版普攻弹道"
+    },
+    {
+      "heroId": 112,
+      "heroName": "贾诩",
+      "avatarId": 112,
+      "path": "jiaxu",
+      "name": "贾诩",
+      "reason": "原版未提供独立弹道配置 skill #1121"
+    },
+    {
+      "heroId": 112,
+      "heroName": "贾诩",
+      "avatarId": 11203,
+      "path": "jiaxu4",
+      "name": "战神·贾诩",
+      "reason": "没有原版普攻弹道"
+    },
+    {
+      "heroId": 112,
+      "heroName": "贾诩",
+      "avatarId": 11202,
+      "path": "jiaxu3",
+      "name": "小丑·贾诩",
+      "reason": "没有原版技能弹道"
+    },
+    {
+      "heroId": 113,
+      "heroName": "曹仁",
+      "avatarId": 113,
+      "path": "caoren",
+      "name": "曹仁",
+      "reason": "原版未提供独立弹道配置 attack #1130"
+    },
+    {
+      "heroId": 113,
+      "heroName": "曹仁",
+      "avatarId": 11301,
+      "path": "caoren2",
+      "name": "机甲·曹仁",
+      "reason": "原版未提供独立弹道配置 attack #113010"
+    },
+    {
+      "heroId": 113,
+      "heroName": "曹仁",
+      "avatarId": 11304,
+      "path": "caoren5",
+      "name": "7仔·曹仁",
+      "reason": "复合弹道暂不匹配 SingleLine"
+    },
+    {
+      "heroId": 113,
+      "heroName": "曹仁",
+      "avatarId": 11308,
+      "path": "caoren8",
+      "name": "夜游神·曹仁",
+      "reason": "没有原版普攻弹道"
+    },
+    {
+      "heroId": 113,
+      "heroName": "曹仁",
+      "avatarId": 2003,
+      "path": "caoren6",
+      "name": "侠客·曹仁",
+      "reason": "原版未提供独立弹道配置 attack #113050"
+    },
+    {
+      "heroId": 113,
+      "heroName": "曹仁",
+      "avatarId": 1004,
+      "path": "caoren4",
+      "name": "战神·曹仁",
+      "reason": "原版未提供独立弹道配置 attack #113030"
+    },
+    {
+      "heroId": 114,
+      "heroName": "姜维",
+      "avatarId": 114,
+      "path": "jiangwei",
+      "name": "姜维",
+      "reason": "原版未提供独立弹道配置 attack #1140"
+    },
+    {
+      "heroId": 114,
+      "heroName": "姜维",
+      "avatarId": 11409,
+      "path": "jiangwei9",
+      "name": "青龙·姜维",
+      "reason": "命中特效配置缺失 1140910"
+    },
+    {
+      "heroId": 114,
+      "heroName": "姜维",
+      "avatarId": 2015,
+      "path": "jiangwei7",
+      "name": "墨家·姜维",
+      "reason": "没有原版普攻弹道"
+    },
+    {
+      "heroId": 114,
+      "heroName": "姜维",
+      "avatarId": 1001,
+      "path": "jiangwei4",
+      "name": "战神·姜维",
+      "reason": "原版未提供独立弹道配置 attack #114030"
+    },
+    {
+      "heroId": 115,
+      "heroName": "孙坚",
+      "avatarId": 115,
+      "path": "sunjian",
+      "name": "孙坚",
+      "reason": "原版未提供独立弹道配置 attack #1150"
+    },
+    {
+      "heroId": 115,
+      "heroName": "孙坚",
+      "avatarId": 11501,
+      "path": "sunjian2",
+      "name": "机甲·孙坚",
+      "reason": "原版未提供独立弹道配置 attack #115010"
+    },
+    {
+      "heroId": 115,
+      "heroName": "孙坚",
+      "avatarId": 2007,
+      "path": "sunjian6",
+      "name": "风水师·孙坚",
+      "reason": "原版未提供独立弹道配置 attack #115050"
+    },
+    {
+      "heroId": 115,
+      "heroName": "孙坚",
+      "avatarId": 1006,
+      "path": "sunjian4",
+      "name": "战神·孙坚",
+      "reason": "原版未提供独立弹道配置 attack #1150"
+    },
+    {
+      "heroId": 115,
+      "heroName": "孙坚",
+      "avatarId": 11502,
+      "path": "sunjian3",
+      "name": "掌勺·孙坚",
+      "reason": "原版未提供独立弹道配置 attack #1150"
+    },
+    {
+      "heroId": 116,
+      "heroName": "公孙瓒",
+      "avatarId": 11604,
+      "path": "gongsunzan5",
+      "name": "白龙·公孙瓒",
+      "reason": "复合弹道暂不匹配 Transfixion"
+    },
+    {
+      "heroId": 117,
+      "heroName": "典韦",
+      "avatarId": 11702,
+      "path": "dianwei2_1",
+      "name": "典韦",
+      "reason": "没有原版普攻弹道"
+    },
+    {
+      "heroId": 117,
+      "heroName": "典韦",
+      "avatarId": 11707,
+      "path": "dianwei7",
+      "name": "玄武·典韦",
+      "reason": "没有原版技能弹道"
+    },
+    {
+      "heroId": 117,
+      "heroName": "典韦",
+      "avatarId": 11705,
+      "path": "dianwei5",
+      "name": "巨灵神·典韦",
+      "reason": "没有原版普攻弹道"
+    },
+    {
+      "heroId": 117,
+      "heroName": "典韦",
+      "avatarId": 11703,
+      "path": "dianwei3_1",
+      "name": "机甲·典韦",
+      "reason": "没有原版普攻弹道"
+    },
+    {
+      "heroId": 117,
+      "heroName": "典韦",
+      "avatarId": 11704,
+      "path": "dianwei4_1",
+      "name": "观星者·典韦",
+      "reason": "没有原版普攻弹道"
+    },
+    {
+      "heroId": 117,
+      "heroName": "典韦",
+      "avatarId": 11706,
+      "path": "dianwei6",
+      "name": "侠客·典韦",
+      "reason": "没有原版普攻弹道"
+    },
+    {
+      "heroId": 118,
+      "heroName": "赵云",
+      "avatarId": 11802,
+      "path": "zhaoyun2",
+      "name": "赵云",
+      "reason": "原版未提供独立弹道配置 attack #205010"
+    },
+    {
+      "heroId": 118,
+      "heroName": "赵云",
+      "avatarId": 11808,
+      "path": "zhaoyun8",
+      "name": "青龙·赵云",
+      "reason": "原版未提供独立弹道配置 attack #205010"
+    },
+    {
+      "heroId": 118,
+      "heroName": "赵云",
+      "avatarId": 11809,
+      "path": "zhaoyun9",
+      "name": "耀·敖丙·赵云",
+      "reason": "没有原版普攻弹道"
+    },
+    {
+      "heroId": 118,
+      "heroName": "赵云",
+      "avatarId": 11804,
+      "path": "zhaoyun4",
+      "name": "敖丙·赵云",
+      "reason": "原版未提供独立弹道配置 attack #118040"
+    },
+    {
+      "heroId": 118,
+      "heroName": "赵云",
+      "avatarId": 11803,
+      "path": "zhaoyun3",
+      "name": "机甲·赵云",
+      "reason": "原版未提供独立弹道配置 attack #118030"
+    },
+    {
+      "heroId": 118,
+      "heroName": "赵云",
+      "avatarId": 11810,
+      "path": "zhaoyun10",
+      "name": "山河锦绣·赵云",
+      "reason": "原版未提供独立弹道配置 attack #205010"
+    },
+    {
+      "heroId": 118,
+      "heroName": "赵云",
+      "avatarId": 11805,
+      "path": "zhaoyun5",
+      "name": "观星者·赵云",
+      "reason": "没有原版普攻弹道"
+    },
+    {
+      "heroId": 118,
+      "heroName": "赵云",
+      "avatarId": 11806,
+      "path": "zhaoyun6",
+      "name": "翎枪戏影·赵云",
+      "reason": "没有原版普攻弹道"
+    },
+    {
+      "heroId": 118,
+      "heroName": "赵云",
+      "avatarId": 11807,
+      "path": "zhaoyun7",
+      "name": "墨家·赵云",
+      "reason": "原版未提供独立弹道配置 attack #205010"
+    },
+    {
+      "heroId": 119,
+      "heroName": "大乔",
+      "avatarId": 11907,
+      "path": "daqiao7",
+      "name": "朔望之仪·大乔",
+      "reason": "复合弹道暂不匹配 Posmove"
+    },
+    {
+      "heroId": 120,
+      "heroName": "张角",
+      "avatarId": 12008,
+      "path": "zhangjiao8",
+      "name": "山河锦绣·张角",
+      "reason": "没有原版普攻弹道"
+    },
+    {
+      "heroId": 121,
+      "heroName": "鲁肃",
+      "avatarId": 12104,
+      "path": "lusu4",
+      "name": "朱雀·鲁肃",
+      "reason": "复合弹道暂不匹配 Posmove"
+    },
+    {
+      "heroId": 122,
+      "heroName": "张辽",
+      "avatarId": 12201,
+      "path": "zhangliao2",
+      "name": "张辽",
+      "reason": "没有原版普攻弹道"
+    },
+    {
+      "heroId": 122,
+      "heroName": "张辽",
+      "avatarId": 12204,
+      "path": "zhangliao4",
+      "name": "玄武·张辽",
+      "reason": "没有原版普攻弹道"
+    },
+    {
+      "heroId": 122,
+      "heroName": "张辽",
+      "avatarId": 12203,
+      "path": "zhangliao3",
+      "name": "机甲·张辽",
+      "reason": "没有原版普攻弹道"
+    },
+    {
+      "heroId": 201,
+      "heroName": "徐晃",
+      "avatarId": 201,
+      "path": "xuhuang",
+      "name": "徐晃",
+      "reason": "原版未提供独立弹道配置 attack #2010"
+    },
+    {
+      "heroId": 202,
+      "heroName": "荀彧",
+      "avatarId": 202,
+      "path": "xunyu",
+      "name": "荀彧",
+      "reason": "原版未提供独立弹道配置 skill #2021"
+    },
+    {
+      "heroId": 203,
+      "heroName": "典韦",
+      "avatarId": 203,
+      "path": "dianwei",
+      "name": "典韦",
+      "reason": "原版未提供独立弹道配置 attack #2030"
+    },
+    {
+      "heroId": 204,
+      "heroName": "张飞",
+      "avatarId": 204,
+      "path": "zhangfei",
+      "name": "张飞",
+      "reason": "原版未提供独立弹道配置 attack #2040"
+    },
+    {
+      "heroId": 205,
+      "heroName": "赵云",
+      "avatarId": 205,
+      "path": "zhaoyun",
+      "name": "赵云",
+      "reason": "原版未提供独立弹道配置 attack #2050"
+    },
+    {
+      "heroId": 208,
+      "heroName": "陆逊",
+      "avatarId": 208,
+      "path": "luxun",
+      "name": "陆逊",
+      "reason": "原版未提供独立弹道配置 attack #2080"
+    },
+    {
+      "heroId": 210,
+      "heroName": "貂蝉",
+      "avatarId": 210,
+      "path": "diaochan",
+      "name": "貂蝉",
+      "reason": "原版未提供独立弹道配置 skill #2101"
+    },
+    {
+      "heroId": 211,
+      "heroName": "董卓",
+      "avatarId": 211,
+      "path": "dongzhuo",
+      "name": "董卓",
+      "reason": "原版未提供独立弹道配置 attack #2110"
+    },
+    {
+      "heroId": 213,
+      "heroName": "张辽",
+      "avatarId": 213,
+      "path": "zhangliao",
+      "name": "张辽",
+      "reason": "原版未提供独立弹道配置 attack #2130"
+    },
+    {
+      "heroId": 214,
+      "heroName": "夏侯惇",
+      "avatarId": 214,
+      "path": "xiahoudun",
+      "name": "夏侯惇",
+      "reason": "原版未提供独立弹道配置 attack #2140"
+    },
+    {
+      "heroId": 215,
+      "heroName": "许褚",
+      "avatarId": 215,
+      "path": "xuchu",
+      "name": "许褚",
+      "reason": "原版未提供独立弹道配置 attack #2150"
+    },
+    {
+      "heroId": 217,
+      "heroName": "魏延",
+      "avatarId": 217,
+      "path": "weiyan",
+      "name": "魏延",
+      "reason": "原版未提供独立弹道配置 attack #2170"
+    },
+    {
+      "heroId": 219,
+      "heroName": "马超",
+      "avatarId": 219,
+      "path": "machao",
+      "name": "马超",
+      "reason": "原版未提供独立弹道配置 attack #2190"
+    },
+    {
+      "heroId": 220,
+      "heroName": "马岱",
+      "avatarId": 220,
+      "path": "madai",
+      "name": "马岱",
+      "reason": "原版未提供独立弹道配置 attack #2200"
+    },
+    {
+      "heroId": 221,
+      "heroName": "吕蒙",
+      "avatarId": 221,
+      "path": "lvmeng",
+      "name": "吕蒙",
+      "reason": "原版未提供独立弹道配置 attack #2210"
+    },
+    {
+      "heroId": 222,
+      "heroName": "黄盖",
+      "avatarId": 222,
+      "path": "huanggai",
+      "name": "黄盖",
+      "reason": "原版未提供独立弹道配置 attack #2220"
+    },
+    {
+      "heroId": 223,
+      "heroName": "蔡文姬",
+      "avatarId": 223,
+      "path": "caiwenji",
+      "name": "蔡文姬",
+      "reason": "原版未提供独立弹道配置 skill #2231"
+    },
+    {
+      "heroId": 225,
+      "heroName": "袁绍",
+      "avatarId": 225,
+      "path": "yuanshao",
+      "name": "袁绍",
+      "reason": "原版未提供独立弹道配置 attack #2250"
+    },
+    {
+      "heroId": 226,
+      "heroName": "华雄",
+      "avatarId": 226,
+      "path": "huaxiong",
+      "name": "华雄",
+      "reason": "原版未提供独立弹道配置 attack #2260"
+    },
+    {
+      "heroId": 227,
+      "heroName": "颜良",
+      "avatarId": 227,
+      "path": "yanliang",
+      "name": "颜良",
+      "reason": "原版未提供独立弹道配置 attack #2270"
+    },
+    {
+      "heroId": 228,
+      "heroName": "文丑",
+      "avatarId": 228,
+      "path": "wenchou",
+      "name": "文丑",
+      "reason": "原版未提供独立弹道配置 attack #2280"
+    },
+    {
+      "heroId": 301,
+      "heroName": "周泰",
+      "avatarId": 301,
+      "path": "zhoutai",
+      "name": "周泰",
+      "reason": "原版未提供独立弹道配置 attack #3010"
+    },
+    {
+      "heroId": 302,
+      "heroName": "许攸",
+      "avatarId": 302,
+      "path": "xuyou",
+      "name": "许攸",
+      "reason": "原版未提供独立弹道配置 attack #3020"
+    },
+    {
+      "heroId": 303,
+      "heroName": "于禁",
+      "avatarId": 303,
+      "path": "yujin",
+      "name": "于禁",
+      "reason": "原版未提供独立弹道配置 attack #3030"
+    },
+    {
+      "heroId": 304,
+      "heroName": "张星彩",
+      "avatarId": 304,
+      "path": "zhangxingcai",
+      "name": "张星彩",
+      "reason": "原版未提供独立弹道配置 attack #3050"
+    },
+    {
+      "heroId": 305,
+      "heroName": "关银屏",
+      "avatarId": 305,
+      "path": "guanyinping",
+      "name": "关银屏",
+      "reason": "原版未提供独立弹道配置 attack #3040"
+    },
+    {
+      "heroId": 306,
+      "heroName": "关平",
+      "avatarId": 306,
+      "path": "guanping",
+      "name": "关平",
+      "reason": "原版未提供独立弹道配置 attack #3060"
+    },
+    {
+      "heroId": 307,
+      "heroName": "程普",
+      "avatarId": 307,
+      "path": "chengpu",
+      "name": "程普",
+      "reason": "原版未提供独立弹道配置 attack #3070"
+    },
+    {
+      "heroId": 310,
+      "heroName": "吕玲绮",
+      "avatarId": 310,
+      "path": "lvlingqi",
+      "name": "吕玲绮",
+      "reason": "原版未提供独立弹道配置 attack #3100"
+    },
+    {
+      "heroId": 311,
+      "heroName": "潘凤",
+      "avatarId": 311,
+      "path": "panfeng",
+      "name": "潘凤",
+      "reason": "原版未提供独立弹道配置 attack #3110"
+    },
+    {
+      "heroId": 312,
+      "heroName": "邢道荣",
+      "avatarId": 312,
+      "path": "xingdaorong",
+      "name": "邢道荣",
+      "reason": "原版未提供独立弹道配置 attack #3120"
+    },
+    {
+      "heroId": 314,
+      "heroName": "孟获",
+      "avatarId": 314,
+      "path": "menghuo",
+      "name": "孟获",
+      "reason": "原版未提供独立弹道配置 attack #3120"
+    }
+  ],
+  "bosses": [
+    {
+      "avatarId": 11,
+      "id": "dengshenwei",
+      "name": "灯神·魏",
+      "portrait": "bodies/monsters/dengshenwei",
+      "skin": "",
+      "body": "dengshenwei",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "revive",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 12,
+      "id": "dengshenshu",
+      "name": "灯神·蜀",
+      "portrait": "bodies/monsters/dengshenshu",
+      "skin": "",
+      "body": "dengshenshu",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "revive",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 13,
+      "id": "dengshenwu",
+      "name": "灯神·吴",
+      "portrait": "bodies/monsters/dengshenwu",
+      "skin": "",
+      "body": "dengshenwu",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "revive",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 14,
+      "id": "dengshenqun",
+      "name": "灯神·群",
+      "portrait": "bodies/monsters/dengshenqun",
+      "skin": "",
+      "body": "dengshenqun",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "revive",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 15,
+      "id": "yzxt_dengshen",
+      "name": "",
+      "portrait": "bodies/monsters/yzxt_dengshen",
+      "skin": "",
+      "body": "yzxt_dengshen",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "revive",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 91008,
+      "id": "ymj_boss",
+      "name": "弼马温",
+      "portrait": "bodies/monsters/ymj_boss",
+      "skin": "",
+      "body": "ymj_boss",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "revive",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 201008,
+      "id": "boss_diandianwa",
+      "name": "癫癫蛙",
+      "portrait": "bodies/monsters/boss_diandianwa",
+      "skin": "",
+      "body": "boss_diandianwa",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "show",
+        "skill",
+        "speak"
+      ]
+    },
+    {
+      "avatarId": 201009,
+      "id": "boss_weiweiyu",
+      "name": "畏尾鱼",
+      "portrait": "bodies/monsters/boss_weiweiyu",
+      "skin": "",
+      "body": "boss_weiweiyu",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "show",
+        "skill",
+        "speak"
+      ]
+    },
+    {
+      "avatarId": 201010,
+      "id": "boss_baobaoshe",
+      "name": "保包蛇",
+      "portrait": "bodies/monsters/boss_baobaoshe",
+      "skin": "",
+      "body": "boss_baobaoshe",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "show",
+        "skill",
+        "speak"
+      ]
+    },
+    {
+      "avatarId": 201011,
+      "id": "boss_chaiyouxiongdi",
+      "name": "柴油兄弟",
+      "portrait": "bodies/monsters/boss_chaiyouxiongdi",
+      "skin": "",
+      "body": "boss_chaiyouxiongdi",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "show",
+        "skill",
+        "speak"
+      ]
+    },
+    {
+      "avatarId": 201012,
+      "id": "boss_xianyuwang",
+      "name": "咸鱼王",
+      "portrait": "bodies/monsters/boss_xianyuwang",
+      "skin": "",
+      "body": "boss_xianyuwang",
+      "reason": "缺少首领立绘 bodies/monsters/boss_xianyuwang"
+    },
+    {
+      "avatarId": 201014,
+      "id": "zytp_boss1",
+      "name": "avatarConf_nickName_134",
+      "portrait": "bodies/monsters/zytp_boss1",
+      "skin": "",
+      "body": "zytp_boss1",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill",
+        "touxiang",
+        "touxiang0"
+      ]
+    },
+    {
+      "avatarId": 201015,
+      "id": "zytp_boss2",
+      "name": "avatarConf_nickName_135",
+      "portrait": "bodies/monsters/zytp_boss2",
+      "skin": "",
+      "body": "zytp_boss2",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 201016,
+      "id": "zytp_boss3",
+      "name": "avatarConf_nickName_136",
+      "portrait": "bodies/monsters/zytp_boss3",
+      "skin": "",
+      "body": "zytp_boss3",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 201018,
+      "id": "zytp_boss5",
+      "name": "avatarConf_nickName_138",
+      "portrait": "bodies/monsters/zytp_boss5",
+      "skin": "",
+      "body": "zytp_boss5",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 201021,
+      "id": "bosstower_boss1",
+      "name": "avatarConf_nickName_141",
+      "portrait": "bodies/monsters/bosstower_boss1",
+      "skin": "",
+      "body": "bosstower_boss1",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 201022,
+      "id": "bosstower_boss2",
+      "name": "avatarConf_nickName_142",
+      "portrait": "bodies/monsters/bosstower_boss2",
+      "skin": "",
+      "body": "bosstower_boss2",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 201023,
+      "id": "bosstower_boss3",
+      "name": "avatarConf_nickName_143",
+      "portrait": "bodies/monsters/bosstower_boss3",
+      "skin": "",
+      "body": "bosstower_boss3",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 201024,
+      "id": "bosstower_boss4",
+      "name": "avatarConf_nickName_144",
+      "portrait": "bodies/monsters/bosstower_boss4",
+      "skin": "",
+      "body": "bosstower_boss4",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 202001,
+      "id": "qiuyuanboss",
+      "name": "avatarConf_nickName_202001",
+      "portrait": "bodies/monsters/qiuyuanboss01",
+      "skin": "p1",
+      "body": "qiuyuanboss",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "revive",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 202002,
+      "id": "qiuyuanboss",
+      "name": "avatarConf_nickName_202002",
+      "portrait": "bodies/monsters/qiuyuanboss02",
+      "skin": "p2",
+      "body": "qiuyuanboss",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "revive",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 202003,
+      "id": "qiuyuanboss",
+      "name": "avatarConf_nickName_202003",
+      "portrait": "bodies/monsters/qiuyuanboss03",
+      "skin": "p3",
+      "body": "qiuyuanboss",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "revive",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 202004,
+      "id": "qiuyuanboss",
+      "name": "avatarConf_nickName_202004",
+      "portrait": "bodies/monsters/qiuyuanboss04",
+      "skin": "p4",
+      "body": "qiuyuanboss",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "revive",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 202005,
+      "id": "qiuyuanboss",
+      "name": "avatarConf_nickName_202005",
+      "portrait": "bodies/monsters/qiuyuanboss05",
+      "skin": "p5",
+      "body": "qiuyuanboss",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "revive",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 202006,
+      "id": "qiuyuanboss",
+      "name": "avatarConf_nickName_202006",
+      "portrait": "bodies/monsters/qiuyuanboss06",
+      "skin": "p6",
+      "body": "qiuyuanboss",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "revive",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 202007,
+      "id": "qiuyuanboss",
+      "name": "avatarConf_nickName_202007",
+      "portrait": "bodies/monsters/qiuyuanboss07",
+      "skin": "p7",
+      "body": "qiuyuanboss",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "revive",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 202008,
+      "id": "qiuyuanboss",
+      "name": "avatarConf_nickName_202008",
+      "portrait": "bodies/monsters/qiuyuanboss08",
+      "skin": "p8",
+      "body": "qiuyuanboss",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "revive",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 202009,
+      "id": "qiuyuanboss",
+      "name": "avatarConf_nickName_202009",
+      "portrait": "bodies/monsters/qiuyuanboss09",
+      "skin": "p9",
+      "body": "qiuyuanboss",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "revive",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 202010,
+      "id": "qiuyuanboss",
+      "name": "avatarConf_nickName_202010",
+      "portrait": "bodies/monsters/qiuyuanboss10",
+      "skin": "p10",
+      "body": "qiuyuanboss",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "revive",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 202011,
+      "id": "qiuyuanboss",
+      "name": "avatarConf_nickName_202011",
+      "portrait": "bodies/monsters/qiuyuanboss11",
+      "skin": "p11",
+      "body": "qiuyuanboss",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "revive",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 202012,
+      "id": "qiuyuanboss",
+      "name": "avatarConf_nickName_202012",
+      "portrait": "bodies/monsters/qiuyuanboss12",
+      "skin": "p12",
+      "body": "qiuyuanboss",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "revive",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 203001,
+      "id": "sdsl_boss1",
+      "name": "avatarConf_nickName_203001",
+      "portrait": "bodies/monsters/sdsl_boss1",
+      "skin": "mask",
+      "body": "sdsl_boss1",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "show",
+        "skill",
+        "speak"
+      ]
+    },
+    {
+      "avatarId": 203002,
+      "id": "sdsl_boss2",
+      "name": "avatarConf_nickName_203002",
+      "portrait": "bodies/monsters/sdsl_boss2",
+      "skin": "mask",
+      "body": "sdsl_boss2",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "show",
+        "skill",
+        "speak"
+      ]
+    },
+    {
+      "avatarId": 203003,
+      "id": "sdsl_boss3",
+      "name": "avatarConf_nickName_203003",
+      "portrait": "bodies/monsters/sdsl_boss3",
+      "skin": "mask",
+      "body": "sdsl_boss3",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "show",
+        "skill",
+        "speak"
+      ]
+    },
+    {
+      "avatarId": 203004,
+      "id": "sdsl_boss4",
+      "name": "avatarConf_nickName_203004",
+      "portrait": "bodies/monsters/sdsl_boss4",
+      "skin": "mask",
+      "body": "sdsl_boss4",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "show",
+        "skill",
+        "speak"
+      ]
+    },
+    {
+      "avatarId": 203005,
+      "id": "sdsl_boss5",
+      "name": "avatarConf_nickName_203005",
+      "portrait": "bodies/monsters/sdsl_boss5",
+      "skin": "mask",
+      "body": "sdsl_boss5",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "show",
+        "skill",
+        "speak"
+      ]
+    },
+    {
+      "avatarId": 203006,
+      "id": "sdsl_boss6",
+      "name": "avatarConf_nickName_203006",
+      "portrait": "bodies/monsters/sdsl_boss6",
+      "skin": "mask",
+      "body": "sdsl_boss6",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "show",
+        "skill",
+        "speak"
+      ]
+    },
+    {
+      "avatarId": 203007,
+      "id": "sdsl_boss7",
+      "name": "avatarConf_nickName_203007",
+      "portrait": "bodies/monsters/sdsl_boss7",
+      "skin": "mask",
+      "body": "sdsl_boss7",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "show",
+        "skill",
+        "speak"
+      ]
+    },
+    {
+      "avatarId": 203008,
+      "id": "sdsl_boss8_1",
+      "name": "avatarConf_nickName_203008",
+      "portrait": "bodies/monsters/shidianshilian_boss8",
+      "skin": "mask",
+      "body": "sdsl_boss8_1",
+      "animations": [
+        "attack",
+        "change",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 203009,
+      "id": "sdsl_boss8_2",
+      "name": "avatarConf_nickName_203008",
+      "portrait": "bodies/monsters/shidianshilian_boss8",
+      "skin": "mask",
+      "body": "sdsl_boss8_2",
+      "animations": [
+        "attack",
+        "change",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 203010,
+      "id": "sdsl_boss8_3",
+      "name": "avatarConf_nickName_203008",
+      "portrait": "bodies/monsters/shidianshilian_boss8",
+      "skin": "mask",
+      "body": "sdsl_boss8_3",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 203011,
+      "id": "sdsl_boss9",
+      "name": "avatarConf_nickName_203011",
+      "portrait": "bodies/monsters/shidianshilian_boss9",
+      "skin": "",
+      "body": "sdsl_boss9",
+      "animations": [
+        "attack",
+        "attack_counter",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "revive",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 203012,
+      "id": "sdsl_boss9_1",
+      "name": "avatarConf_nickName_203011",
+      "portrait": "bodies/monsters/shidianshilian_boss9_1",
+      "skin": "",
+      "body": "sdsl_boss9_1",
+      "animations": [
+        "attack_a",
+        "attack_b",
+        "attack_counter",
+        "damage",
+        "damage2",
+        "die",
+        "fall",
+        "idle",
+        "revive",
+        "revive2",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 204001,
+      "id": "xjzw_boss0a",
+      "name": "avatarConf_nickName_204001",
+      "portrait": "bodies/monsters/xjzw_boss0a",
+      "skin": "",
+      "body": "xjzw_boss0a",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 204002,
+      "id": "xjzw_boss0b",
+      "name": "avatarConf_nickName_204002",
+      "portrait": "bodies/monsters/xjzw_boss0b",
+      "skin": "",
+      "body": "xjzw_boss0b",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 204003,
+      "id": "xjzw_boss0c",
+      "name": "avatarConf_nickName_204003",
+      "portrait": "bodies/monsters/xjzw_boss0c",
+      "skin": "",
+      "body": "xjzw_boss0c",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 204011,
+      "id": "xjzw_boss1a",
+      "name": "avatarConf_nickName_204011",
+      "portrait": "bodies/monsters/xjzw_boss1a",
+      "skin": "",
+      "body": "xjzw_boss1a",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 204012,
+      "id": "xjzw_boss1b",
+      "name": "avatarConf_nickName_204012",
+      "portrait": "bodies/monsters/xjzw_boss1b",
+      "skin": "",
+      "body": "xjzw_boss1b",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 204013,
+      "id": "xjzw_boss1c",
+      "name": "avatarConf_nickName_204013",
+      "portrait": "bodies/monsters/xjzw_boss1c",
+      "skin": "",
+      "body": "xjzw_boss1c",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 204021,
+      "id": "xjzw_boss2a",
+      "name": "avatarConf_nickName_204021",
+      "portrait": "bodies/monsters/xjzw_boss2a",
+      "skin": "",
+      "body": "xjzw_boss2a",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 204022,
+      "id": "xjzw_boss2b",
+      "name": "avatarConf_nickName_204022",
+      "portrait": "bodies/monsters/xjzw_boss2b",
+      "skin": "",
+      "body": "xjzw_boss2b",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 204023,
+      "id": "xjzw_boss2c",
+      "name": "avatarConf_nickName_204023",
+      "portrait": "bodies/monsters/xjzw_boss2c",
+      "skin": "",
+      "body": "xjzw_boss2c",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 204031,
+      "id": "xjzw_boss3a",
+      "name": "avatarConf_nickName_204031",
+      "portrait": "bodies/monsters/xjzw_boss3a",
+      "skin": "",
+      "body": "xjzw_boss3a",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 204032,
+      "id": "xjzw_boss3b",
+      "name": "avatarConf_nickName_204032",
+      "portrait": "bodies/monsters/xjzw_boss3b",
+      "skin": "",
+      "body": "xjzw_boss3b",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 204033,
+      "id": "xjzw_boss3c",
+      "name": "avatarConf_nickName_204033",
+      "portrait": "bodies/monsters/xjzw_boss3c",
+      "skin": "",
+      "body": "xjzw_boss3c",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 204041,
+      "id": "xjzw_boss4a",
+      "name": "avatarConf_nickName_204041",
+      "portrait": "bodies/monsters/xjzw_boss4a",
+      "skin": "",
+      "body": "xjzw_boss4a",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 204042,
+      "id": "xjzw_boss4b",
+      "name": "avatarConf_nickName_204042",
+      "portrait": "bodies/monsters/xjzw_boss4b",
+      "skin": "",
+      "body": "xjzw_boss4b",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 204043,
+      "id": "xjzw_boss4c",
+      "name": "avatarConf_nickName_204043",
+      "portrait": "bodies/monsters/xjzw_boss4c",
+      "skin": "",
+      "body": "xjzw_boss4c",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 204051,
+      "id": "xjzw_boss5a",
+      "name": "avatarConf_nickName_204051",
+      "portrait": "bodies/monsters/xjzw_boss5a",
+      "skin": "",
+      "body": "xjzw_boss5a",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 204052,
+      "id": "xjzw_boss5b",
+      "name": "avatarConf_nickName_204052",
+      "portrait": "bodies/monsters/xjzw_boss5b",
+      "skin": "",
+      "body": "xjzw_boss5b",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 204053,
+      "id": "xjzw_boss5c",
+      "name": "avatarConf_nickName_204053",
+      "portrait": "bodies/monsters/xjzw_boss5c",
+      "skin": "",
+      "body": "xjzw_boss5c",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 205011,
+      "id": "cjqh_boss1a",
+      "name": "avatarConf_nickName_205011",
+      "portrait": "bodies/monsters/cjqh_boss1a",
+      "skin": "",
+      "body": "cjqh_boss1a",
+      "reason": "缺少动作 cjqh_boss1a/cjqh_boss1a idle"
+    },
+    {
+      "avatarId": 205012,
+      "id": "cjqh_boss1b",
+      "name": "avatarConf_nickName_205012",
+      "portrait": "bodies/monsters/cjqh_boss1b",
+      "skin": "",
+      "body": "cjqh_boss1b",
+      "reason": "缺少动作 cjqh_boss1b/cjqh_boss1b idle"
+    },
+    {
+      "avatarId": 205013,
+      "id": "cjqh_boss1c",
+      "name": "avatarConf_nickName_205013",
+      "portrait": "bodies/monsters/cjqh_boss1c",
+      "skin": "",
+      "body": "cjqh_boss1c",
+      "reason": "缺少动作 cjqh_boss1c/cjqh_boss1c idle"
+    },
+    {
+      "avatarId": 205021,
+      "id": "cjqh_boss2a",
+      "name": "avatarConf_nickName_205021",
+      "portrait": "bodies/monsters/cjqh_boss2a",
+      "skin": "",
+      "body": "cjqh_boss2a",
+      "reason": "缺少动作 cjqh_boss2a/cjqh_boss2a idle"
+    },
+    {
+      "avatarId": 205022,
+      "id": "cjqh_boss2b",
+      "name": "avatarConf_nickName_205022",
+      "portrait": "bodies/monsters/cjqh_boss2b",
+      "skin": "",
+      "body": "cjqh_boss2b",
+      "reason": "缺少动作 cjqh_boss2b/cjqh_boss2b idle"
+    },
+    {
+      "avatarId": 205023,
+      "id": "cjqh_boss2c",
+      "name": "avatarConf_nickName_205023",
+      "portrait": "bodies/monsters/cjqh_boss2c",
+      "skin": "",
+      "body": "cjqh_boss2c",
+      "reason": "缺少动作 cjqh_boss2c/cjqh_boss2c idle"
+    },
+    {
+      "avatarId": 205031,
+      "id": "cjqh_boss3a",
+      "name": "avatarConf_nickName_205031",
+      "portrait": "bodies/monsters/cjqh_boss3a",
+      "skin": "",
+      "body": "cjqh_boss3a",
+      "reason": "缺少动作 cjqh_boss3a/cjqh_boss3a idle"
+    },
+    {
+      "avatarId": 205032,
+      "id": "cjqh_boss3b",
+      "name": "avatarConf_nickName_205032",
+      "portrait": "bodies/monsters/cjqh_boss3b",
+      "skin": "",
+      "body": "cjqh_boss3b",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 205033,
+      "id": "cjqh_boss3c",
+      "name": "avatarConf_nickName_205033",
+      "portrait": "bodies/monsters/cjqh_boss3c",
+      "skin": "",
+      "body": "cjqh_boss3c",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 205041,
+      "id": "cjqh_boss4a",
+      "name": "avatarConf_nickName_205041",
+      "portrait": "bodies/monsters/cjqh_boss4a",
+      "skin": "",
+      "body": "cjqh_boss4a",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 205042,
+      "id": "cjqh_boss4b",
+      "name": "avatarConf_nickName_205042",
+      "portrait": "bodies/monsters/cjqh_boss4b",
+      "skin": "",
+      "body": "cjqh_boss4b",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 205043,
+      "id": "cjqh_boss4c",
+      "name": "avatarConf_nickName_205043",
+      "portrait": "bodies/monsters/cjqh_boss4c",
+      "skin": "",
+      "body": "cjqh_boss4c",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 205051,
+      "id": "cjqh_boss5a",
+      "name": "avatarConf_nickName_205051",
+      "portrait": "bodies/monsters/cjqh_boss5a",
+      "skin": "",
+      "body": "cjqh_boss5a",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 205052,
+      "id": "cjqh_boss5b",
+      "name": "avatarConf_nickName_205052",
+      "portrait": "bodies/monsters/cjqh_boss5b",
+      "skin": "",
+      "body": "cjqh_boss5b",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 205053,
+      "id": "cjqh_boss5c",
+      "name": "avatarConf_nickName_205053",
+      "portrait": "bodies/monsters/cjqh_boss5c",
+      "skin": "",
+      "body": "cjqh_boss5c",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 205061,
+      "id": "cjqh_boss6a",
+      "name": "avatarConf_nickName_205061",
+      "portrait": "bodies/monsters/cjqh_boss6a",
+      "skin": "",
+      "body": "cjqh_boss6a",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 205062,
+      "id": "cjqh_boss6b",
+      "name": "avatarConf_nickName_205062",
+      "portrait": "bodies/monsters/cjqh_boss6b",
+      "skin": "",
+      "body": "cjqh_boss6b",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 205063,
+      "id": "cjqh_boss6c",
+      "name": "avatarConf_nickName_205063",
+      "portrait": "bodies/monsters/cjqh_boss6c",
+      "skin": "",
+      "body": "cjqh_boss6c",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 206011,
+      "id": "ss_boss1a",
+      "name": "avatarConf_nickName_206011",
+      "portrait": "bodies/monsters/ss_boss1a",
+      "skin": "",
+      "body": "ss_boss1a",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 206012,
+      "id": "ss_boss1b",
+      "name": "avatarConf_nickName_206012",
+      "portrait": "bodies/monsters/ss_boss1b",
+      "skin": "",
+      "body": "ss_boss1b",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 206013,
+      "id": "ss_boss1c",
+      "name": "avatarConf_nickName_206013",
+      "portrait": "bodies/monsters/ss_boss1c",
+      "skin": "",
+      "body": "ss_boss1c",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 206021,
+      "id": "ss_boss2a",
+      "name": "avatarConf_nickName_206021",
+      "portrait": "bodies/monsters/ss_boss2a",
+      "skin": "",
+      "body": "ss_boss2a",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 206022,
+      "id": "ss_boss2b",
+      "name": "avatarConf_nickName_206022",
+      "portrait": "bodies/monsters/ss_boss2b",
+      "skin": "",
+      "body": "ss_boss2b",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 206023,
+      "id": "ss_boss2c",
+      "name": "avatarConf_nickName_206023",
+      "portrait": "bodies/monsters/ss_boss2c",
+      "skin": "",
+      "body": "ss_boss2c",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 206031,
+      "id": "ss_boss3a",
+      "name": "avatarConf_nickName_206031",
+      "portrait": "bodies/monsters/ss_boss3a",
+      "skin": "",
+      "body": "ss_boss3a",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 206032,
+      "id": "ss_boss3b",
+      "name": "avatarConf_nickName_206032",
+      "portrait": "bodies/monsters/ss_boss3b",
+      "skin": "",
+      "body": "ss_boss3b",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 206033,
+      "id": "ss_boss3c",
+      "name": "avatarConf_nickName_206033",
+      "portrait": "bodies/monsters/ss_boss3c",
+      "skin": "",
+      "body": "ss_boss3c",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 206041,
+      "id": "ss_boss4a",
+      "name": "avatarConf_nickName_206041",
+      "portrait": "bodies/monsters/ss_boss4a",
+      "skin": "",
+      "body": "ss_boss4a",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 206042,
+      "id": "ss_boss4b",
+      "name": "avatarConf_nickName_206042",
+      "portrait": "bodies/monsters/ss_boss4b",
+      "skin": "",
+      "body": "ss_boss4b",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 206043,
+      "id": "ss_boss4c",
+      "name": "avatarConf_nickName_206043",
+      "portrait": "bodies/monsters/ss_boss4c",
+      "skin": "",
+      "body": "ss_boss4c",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 206051,
+      "id": "ss_boss5a",
+      "name": "avatarConf_nickName_206051",
+      "portrait": "bodies/monsters/ss_boss5a",
+      "skin": "",
+      "body": "ss_boss5a",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 206052,
+      "id": "ss_boss5b",
+      "name": "avatarConf_nickName_206052",
+      "portrait": "bodies/monsters/ss_boss5b",
+      "skin": "",
+      "body": "ss_boss5b",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 206053,
+      "id": "ss_boss5c",
+      "name": "avatarConf_nickName_206053",
+      "portrait": "bodies/monsters/ss_boss5c",
+      "skin": "",
+      "body": "ss_boss5c",
+      "animations": [
+        "idle",
+        "idle1",
+        "in",
+        "out",
+        "speak"
+      ]
+    },
+    {
+      "avatarId": 207011,
+      "id": "wbhj_boss1a",
+      "name": "avatarConf_nickName_207011",
+      "portrait": "bodies/monsters/wbhj_boss1a",
+      "skin": "",
+      "body": "wbhj_boss1a",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 207012,
+      "id": "wbhj_boss1b",
+      "name": "avatarConf_nickName_207012",
+      "portrait": "bodies/monsters/wbhj_boss1c",
+      "skin": "",
+      "body": "wbhj_boss1b",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 207013,
+      "id": "wbhj_boss1c",
+      "name": "avatarConf_nickName_207013",
+      "portrait": "bodies/monsters/wbhj_boss1b",
+      "skin": "",
+      "body": "wbhj_boss1c",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 207021,
+      "id": "wbhj_boss2a",
+      "name": "avatarConf_nickName_207021",
+      "portrait": "bodies/monsters/wbhj_boss2a",
+      "skin": "",
+      "body": "wbhj_boss2a",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 207022,
+      "id": "wbhj_boss2b",
+      "name": "avatarConf_nickName_207022",
+      "portrait": "bodies/monsters/wbhj_boss2b",
+      "skin": "",
+      "body": "wbhj_boss2b",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 207023,
+      "id": "wbhj_boss2c",
+      "name": "avatarConf_nickName_207023",
+      "portrait": "bodies/monsters/wbhj_boss2c",
+      "skin": "",
+      "body": "wbhj_boss2c",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 207031,
+      "id": "wbhj_boss3a",
+      "name": "avatarConf_nickName_207031",
+      "portrait": "bodies/monsters/wbhj_boss3a",
+      "skin": "",
+      "body": "wbhj_boss3a",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 207032,
+      "id": "wbhj_boss3b",
+      "name": "avatarConf_nickName_207032",
+      "portrait": "bodies/monsters/wbhj_boss3b",
+      "skin": "",
+      "body": "wbhj_boss3b",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 207033,
+      "id": "wbhj_boss3c",
+      "name": "avatarConf_nickName_207033",
+      "portrait": "bodies/monsters/wbhj_boss3c",
+      "skin": "",
+      "body": "wbhj_boss3c",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 207041,
+      "id": "wbhj_boss4a",
+      "name": "avatarConf_nickName_207041",
+      "portrait": "bodies/monsters/wbhj_boss4a",
+      "skin": "",
+      "body": "wbhj_boss4a",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 207042,
+      "id": "wbhj_boss4b",
+      "name": "avatarConf_nickName_207042",
+      "portrait": "bodies/monsters/wbhj_boss4b",
+      "skin": "",
+      "body": "wbhj_boss4b",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 207043,
+      "id": "wbhj_boss4c",
+      "name": "avatarConf_nickName_207043",
+      "portrait": "bodies/monsters/wbhj_boss4c",
+      "skin": "",
+      "body": "wbhj_boss4c",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 207051,
+      "id": "wbhj_boss5a",
+      "name": "avatarConf_nickName_207051",
+      "portrait": "bodies/monsters/wbhj_boss5a",
+      "skin": "",
+      "body": "wbhj_boss5a",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 207052,
+      "id": "wbhj_boss5b",
+      "name": "avatarConf_nickName_207052",
+      "portrait": "bodies/monsters/wbhj_boss5b",
+      "skin": "",
+      "body": "wbhj_boss5b",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 207053,
+      "id": "wbhj_boss5c",
+      "name": "avatarConf_nickName_207053",
+      "portrait": "bodies/monsters/wbhj_boss5c",
+      "skin": "",
+      "body": "wbhj_boss5c",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 208011,
+      "id": "ygbh_boss_bgj",
+      "name": "白骨精",
+      "portrait": "bodies/monsters/ygbh_boss_bgj",
+      "skin": "",
+      "body": "ygbh_boss_bgj",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 208012,
+      "id": "ygbh_boss_nmw",
+      "name": "牛魔王",
+      "portrait": "bodies/monsters/ygbh_boss_nmw",
+      "skin": "",
+      "body": "ygbh_boss_nmw",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill",
+        "skill2"
+      ]
+    },
+    {
+      "avatarId": 208013,
+      "id": "ygbh_boss_zzj",
+      "name": "蜘蛛精",
+      "portrait": "bodies/monsters/ygbh_boss_zzj",
+      "skin": "",
+      "body": "ygbh_boss_zzj",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 208014,
+      "id": "ygbh_boss_edj",
+      "name": "二当家",
+      "portrait": "bodies/monsters/ygbh_boss_edj",
+      "skin": "",
+      "body": "ygbh_boss_edj",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 208015,
+      "id": "ygbh_boss_qx",
+      "name": "盘丝大仙",
+      "portrait": "bodies/monsters/ygbh_boss_qx",
+      "skin": "",
+      "body": "ygbh_boss_qx",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 208016,
+      "id": "ygbh_boss_zx",
+      "name": "盘丝大仙·紫霞",
+      "portrait": "bodies/monsters/ygbh_boss_zx",
+      "skin": "",
+      "body": "ygbh_boss_zx",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 209001,
+      "id": "dsqq_boss_els",
+      "name": "二郎神",
+      "portrait": "bodies/monsters/dsqq_boss_els",
+      "skin": "",
+      "body": "dsqq_boss_els",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 209002,
+      "id": "dsqq_boss_hmkqj",
+      "name": "蛤蟆孔雀",
+      "portrait": "bodies/monsters/dsqq_boss_hmkqj",
+      "skin": "",
+      "body": "dsqq_boss_hmkqj",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 209003,
+      "id": "dsqq_boss_hsly",
+      "name": "黑山老妖",
+      "portrait": "bodies/monsters/dsqq_boss_hsly",
+      "skin": "",
+      "body": "dsqq_boss_hsly",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 209004,
+      "id": "dsqq_boss_nxx",
+      "name": "牛香香",
+      "portrait": "bodies/monsters/dsqq_boss_nxx",
+      "skin": "",
+      "body": "dsqq_boss_nxx",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 209005,
+      "id": "dsqq_boss_tsgz",
+      "name": "铁扇公主",
+      "portrait": "bodies/monsters/dsqq_boss_tsgz",
+      "skin": "",
+      "body": "dsqq_boss_tsgz",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 210001,
+      "id": "tbhdqx_boss_dcc",
+      "name": "对穿肠",
+      "portrait": "bodies/monsters/tbhdqx_boss_dcc",
+      "skin": "",
+      "body": "tbhdqx_boss_dcc",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 210002,
+      "id": "tbhdqx_boss_ls",
+      "name": "教书先生",
+      "portrait": "bodies/monsters/tbhdqx_boss_ls",
+      "skin": "",
+      "body": "tbhdqx_boss_ls",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 210003,
+      "id": "tbhdqx_boss_sez",
+      "name": "华文华武",
+      "portrait": "bodies/monsters/tbhdqx_boss_sez",
+      "skin": "",
+      "body": "tbhdqx_boss_sez",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 210004,
+      "id": "tbhdqx_boss_slj",
+      "name": "石榴姐",
+      "portrait": "bodies/monsters/tbhdqx_boss_slj",
+      "skin": "",
+      "body": "tbhdqx_boss_slj",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 210005,
+      "id": "tbhdqx_boss_dmxs",
+      "name": "夺命书生",
+      "portrait": "bodies/monsters/tbhdqx_boss_dmxs",
+      "skin": "",
+      "body": "tbhdqx_boss_dmxs",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 210007,
+      "id": "znq2024_boss_ft",
+      "name": "avatarConf_nickName_210007",
+      "portrait": "bodies/monsters/znq2024_boss_ft",
+      "skin": "",
+      "body": "znq2024_boss_ft",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 210008,
+      "id": "znq2024_boss_xn",
+      "name": "avatarConf_nickName_210008",
+      "portrait": "bodies/monsters/znq2024_boss_xn",
+      "skin": "",
+      "body": "znq2024_boss_xn",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 210009,
+      "id": "znq2024_boss_zcyg",
+      "name": "avatarConf_nickName_210009",
+      "portrait": "bodies/monsters/znq2024_boss_zcyg",
+      "skin": "",
+      "body": "znq2024_boss_zcyg",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "skill"
+      ]
+    },
+    {
+      "avatarId": 220002,
+      "id": "sdjs_boss6",
+      "name": "avatarConf_nickName_220002",
+      "portrait": "bodies/monsters/youmingshilian_s1_boss",
+      "skin": "mask",
+      "body": "sdjs_boss6",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "show",
+        "skill",
+        "speak"
+      ]
+    },
+    {
+      "avatarId": 220003,
+      "id": "sdjs_boss3",
+      "name": "avatarConf_nickName_220003",
+      "portrait": "bodies/monsters/youmingshilian_s2_boss",
+      "skin": "mask",
+      "body": "sdjs_boss3",
+      "animations": [
+        "attack",
+        "damage",
+        "damage2",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "show",
+        "skill",
+        "speak"
+      ]
+    },
+    {
+      "avatarId": 220004,
+      "id": "sdjs_boss2",
+      "name": "avatarConf_nickName_220004",
+      "portrait": "bodies/monsters/youmingshilian_s3_boss",
+      "skin": "mask",
+      "body": "sdjs_boss2",
+      "animations": [
+        "attack",
+        "damage",
+        "die",
+        "fall",
+        "idle",
+        "run",
+        "show",
+        "skill",
+        "speak"
+      ]
+    },
+    {
+      "avatarId": 2506251,
+      "id": "xshd_penboss",
+      "name": "聚宝盆",
+      "portrait": "bodies/monsters/xshd_penboss",
+      "skin": "",
+      "body": "xshd_penboss",
+      "reason": "缺少首领立绘 bodies/monsters/xshd_penboss"
+    }
+  ],
+  "sourceHeroCount": 64,
+  "sourceVariants": 222
+}

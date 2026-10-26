@@ -1,0 +1,12 @@
+{
+  "checked": 0,
+  "poses": 11,
+  "failures": [
+    {
+      "type": "boss",
+      "id": "ygbh_boss_bgj",
+      "body": "ygbh_boss_bgj/ygbh_boss_bgj",
+      "message": "Non-finite pose: skill dt=0.5 bones=ygbh_boss_bgj_tui1:active=true"
+    }
+  ]
+}

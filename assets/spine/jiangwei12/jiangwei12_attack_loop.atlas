@@ -1,0 +1,41 @@
+
+jiangwei12_attack_loop.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiangwei12_pg_zddi
+  rotate: false
+  xy: 130, 27
+  size: 188, 72
+  orig: 188, 72
+  offset: 0, 0
+  index: -1
+jiangwei12_pg_zdlz1
+  rotate: true
+  xy: 388, 46
+  size: 53, 52
+  orig: 53, 52
+  offset: 0, 0
+  index: -1
+jiangwei12_pg_zdlz2
+  rotate: false
+  xy: 320, 44
+  size: 66, 55
+  orig: 77, 59
+  offset: 8, 2
+  index: -1
+jiangwei12_pg_zdtou
+  rotate: false
+  xy: 2, 2
+  size: 126, 97
+  orig: 126, 97
+  offset: 0, 0
+  index: -1
+jiangwei12_pg_zdtw
+  rotate: false
+  xy: 388, 28
+  size: 52, 16
+  orig: 52, 16
+  offset: 0, 0
+  index: -1

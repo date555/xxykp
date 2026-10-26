@@ -1,0 +1,1280 @@
+{
+  "version": "3c7b0bfc39",
+  "assets": [
+    {
+      "file": "assets/heroes/guojia.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\heroes\\guojia.png",
+      "sha256": "10d65b6dfef64c5fe58fd118e1421afce86606d90e7677325b8e5b134f31cb18"
+    },
+    {
+      "file": "assets/heads/guojia.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\small_heads\\heroes\\guojia.png",
+      "sha256": "ae7e6bfcadf9cb9680c6b11d7e9116fec6ce23a6961fc8cd40d449c404cd5a1d"
+    },
+    {
+      "file": "assets/heroes/zhouyu.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\heroes\\zhouyu.png",
+      "sha256": "b2e44240c33f32be104f36c243f17020e60e7a130ec20421ed7894700c323803"
+    },
+    {
+      "file": "assets/heads/zhouyu.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\small_heads\\heroes\\zhouyu.png",
+      "sha256": "5efcdf502e255faf4c0a257d682aed2b86ca94c1a892ca31ae9d085b9dcac61f"
+    },
+    {
+      "file": "assets/heroes/simayi.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\heroes\\simayi.png",
+      "sha256": "6bdeb26d638734691dc5b740592e379cd0a5d0e696d96c4e03f6bff678f5d562"
+    },
+    {
+      "file": "assets/heads/simayi.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\small_heads\\heroes\\simayi.png",
+      "sha256": "1f384ac722d691ed000ad608d0e6acc615ab3a74c02729f3493ed8eda2851a98"
+    },
+    {
+      "file": "assets/heroes/ganning.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\heroes\\ganning.png",
+      "sha256": "ad4b9240f6e8de5dca24071243af5093a596e5cc7a5b8ccfe2cbf70ed92f05a0"
+    },
+    {
+      "file": "assets/heads/ganning.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\small_heads\\heroes\\ganning.png",
+      "sha256": "10324b2b38a20dffbf340fa1907e60c98deb899e0ab8069be662569ffa4a0928"
+    },
+    {
+      "file": "assets/heroes/lusu.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\heroes\\lusu.png",
+      "sha256": "e40b3bf4d8436ba73c5f59732824e58450a74babff842fca72ae44bec26baaa2"
+    },
+    {
+      "file": "assets/heads/lusu.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\small_heads\\heroes\\lusu.png",
+      "sha256": "b333467fa18426b409bde02556d6b6699e1bda142ac2a5289776a4e0f95b70df"
+    },
+    {
+      "file": "assets/heroes/pangtong.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\heroes\\pangtong.png",
+      "sha256": "7866d4cff0d1f4435f10c31622e4bf93c9c1aee3510fe80571751532052bb08d"
+    },
+    {
+      "file": "assets/heads/pangtong.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\small_heads\\heroes\\pangtong.png",
+      "sha256": "dd841ca2f0027527d95e086267d467c6689ec31dcd33731a62fa432cb94dd100"
+    },
+    {
+      "file": "assets/heroes/gongsunzan.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\heroes\\gongsunzan.png",
+      "sha256": "22a9a23208f192d4013943d29e52e33a3178edbf99d1f490987f89417c13b44d"
+    },
+    {
+      "file": "assets/heads/gongsunzan.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\small_heads\\heroes\\gongsunzan.png",
+      "sha256": "e162997f3efe3bd77679e6a708e7e41a42a8355fa9d0983b109c8bbb3ca7bc2b"
+    },
+    {
+      "file": "assets/heroes/zhangjiao.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\heroes\\zhangjiao.png",
+      "sha256": "8d963d85771c7e3ad7548890ed9a8ab1f88a43dd03b0af66deb15f69edecd662"
+    },
+    {
+      "file": "assets/heads/zhangjiao.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\small_heads\\heroes\\zhangjiao.png",
+      "sha256": "8612977faed75d080c5e26e57af36163c0eeeedb6bed5763346be1b69bfe5324"
+    },
+    {
+      "file": "assets/heroes/zhugeliang.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\heroes\\zhugeliang.png",
+      "sha256": "ae33db21f97ff39d8219d534c71203c11bd115b33dbb071e3504bf0898369e80"
+    },
+    {
+      "file": "assets/heads/zhugeliang.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\small_heads\\heroes\\zhugeliang.png",
+      "sha256": "9d138d39b1d1a1c16f5e2ca1a828aae6b9adbe41551f154af8f485aaa2376129"
+    },
+    {
+      "file": "assets/heroes/zhenji.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\heroes\\zhenji.png",
+      "sha256": "6ce78a3b8324f733dddf6c126e849ab90d10b17b732115aa3545fb63c61631b0"
+    },
+    {
+      "file": "assets/heads/zhenji.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\small_heads\\heroes\\zhenji.png",
+      "sha256": "123d116784a1f7aa0d8b210a0c868e9e0a606181cc697df157e04918e94ca657"
+    },
+    {
+      "file": "assets/heroes/huangyueying.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\heroes\\huangyueying.png",
+      "sha256": "b182a94f3db7ecd557c3c7df8d42de1ed9cf001259b54c935fe594229083174d"
+    },
+    {
+      "file": "assets/heads/huangyueying.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\small_heads\\heroes\\huangyueying.png",
+      "sha256": "f13c0f5647245744656f245fa18d6c11ce04a6c7ff65f84bb298a8b5fa20058b"
+    },
+    {
+      "file": "assets/heroes/xiahouyuan.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\heroes\\xiahouyuan.png",
+      "sha256": "1c11e22c63c6b19237f7645ae08caf95295e0e94e900201df4308d63064a2e2d"
+    },
+    {
+      "file": "assets/heads/xiahouyuan.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\small_heads\\heroes\\xiahouyuan.png",
+      "sha256": "efbdc11b99e72bb0d9b216c81ca9d5aa9beda3238428ee10f8314287bc6c535d"
+    },
+    {
+      "file": "assets/heroes/huangzhong.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\heroes\\huangzhong.png",
+      "sha256": "4a128a06083738a83ec11a9836e784ecd87a76c67f9ceef1c2ba74b4f428d82e"
+    },
+    {
+      "file": "assets/heads/huangzhong.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\small_heads\\heroes\\huangzhong.png",
+      "sha256": "dc047b357ccd46830e85852dba7050f041a0559f0092b67e078a35cc76c121bb"
+    },
+    {
+      "file": "assets/heroes/zhangzhao.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\heroes\\zhangzhao.png",
+      "sha256": "ba453acd957a65463e543ce668be1509e54bdd8c38b1ffea98523ddd4e3c746a"
+    },
+    {
+      "file": "assets/heads/zhangzhao.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\small_heads\\heroes\\zhangzhao.png",
+      "sha256": "16630fe8aa9f35a990f081b19f55333260521b9b93b9076b7f9f6364a962a528"
+    },
+    {
+      "file": "assets/heroes/luji.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\heroes\\luji.png",
+      "sha256": "fccdc5b731b6b11edf474d727f74b03e6d1dbd9c47cc7e1c20d6bf9bcd7cf8e2"
+    },
+    {
+      "file": "assets/heads/luji.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\small_heads\\heroes\\luji.png",
+      "sha256": "043ec49bc851b6903287601a64ff18d4cb47f0cd4a926617f31fb29fdc65d274"
+    },
+    {
+      "file": "assets/heroes/zhurongfuren.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\heroes\\zhurongfuren.png",
+      "sha256": "743ec7f3174757f9da0015472ef9676472bbc77c0ba406f318537ec5d30325e6"
+    },
+    {
+      "file": "assets/heads/zhurongfuren.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\small_heads\\heroes\\zhurongfuren.png",
+      "sha256": "63973028a3f6b3f10662f7a89f93bd3c42a8b2c3b371ce7f7d7cb98e39fc5bb5"
+    },
+    {
+      "file": "assets/heroes/guanyu.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\heroes\\guanyu3.png",
+      "sha256": "fa7087b3534dd79cd391028bb1accc06fce6a149a0d8e2e1159696fd5780c6c2"
+    },
+    {
+      "file": "assets/heads/guanyu.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\small_heads\\heroes\\guanyu3.png",
+      "sha256": "7aee5bca195807d419c9389284f3a9cce7aecabe99075eed359e24a7ce4b53cc"
+    },
+    {
+      "file": "assets/heroes/taishici.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\heroes\\taishici4.png",
+      "sha256": "141dc859347742c94cb2e3beac313b25973102cb72ceae4d3e12a61e0ce6548e"
+    },
+    {
+      "file": "assets/heads/taishici.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\small_heads\\heroes\\taishici4.png",
+      "sha256": "95ddf123ea86827642c39f8d5ddef89ad48ab3c077117f533d0633ed746cef47"
+    },
+    {
+      "file": "assets/heroes/lvbu.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\heroes\\lvbu4.png",
+      "sha256": "c7833756ce86706768a804e906f4821bf80a0137cffb5a3431bb7ee99bab6ea6"
+    },
+    {
+      "file": "assets/heads/lvbu.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\small_heads\\heroes\\lvbu4.png",
+      "sha256": "a38beff0b0de2d0cea8f6092ec4eafb6d9023926304dee8cdeee656e7d8e8ab1"
+    },
+    {
+      "file": "assets/heroes/huatuo.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\heroes\\huatuo4.png",
+      "sha256": "d25f8c1d415e7834aa917c22a66fc0223a20bfaaa0f98191a648fd7798ff356a"
+    },
+    {
+      "file": "assets/heads/huatuo.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\small_heads\\heroes\\huatuo4.png",
+      "sha256": "48a03e4dfc4dc9e9c77d4a131ae009e9ba4fc164f14e2ce7185796849b72ca4c"
+    },
+    {
+      "file": "assets/heroes/sunce.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\heroes\\sunce5.png",
+      "sha256": "5a18ae0e48ec9a561510a0642a84b3d100bd13d94547616036a628c3355fa5fe"
+    },
+    {
+      "file": "assets/heads/sunce.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\small_heads\\heroes\\sunce5.png",
+      "sha256": "8bec916347ef802493279521a6c4c77ed67e1eefd066ca5974468a727fecc0d3"
+    },
+    {
+      "file": "assets/heroes/jiaxu.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\heroes\\jiaxu6.png",
+      "sha256": "6ee85c68dfe9b303064f076e708c7b20dfbea54c8a04abb8d50cd2c0505082c1"
+    },
+    {
+      "file": "assets/heads/jiaxu.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\small_heads\\heroes\\jiaxu6.png",
+      "sha256": "354ce6582375924c6fb900f0600e41c83949e344050bab8cf282372c7ea7c835"
+    },
+    {
+      "file": "assets/heroes/caoren.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\heroes\\caoren3.png",
+      "sha256": "b43f68e1d7f29c7932720f9a4cac997eeb3f25f28705dd0c39808d99942f6917"
+    },
+    {
+      "file": "assets/heads/caoren.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\small_heads\\heroes\\caoren3.png",
+      "sha256": "f9a42e1c4115de4954263717aaaeb0cff34868de851469ff29d465e881260bf8"
+    },
+    {
+      "file": "assets/heroes/jiangwei.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\heroes\\jiangwei2.png",
+      "sha256": "71e074ac35697b3ef58e3bda333e68543326c2f5c682450d7aa0cfcca13a03c0"
+    },
+    {
+      "file": "assets/heads/jiangwei.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\small_heads\\heroes\\jiangwei2.png",
+      "sha256": "09d0110f99384f95b979dcc298da3f150d7f8b9d405e1082a748ea43252bcac2"
+    },
+    {
+      "file": "assets/heroes/sunjian.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\heroes\\sunjian5.png",
+      "sha256": "abccb60e5921a4df213da2265263b0d94e6b6eedf4f675d8cd1c203039f8d616"
+    },
+    {
+      "file": "assets/heads/sunjian.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\small_heads\\heroes\\sunjian5.png",
+      "sha256": "675477bdc81c5e0fe49e4c5bf09483f71857ec873f01ba248b16ce70004ca4d9"
+    },
+    {
+      "file": "assets/heroes/daqiao.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\heroes\\daqiao.png",
+      "sha256": "e6ce34cc53685dcabac43b443691a7e90152d6e985cd22cc5217ea1d0b1129d8"
+    },
+    {
+      "file": "assets/heads/daqiao.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\small_heads\\heroes\\daqiao.png",
+      "sha256": "c1a475949e1894e439c309fec138cb3e7dd1d8546c2981491a77f4f38ef32574"
+    },
+    {
+      "file": "assets/heroes/xiaoqiao.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\heroes\\xiaoqiao.png",
+      "sha256": "13cf14d7684edb34bda74a2ec6f69d2a4ed3c6112e1d76458af19b6c7c06df84"
+    },
+    {
+      "file": "assets/heads/xiaoqiao.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\small_heads\\heroes\\xiaoqiao.png",
+      "sha256": "59f58246fedc0f2c6dafbed5d1e7948610823572a54b06b552a90b9639203f51"
+    },
+    {
+      "file": "assets/enemies/xiaobing_daobing.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\xiaobing_daobing.png",
+      "sha256": "681cf335dae96a15d038b34f498c82249da2a4d8c91d8dbae5ed3f0b2844eafd"
+    },
+    {
+      "file": "assets/enemies/xiaobing_gongbing.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\xiaobing_gongbing.png",
+      "sha256": "1ca46ea38885b253e22fdcc3b377bbad3632160d4b719702dc27bbeaf8e530bc"
+    },
+    {
+      "file": "assets/enemies/xiaobing_dunbing.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\xiaobing_dunbing.png",
+      "sha256": "fe90621106e9f95d04d5e10b3ac58a3f711ffbc1c6cbf610affccc6c80ebd0d9"
+    },
+    {
+      "file": "assets/enemies/xiaobing_kulou.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\xiaobing_kulou.png",
+      "sha256": "2fb68b57104fcad3fd6b4a898401116f98f35539865a0070b5c2490a230c6652"
+    },
+    {
+      "file": "assets/enemies/xiaobing2_fazhang.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\xiaobing2_fazhang.png",
+      "sha256": "9ff3b94bca2c9aaf18114e9ef1776cb4513395da6337f44d425a40b9eb7e4cbf"
+    },
+    {
+      "file": "assets/enemies/xiaobing4_feidao.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\xiaobing4_feidao.png",
+      "sha256": "158389534f7cc882ed42f2eb4ce57fbdec3e6485a4ef1f49ce76be7be680c4ae"
+    },
+    {
+      "file": "assets/enemies/xiaobing4_luo.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\xiaobing4_luo.png",
+      "sha256": "25c8ca87f2855d3fbe6134713549034427bfe1d4aec3b47031e4de55a12204ac"
+    },
+    {
+      "file": "assets/enemies/xiaobing5_zhentong.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\xiaobing5_zhentong.png",
+      "sha256": "70bd6a26d5162c081c373548b0273f4f8d720e4be537ef56246cab0529237881"
+    },
+    {
+      "file": "assets/enemies/xiaobing5_dunbing.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\xiaobing5_dunbing.png",
+      "sha256": "e31373187cddfcc98d46a5b81f3cb42667d1ca6a069db9908f3be3d033f94bee"
+    },
+    {
+      "file": "assets/enemies/boss_baobaoshe.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\boss_baobaoshe.png",
+      "sha256": "2b36fa49a67a50d65f7eadbe22569f3fdbcf67529f6e825b7cf7aff7e3165dab"
+    },
+    {
+      "file": "assets/enemies/boss_diandianwa.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\boss_diandianwa.png",
+      "sha256": "3fb20a7e265cdcf1a0ce073b76269b11453be53df1ed64e8fa8052debb4912fd"
+    },
+    {
+      "file": "assets/enemies/boss_weiweiyu.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\boss_weiweiyu.png",
+      "sha256": "c70ceb4a8937222400de11f494a1059e50cb4ac511b7176ad6c331fa359b1e22"
+    },
+    {
+      "file": "assets/enemies/boss_yanzu.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\boss_yanzu.png",
+      "sha256": "dbf60f0df740e8112bcf283494ad4107f35c30fa1720ac6c926e79761ad06ff3"
+    },
+    {
+      "file": "assets/enemies/bosstower_boss1.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\bosstower_boss1.png",
+      "sha256": "fde2ee028246c65c0fd92e70dfaf1f665bc0fbb50614db8edcd1680fd4365e1c"
+    },
+    {
+      "file": "assets/enemies/bosstower_boss4.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\bosstower_boss4.png",
+      "sha256": "f544208b7b76b8a7f75d8505a9b7ad76e8817619a7de4d99a6f498c22f5fcb95"
+    },
+    {
+      "file": "assets/enemies/bosstower_boss2.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\bosstower_boss2.png",
+      "sha256": "b4b5c6fa10fef442dc70e64328df3d0223057fa2a5096e83cff54928c47099fe"
+    },
+    {
+      "file": "assets/enemies/bosstower_boss3.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\bosstower_boss3.png",
+      "sha256": "ef82e7d02eb33cdbe4de9d3a80ab6c0c6a981cea49de141650f6cc51eef623f5"
+    },
+    {
+      "file": "assets/enemies/boss_chaiyouxiongdi.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\boss_chaiyouxiongdi.png",
+      "sha256": "26cebf8dea61edf845d1c377d2b2f816dfc51ef69e22ba9e8ab0b0d357a497bf"
+    },
+    {
+      "file": "assets/enemies/boss_qinguangwang.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\boss_qinguangwang.png",
+      "sha256": "f440e54621882f48a16e11ee1251490b207be65f7b50a298065944035f4e5a4a"
+    },
+    {
+      "file": "assets/enemies/dengshenwei.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\dengshenwei.png",
+      "sha256": "8236570bd13180d77851cceb8544d2dafd59db3d4c1542e5dfb72204d6a9cec9"
+    },
+    {
+      "file": "assets/enemies/dengshenshu.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\dengshenshu.png",
+      "sha256": "594648fa86e5cc8bee1875f33b63efad85d311242b8dce31daae948a1f002f1f"
+    },
+    {
+      "file": "assets/enemies/dengshenwu.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\dengshenwu.png",
+      "sha256": "2020429b88abbc77f2d4724a753008f9f6288b598b0608d10673cc54d44fe9de"
+    },
+    {
+      "file": "assets/enemies/dengshenqun.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\dengshenqun.png",
+      "sha256": "d84ec6313baa02487bf72bca138a88cc50c30c590e8f25f01805cf17b72cf680"
+    },
+    {
+      "file": "assets/enemies/yzxt_dengshen.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\yzxt_dengshen.png",
+      "sha256": "f4bb2c66d463595a2de70e1ea3344f6969c9ac0ac2e7228ba426cc8b4d2c97cc"
+    },
+    {
+      "file": "assets/enemies/ymj_boss.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\ymj_boss.png",
+      "sha256": "5b09acf23f26e98069b53541153e1bb3c5c6a2e666d5cdb8d1795d1f2d50aa35"
+    },
+    {
+      "file": "assets/enemies/zytp_boss1.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\zytp_boss1.png",
+      "sha256": "f8251c7bb6078b727b152117c413c8a6c8f505dca3e9fb7b66d63c9a4cf0b6b6"
+    },
+    {
+      "file": "assets/enemies/zytp_boss2.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\zytp_boss2.png",
+      "sha256": "1216ffb55d462183993faa067e99012a338cea15e3c71059982dde115ee41edc"
+    },
+    {
+      "file": "assets/enemies/zytp_boss3.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\zytp_boss3.png",
+      "sha256": "035d988c4577957ec63640e26c211b99dc993ed22cfbcf9ede169797222b863d"
+    },
+    {
+      "file": "assets/enemies/zytp_boss5.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\zytp_boss5.png",
+      "sha256": "a386d2701c1eb141c4b444fd4beaf5dc1f2991b2cc1dc566013a4998a06599f5"
+    },
+    {
+      "file": "assets/enemies/qiuyuanboss01.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\qiuyuanboss01.png",
+      "sha256": "f073ac00b59179f6b8f4b44673151bf854e31db40e4c6ac1888f275da25ec066"
+    },
+    {
+      "file": "assets/enemies/sdsl_boss1.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\sdsl_boss1.png",
+      "sha256": "f440e54621882f48a16e11ee1251490b207be65f7b50a298065944035f4e5a4a"
+    },
+    {
+      "file": "assets/enemies/sdsl_boss2.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\sdsl_boss2.png",
+      "sha256": "ea09ca0b6714a6c5998847b4cd1cce536e5ea08f389dfa4ed732884c434fe57b"
+    },
+    {
+      "file": "assets/enemies/sdsl_boss3.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\sdsl_boss3.png",
+      "sha256": "176df3e5a93f8e3e78b7d9769d02632e803d317d925822a704659eb745223a8b"
+    },
+    {
+      "file": "assets/enemies/sdsl_boss4.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\sdsl_boss4.png",
+      "sha256": "3d58da510a5b5441919123f2154c752c1b3573ea46bdaa62419da36306b4ef55"
+    },
+    {
+      "file": "assets/enemies/sdsl_boss5.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\sdsl_boss5.png",
+      "sha256": "01f71fc93aa3ef4df2f364c44706c4f8c9dd7b52a309e0f86a356be202e47e12"
+    },
+    {
+      "file": "assets/enemies/sdsl_boss6.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\sdsl_boss6.png",
+      "sha256": "eda2ee9d1259ae78179413260cd0f4b11234dc8cbb2b89c5fe4b3d56d58f6b25"
+    },
+    {
+      "file": "assets/enemies/sdsl_boss7.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\sdsl_boss7.png",
+      "sha256": "f766569373b8bfec83eebe3c7e30a5037928123d1e161b32e9f3677b8b98e655"
+    },
+    {
+      "file": "assets/enemies/shidianshilian_boss8.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\shidianshilian_boss8.png",
+      "sha256": "9aee503ad7da6b3e02aa879dcbc2f18ed9142254d2fb6998d089fa71ddec800e"
+    },
+    {
+      "file": "assets/enemies/shidianshilian_boss9.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\shidianshilian_boss9.png",
+      "sha256": "1532304e08a3e53bd8ff9cc12917c300221ffc462d48ad15c2d7385de3595e96"
+    },
+    {
+      "file": "assets/enemies/shidianshilian_boss9_1.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\shidianshilian_boss9_1.png",
+      "sha256": "6cf9c1cdc7ee5ee9fe7eee1993fbcb0e3bbde5779eaa9faac6b70e2aab458427"
+    },
+    {
+      "file": "assets/enemies/xjzw_boss0a.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\xjzw_boss0a.png",
+      "sha256": "bcd27e2caf3a514fdbe70da3c1868f521fbda9330939425b48285a8c938988fa"
+    },
+    {
+      "file": "assets/enemies/xjzw_boss0b.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\xjzw_boss0b.png",
+      "sha256": "166d9fb618759d824b1e627ef2a5beb3886f32b8f3bd88fa6f40418ba1484314"
+    },
+    {
+      "file": "assets/enemies/xjzw_boss0c.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\xjzw_boss0c.png",
+      "sha256": "3250f7f83254408408b968f191b91455ffa4dac65f64beca58349136913af9f6"
+    },
+    {
+      "file": "assets/enemies/xjzw_boss1a.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\xjzw_boss1a.png",
+      "sha256": "c60982fb7f033aaefb53c5200aed9e7ac707e1c6400466dde21ee0a145638794"
+    },
+    {
+      "file": "assets/enemies/xjzw_boss1b.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\xjzw_boss1b.png",
+      "sha256": "dd3195fe306a6c8665545c590145a9e350844ac23973721ac6e36d5847d57b8f"
+    },
+    {
+      "file": "assets/enemies/xjzw_boss1c.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\xjzw_boss1c.png",
+      "sha256": "3a1b223ecec7ec116afc06a8fb039abe6d3e025f40d18b8ae082e4f584570da8"
+    },
+    {
+      "file": "assets/enemies/xjzw_boss2a.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\xjzw_boss2a.png",
+      "sha256": "b71fa8ee6073e26deb999f6f3dd9c26e76f7e24d6628a7669e4699a5cad36b39"
+    },
+    {
+      "file": "assets/enemies/xjzw_boss2b.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\xjzw_boss2b.png",
+      "sha256": "d52f1ef12c88d0037b99d1572f66df4e5d6ee520657820d0619af05f8b5c2e42"
+    },
+    {
+      "file": "assets/enemies/xjzw_boss2c.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\xjzw_boss2c.png",
+      "sha256": "9d493116f11be23c861a4b8056f078a5171a25006fdaf25adf0ac0bcfc16e90f"
+    },
+    {
+      "file": "assets/enemies/xjzw_boss3a.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\xjzw_boss3a.png",
+      "sha256": "08d19178e10fc11ecd1611e74da44d2e23104ef2e6912e5de17aca65be5f3952"
+    },
+    {
+      "file": "assets/enemies/xjzw_boss3b.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\xjzw_boss3b.png",
+      "sha256": "4beac858de20fd9077253dda6cac79fd0f1fcebf116bf227ffc00b271d31a61c"
+    },
+    {
+      "file": "assets/enemies/xjzw_boss3c.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\xjzw_boss3c.png",
+      "sha256": "da71414b3ce12c5d443c95ea7cece9ef794472f9e6ffbc696873b8ae99b07691"
+    },
+    {
+      "file": "assets/enemies/xjzw_boss4a.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\xjzw_boss4a.png",
+      "sha256": "9823d211bfdba352224ee0d703c3ee4af357e6d4a813d87f5b6807b2e07e8fae"
+    },
+    {
+      "file": "assets/enemies/xjzw_boss4b.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\xjzw_boss4b.png",
+      "sha256": "ba816cc49b51d75e6bc34ae2ba63e61fa06ac33bf89c4e2becababc25aa7a55a"
+    },
+    {
+      "file": "assets/enemies/xjzw_boss4c.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\xjzw_boss4c.png",
+      "sha256": "d2997057c2eeced552bc40a2250ccad994add6db98c6e8ca098c1afd868f66fe"
+    },
+    {
+      "file": "assets/enemies/xjzw_boss5a.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\xjzw_boss5a.png",
+      "sha256": "67c35e6a724f2b611b05db47e814a4654061a7782fbf893c38fb78ffec12803b"
+    },
+    {
+      "file": "assets/enemies/xjzw_boss5b.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\xjzw_boss5b.png",
+      "sha256": "b8588ab67b4e1285361819a67cc102eb9bac059e3fd4aff9460d210e280e1842"
+    },
+    {
+      "file": "assets/enemies/xjzw_boss5c.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\xjzw_boss5c.png",
+      "sha256": "9245ed9fc7fd3687ba08b12b3173632795eed22f67d8842ad5f0018890e62186"
+    },
+    {
+      "file": "assets/enemies/cjqh_boss3b.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\cjqh_boss3b.png",
+      "sha256": "4c1a2ac0f3e22ab74429ac342e5c1817f2b6023227be70697751b4a7682e91b8"
+    },
+    {
+      "file": "assets/enemies/cjqh_boss3c.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\cjqh_boss3c.png",
+      "sha256": "6e6744fe460357eb419c92461cce91db32b80c018b79faed6004405af12d10cb"
+    },
+    {
+      "file": "assets/enemies/cjqh_boss4a.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\cjqh_boss4a.png",
+      "sha256": "137f501bcd259a899acaae9c65a30420ad04da04934ced510a4bd352f18d4f7a"
+    },
+    {
+      "file": "assets/enemies/cjqh_boss4b.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\cjqh_boss4b.png",
+      "sha256": "5658610b66d894e143dc81c7c11aeae074cdf588cc4873b1bb38080d232547e3"
+    },
+    {
+      "file": "assets/enemies/cjqh_boss4c.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\cjqh_boss4c.png",
+      "sha256": "48c0f9ec70ab5d510f86a9d3efe7aef3c00d434310e2f36a9fc4f42e8f553006"
+    },
+    {
+      "file": "assets/enemies/cjqh_boss5a.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\cjqh_boss5a.png",
+      "sha256": "465cb80c022b05a5e2641053d9aeef7d56b17f8bd5a5c54ab4d76cfa8f07924c"
+    },
+    {
+      "file": "assets/enemies/cjqh_boss5b.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\cjqh_boss5b.png",
+      "sha256": "881f8a41f850246a13e525b72940a796794a371702dacc18103e78bf177f6c23"
+    },
+    {
+      "file": "assets/enemies/cjqh_boss5c.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\cjqh_boss5c.png",
+      "sha256": "d18eacadf5ee58f9ae9001e1a9ac0d209ae2f0cfd4fabcded879f6a77df537de"
+    },
+    {
+      "file": "assets/enemies/cjqh_boss6a.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\cjqh_boss6a.png",
+      "sha256": "1b764bc3ad941206c72e1c4b28495529ff52f7c79e913e5d47c31e0c6ba9c72b"
+    },
+    {
+      "file": "assets/enemies/cjqh_boss6b.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\cjqh_boss6b.png",
+      "sha256": "6afca697191f66af87a6de2a7eba1a6be7924d8eab73b0dadb324de3cd7b94fe"
+    },
+    {
+      "file": "assets/enemies/cjqh_boss6c.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\cjqh_boss6c.png",
+      "sha256": "e77e648c430700d1f6d1452caeb502f1f946c8acb127d085e43fa13263216a95"
+    },
+    {
+      "file": "assets/enemies/ss_boss1a.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\ss_boss1a.png",
+      "sha256": "02bbc6d2882834883afdcf028bb2f9a6c4ff8b2163b25a442a20579b3c71926e"
+    },
+    {
+      "file": "assets/enemies/ss_boss1b.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\ss_boss1b.png",
+      "sha256": "1acf4a3a3b7de0d0095bb943f7804baf8325c3b8e7985778eaf79a446a78b6db"
+    },
+    {
+      "file": "assets/enemies/ss_boss1c.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\ss_boss1c.png",
+      "sha256": "6c4072436bfaf90a9e4fbbfb0014fc9f4795716885b925cccd31b96507e6cfc8"
+    },
+    {
+      "file": "assets/enemies/ss_boss2a.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\ss_boss2a.png",
+      "sha256": "0bcefc402d6ba7d94f83772becdacc76d7552fbb80aa21fb4a87991190e398d6"
+    },
+    {
+      "file": "assets/enemies/ss_boss2b.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\ss_boss2b.png",
+      "sha256": "7968d6e1c742cd1e68b3b2e65cf631e712f234b57c4e190f5cb06c42ce0e3aa8"
+    },
+    {
+      "file": "assets/enemies/ss_boss2c.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\ss_boss2c.png",
+      "sha256": "c4ab98b0b47c52e1731c32c07bdf1aa1ccaf706f09a40e5721cf77eed91a5d29"
+    },
+    {
+      "file": "assets/enemies/ss_boss3a.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\ss_boss3a.png",
+      "sha256": "836541f799a6584a8259b45adeb2950fa75cef915a7ebc6786379d213a97970a"
+    },
+    {
+      "file": "assets/enemies/ss_boss3b.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\ss_boss3b.png",
+      "sha256": "f05cbf37682182403b370b54982c2ce5c8fe1003c893e61e4d833ce76fe35af5"
+    },
+    {
+      "file": "assets/enemies/ss_boss3c.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\ss_boss3c.png",
+      "sha256": "5a1e5be4fea1a0c96df16c513fa7000d87fbb64f325574ac90e53f8a3f25e31d"
+    },
+    {
+      "file": "assets/enemies/ss_boss4a.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\ss_boss4a.png",
+      "sha256": "a1aacd63e86bd1409ef3c11fe146d21c5827bd82ac5f0bf5cbb71a3b7fe1e11f"
+    },
+    {
+      "file": "assets/enemies/ss_boss4b.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\ss_boss4b.png",
+      "sha256": "f78ea574b4dde3161a79be2c02d83c823e16979166356e51c1556f0c46429c85"
+    },
+    {
+      "file": "assets/enemies/ss_boss4c.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\ss_boss4c.png",
+      "sha256": "084711e02e0f77eb398d7b7efca728628c75af38e88266d6c3c2708666664ff7"
+    },
+    {
+      "file": "assets/enemies/ss_boss5a.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\ss_boss5a.png",
+      "sha256": "e13f76e60f175ce90892551e69b0b452446e3063b776403fb4cc7d95d5d4abbf"
+    },
+    {
+      "file": "assets/enemies/ss_boss5b.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\ss_boss5b.png",
+      "sha256": "ec007f92d144837f0ca9a261bb36a7a1fe84d4386aea936a21ae3c78db0c9a82"
+    },
+    {
+      "file": "assets/enemies/ss_boss5c.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\ss_boss5c.png",
+      "sha256": "40f38093d6cf2285ff6565f3818e362be83502f7e48021b4cbbd6bd46014a00e"
+    },
+    {
+      "file": "assets/enemies/wbhj_boss1a.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\wbhj_boss1a.png",
+      "sha256": "bbc9811cb7fa743e94fe852545106a69b2091e9801168a34c76d5a8129a00558"
+    },
+    {
+      "file": "assets/enemies/wbhj_boss1c.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\wbhj_boss1c.png",
+      "sha256": "592744bffa7b1dab45e87c8a23242ace2ea3c3dace52ffe1551a5f5d7a5ea7ef"
+    },
+    {
+      "file": "assets/enemies/wbhj_boss1b.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\wbhj_boss1b.png",
+      "sha256": "91c6476d3331c123914eff0c0ee3bab8d6a2d7a5ff4fea74d53494422eba7496"
+    },
+    {
+      "file": "assets/enemies/wbhj_boss2a.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\wbhj_boss2a.png",
+      "sha256": "a06933bad4c5252e9394479cd84313a4920997b6f3282c75ad651a603fb1f15b"
+    },
+    {
+      "file": "assets/enemies/wbhj_boss2b.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\wbhj_boss2b.png",
+      "sha256": "9f92cbfe7cdff54e40bc90686ed507a805dbe21b00c2828e0a610ab66994da68"
+    },
+    {
+      "file": "assets/enemies/wbhj_boss2c.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\wbhj_boss2c.png",
+      "sha256": "74c8c32fd004a501be28f75729acdf4bdd1c1086d64bdc8745a6d457de02fd5b"
+    },
+    {
+      "file": "assets/enemies/wbhj_boss3a.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\wbhj_boss3a.png",
+      "sha256": "3d94a46f9193205b011a5b8e506c9a0c180a7f6cc6f7f145975859898df3ca70"
+    },
+    {
+      "file": "assets/enemies/wbhj_boss3b.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\wbhj_boss3b.png",
+      "sha256": "f849f3a407df0977ab3b5e3b4bddfa29bcc06ea3e04438554b1bcca78afa987e"
+    },
+    {
+      "file": "assets/enemies/wbhj_boss3c.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\wbhj_boss3c.png",
+      "sha256": "63f9bd1d64218e2c70672f16ca6d464cf33dd3074d78058226e7fd14d74e8ddb"
+    },
+    {
+      "file": "assets/enemies/wbhj_boss4a.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\wbhj_boss4a.png",
+      "sha256": "6d09e92393d478dcde684c4c81ab91de8120525617eb2ad1c48c91029c797c07"
+    },
+    {
+      "file": "assets/enemies/wbhj_boss4b.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\wbhj_boss4b.png",
+      "sha256": "4e11d497e00bee7e19b4a259e37466b2bc7ddd7fc8eb62e3c4f305fefc130951"
+    },
+    {
+      "file": "assets/enemies/wbhj_boss4c.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\wbhj_boss4c.png",
+      "sha256": "b349750d165f36df91e6fba1ef43880916bd7d2da569028d99de53c2473aef29"
+    },
+    {
+      "file": "assets/enemies/wbhj_boss5a.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\wbhj_boss5a.png",
+      "sha256": "1e856d9988941e2e704922e4db735cea4c7aef0d96c633cab9826ba656e65089"
+    },
+    {
+      "file": "assets/enemies/wbhj_boss5b.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\wbhj_boss5b.png",
+      "sha256": "694167a10d5daa18bb440bbd686cdf22d49ab26d6aff8a1e20096b37589a24ee"
+    },
+    {
+      "file": "assets/enemies/wbhj_boss5c.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\wbhj_boss5c.png",
+      "sha256": "65ad01f66fb6f76e033f18ee99449b0cf7660bf419d28beb8ba03afbf3507606"
+    },
+    {
+      "file": "assets/enemies/ygbh_boss_bgj.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\ygbh_boss_bgj.png",
+      "sha256": "540bca1323830aa533ef4a8292e3138e935d1ef985f5c4158c4ac2c0b1edd6c4"
+    },
+    {
+      "file": "assets/enemies/ygbh_boss_nmw.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\ygbh_boss_nmw.png",
+      "sha256": "7e1646926911d5629bd715c25b430cb3516af203dab274910d204c8749b266c7"
+    },
+    {
+      "file": "assets/enemies/ygbh_boss_zzj.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\ygbh_boss_zzj.png",
+      "sha256": "72c4859a1c4ade91589a06ccb494a2b5158e15e2c50d7b4a8fe19173f5ba961d"
+    },
+    {
+      "file": "assets/enemies/ygbh_boss_edj.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\ygbh_boss_edj.png",
+      "sha256": "cdeee565a1290a50e8dd9755a81d599763f9a49280401aaa6385cfc8f357b0ef"
+    },
+    {
+      "file": "assets/enemies/ygbh_boss_qx.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\ygbh_boss_qx.png",
+      "sha256": "cb38d246326c2b892de110067d736030abcb333ffacdab47961cd188023e430b"
+    },
+    {
+      "file": "assets/enemies/ygbh_boss_zx.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\ygbh_boss_zx.png",
+      "sha256": "e47963c51998edfa87defae5111c5fc4356093eea9675bd21f756029bf52240e"
+    },
+    {
+      "file": "assets/enemies/dsqq_boss_els.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\dsqq_boss_els.png",
+      "sha256": "19a32b85e29d888b2a943f0d34e1febfad1c3675ca1d84f3641bfcb3de997767"
+    },
+    {
+      "file": "assets/enemies/dsqq_boss_hmkqj.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\dsqq_boss_hmkqj.png",
+      "sha256": "de7cb5e2e46f6731113501819eb63bc4259805c287b26f75524b3da0e84078c1"
+    },
+    {
+      "file": "assets/enemies/dsqq_boss_hsly.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\dsqq_boss_hsly.png",
+      "sha256": "84383b9f57ed489dae4032b84873288a29930686688511026b98f9dacfd7c8c5"
+    },
+    {
+      "file": "assets/enemies/dsqq_boss_nxx.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\dsqq_boss_nxx.png",
+      "sha256": "83edaaf2ff86967664d1cfe6a9280741a34d43e1ba744bba6a0f8b7b30e8f29a"
+    },
+    {
+      "file": "assets/enemies/dsqq_boss_tsgz.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\dsqq_boss_tsgz.png",
+      "sha256": "6b92487a355814e6f0ddf9eb3e8540eef3169ff687a2579d187b940b55e2c88c"
+    },
+    {
+      "file": "assets/enemies/tbhdqx_boss_dcc.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\tbhdqx_boss_dcc.png",
+      "sha256": "1cc8b79ff65ca7cfe7e45a32d2be323ad64558ae1c7ac3de91cab2d3e0f3074c"
+    },
+    {
+      "file": "assets/enemies/tbhdqx_boss_ls.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\tbhdqx_boss_ls.png",
+      "sha256": "0913d4b71c00a1685215ca7ba94abfd263194408a3fd772de5df83dea8a900a2"
+    },
+    {
+      "file": "assets/enemies/tbhdqx_boss_sez.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\tbhdqx_boss_sez.png",
+      "sha256": "0250b1e0f5df81cfbaf770e65e58ff78dc5e23948d9e88883fd0d40cacfadf38"
+    },
+    {
+      "file": "assets/enemies/tbhdqx_boss_slj.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\tbhdqx_boss_slj.png",
+      "sha256": "d13a48554de5708f2ee454748c8c1e7e86c31e05bd02196d7629999459b9401a"
+    },
+    {
+      "file": "assets/enemies/tbhdqx_boss_dmxs.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\tbhdqx_boss_dmxs.png",
+      "sha256": "470177e0c7ce67bde169b3ecfc229a1852d6631588bd5cf1450c0c3d823c9262"
+    },
+    {
+      "file": "assets/enemies/znq2024_boss_ft.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\znq2024_boss_ft.png",
+      "sha256": "7dbe75a3cd8dad4b4974c2aa5d5e003183decd6cd6a9cf2cdb51b7ab78325783"
+    },
+    {
+      "file": "assets/enemies/znq2024_boss_xn.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\znq2024_boss_xn.png",
+      "sha256": "85cc467076bbf287de59c0f783c5f62db2b193979cbfb781ddcbb3452735edc1"
+    },
+    {
+      "file": "assets/enemies/znq2024_boss_zcyg.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\znq2024_boss_zcyg.png",
+      "sha256": "fb1797777d6acd9411b529229fe0dcd869f4ddc878f37927a67fa8e17a40c521"
+    },
+    {
+      "file": "assets/enemies/youmingshilian_s1_boss.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\youmingshilian_s1_boss.png",
+      "sha256": "1a5c3b0263db71af5dccc8c2eea6fcce72b22d576a3514c676a3bc0d6acf1ea7"
+    },
+    {
+      "file": "assets/enemies/youmingshilian_s2_boss.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\youmingshilian_s2_boss.png",
+      "sha256": "ecd15475d6bf0fca665d64ad680df68e8065677193b946fbc4b6104c76bf5468"
+    },
+    {
+      "file": "assets/enemies/youmingshilian_s3_boss.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\bodies\\monsters\\youmingshilian_s3_boss.png",
+      "sha256": "778a9d425f5fa3cc8bcce05e395778f8f4598d00a74a77a9993e9c44d10d252b"
+    },
+    {
+      "file": "assets/toys/bingzhenpijiuping.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\weapons\\bingzhenpijiuping.png",
+      "sha256": "0e75ffc6c44ff5fd334a16e2c3cadc1101082f3c2009d8fe76386dd4a067ce6b"
+    },
+    {
+      "file": "assets/toys/yizhichuanyunjian.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\weapons\\yizhichuanyunjian.png",
+      "sha256": "2427041ab8068627787587e702ebfb5ebdf34ebe4a77900c8647bbe2a3e89170"
+    },
+    {
+      "file": "assets/toys/zuchuandabing.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\weapons\\zuchuandabing.png",
+      "sha256": "d160728f18ef451959d9c5d396ac61bbcf2112e99981ba396baa68f684a01c3e"
+    },
+    {
+      "file": "assets/ui/ticket.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\icons\\native\\items\\xiaohao_zhaomuling.png",
+      "sha256": "9d8ef40fa09cb3e540141231366542f7c94e191e25599ba2f4b5ce88cd16394e"
+    },
+    {
+      "file": "assets/maps/forest.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\map_30013\\native\\map_30013_atlas0.png",
+      "sha256": "5935998cff25cfe52029d1d9a5fa9fa2500328aa7eeefd027a6ca0194190aac9"
+    },
+    {
+      "file": "assets/maps/desert.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\map_30016\\native\\map_30016_atlas0.png",
+      "sha256": "872e2153ee18157ba3d67374920eb10b13fb55f08727767ffb6244cc6f396ad5"
+    },
+    {
+      "file": "assets/maps/temple.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\map_30004\\native\\map_30004_atlas0.png",
+      "sha256": "8161b69b389e76de12885761d6a5d92d7d89f0c942f806c55547f9219dea4e1c"
+    },
+    {
+      "file": "assets/maps/river.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\map_30007\\native\\map_30007_atlas0.png",
+      "sha256": "7ef5f88e2e87dfbdf220e09b9051e4d0161dae0ee596861941d25024ddf748b5"
+    },
+    {
+      "file": "assets/maps/fortress.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\map_30010\\native\\map_30010_atlas0.png",
+      "sha256": "c0e95c57afbec46d90237aa87b2b077e549e09fd7956473b26a1f8bf74bfa99a"
+    },
+    {
+      "file": "assets/maps/palace.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\map_30019\\native\\map_30019_atlas0.png",
+      "sha256": "ec259a1b770f345544b923ca8796b88066e17c2c531eabd8ea2e084cda0926cf"
+    },
+    {
+      "file": "assets/ui/button-gold.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0_1.png",
+      "sha256": "46d96cdd07c46eb615293604620b11f397b575521845df1cf85a4c51f9b7aa79",
+      "package": "ui_common",
+      "item": "gyzy_btn_cyhuangse",
+      "sprite": {
+        "atlas": "atlas100",
+        "rect": [
+          1408,
+          1422,
+          174,
+          108
+        ],
+        "rotated": false,
+        "offset": [
+          0,
+          0
+        ],
+        "size": [
+          174,
+          108
+        ]
+      }
+    },
+    {
+      "file": "assets/ui/button-green.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0_1.png",
+      "sha256": "e1f80b1c2a751c3c24460efa40b1d58ae13c10feccff95064af463d41375f301",
+      "package": "ui_common",
+      "item": "gyzy_btn_cylvse",
+      "sprite": {
+        "atlas": "atlas100",
+        "rect": [
+          1408,
+          1532,
+          174,
+          108
+        ],
+        "rotated": false,
+        "offset": [
+          0,
+          0
+        ],
+        "size": [
+          174,
+          108
+        ]
+      }
+    },
+    {
+      "file": "assets/ui/button-brown.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0_1.png",
+      "sha256": "d4f0334f2e8cad37cf3d3f5a78d170690d116d50b7a33636edf928e6ee2c5411",
+      "package": "ui_common",
+      "item": "gyzy_btn_cyhese",
+      "sprite": {
+        "atlas": "atlas100",
+        "rect": [
+          1579,
+          829,
+          174,
+          108
+        ],
+        "rotated": false,
+        "offset": [
+          0,
+          0
+        ],
+        "size": [
+          174,
+          108
+        ]
+      }
+    },
+    {
+      "file": "assets/ui/button-blue.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0_1.png",
+      "sha256": "4da21f4b9dfe0ff0bcc0c58e157884442efb33d27d20309f3cb9592f06f4a19c",
+      "package": "ui_common",
+      "item": "gyzy_btn_cylanse",
+      "sprite": {
+        "atlas": "atlas100",
+        "rect": [
+          1579,
+          939,
+          174,
+          108
+        ],
+        "rotated": false,
+        "offset": [
+          0,
+          0
+        ],
+        "size": [
+          174,
+          108
+        ]
+      }
+    },
+    {
+      "file": "assets/ui/coin.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png",
+      "sha256": "82fb94d6c8a175ffc56d75f5745603d23e8b01a73f36bb44b0dd033d1c949d7d",
+      "package": "ui_common",
+      "item": "tubiao_jinbi_zhuxian",
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          313,
+          953,
+          82,
+          66
+        ],
+        "rotated": false,
+        "offset": [
+          0,
+          0
+        ],
+        "size": [
+          82,
+          66
+        ]
+      }
+    },
+    {
+      "file": "assets/ui/star.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png",
+      "sha256": "33cc57167f40f9a9a2504bd55687a21f48ed577d9f201406ed5b68f4f061528e",
+      "package": "ui_common",
+      "item": "xingxing_man",
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          1129,
+          56,
+          54,
+          45
+        ],
+        "rotated": false,
+        "offset": [
+          0,
+          0
+        ],
+        "size": [
+          54,
+          45
+        ]
+      }
+    },
+    {
+      "file": "assets/ui/star-empty.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png",
+      "sha256": "65a32de3a04b23f7085587c992f2bdeafecf191853e6b8c1e039b53c3fee8dd1",
+      "package": "ui_common",
+      "item": "xingxing_kong",
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          991,
+          566,
+          46,
+          48
+        ],
+        "rotated": false,
+        "offset": [
+          0,
+          0
+        ],
+        "size": [
+          46,
+          48
+        ]
+      }
+    },
+    {
+      "file": "assets/ui/frame-gold.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0_1.png",
+      "sha256": "0cb7b4c057040aa19599541c217425bd2eb0db947c078d08fcae0decc218ed7a",
+      "package": "ui_common",
+      "item": "gyzy_img_touxiangkuang_jin",
+      "sprite": {
+        "atlas": "atlas100",
+        "rect": [
+          233,
+          1442,
+          204,
+          101
+        ],
+        "rotated": false,
+        "offset": [
+          0,
+          0
+        ],
+        "size": [
+          204,
+          101
+        ]
+      }
+    },
+    {
+      "file": "assets/ui/frame-red.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0_1.png",
+      "sha256": "7cfdfc3a58498b6c8dd5b42ce687d717671679560321cce91f02d9f7528d66cb",
+      "package": "ui_common",
+      "item": "gyzy_img_touxiangkuang_hong",
+      "sprite": {
+        "atlas": "atlas100",
+        "rect": [
+          793,
+          1216,
+          204,
+          101
+        ],
+        "rotated": false,
+        "offset": [
+          0,
+          0
+        ],
+        "size": [
+          204,
+          101
+        ]
+      }
+    },
+    {
+      "file": "assets/ui/faction-qun.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png",
+      "sha256": "437fe52a7f436a1af294b8b55014249c1f9c84e2c8344f037abd0c0b76958a44",
+      "package": "ui_common",
+      "item": "xj_btn_qun",
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          815,
+          897,
+          59,
+          72
+        ],
+        "rotated": false,
+        "offset": [
+          0,
+          0
+        ],
+        "size": [
+          59,
+          72
+        ]
+      }
+    },
+    {
+      "file": "assets/ui/faction-shu.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png",
+      "sha256": "5b577fbd8762b2a5f384795a457e993249a2f68ee50d9281917dcca02d1ba415",
+      "package": "ui_common",
+      "item": "xj_btn_shu",
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          837,
+          60,
+          59,
+          72
+        ],
+        "rotated": false,
+        "offset": [
+          0,
+          0
+        ],
+        "size": [
+          59,
+          72
+        ]
+      }
+    },
+    {
+      "file": "assets/ui/faction-wei.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png",
+      "sha256": "54b91dc1e82ba48f3c431726a564f31373ce7671b907ed29b2bf92797368fc2f",
+      "package": "ui_common",
+      "item": "xj_btn_wei",
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          897,
+          391,
+          59,
+          72
+        ],
+        "rotated": false,
+        "offset": [
+          0,
+          0
+        ],
+        "size": [
+          59,
+          72
+        ]
+      }
+    },
+    {
+      "file": "assets/ui/faction-wu.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png",
+      "sha256": "c9d1456eb824ef2892fe32d75a94df9103a13b1d879d6c0c922abf2d843168ec",
+      "package": "ui_common",
+      "item": "xj_btn_wu",
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          895,
+          317,
+          59,
+          72
+        ],
+        "rotated": false,
+        "offset": [
+          0,
+          0
+        ],
+        "size": [
+          59,
+          72
+        ]
+      }
+    },
+    {
+      "file": "assets/ui/close.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0_1.png",
+      "sha256": "eb53145e16a84395ce6072e9fabea22be6ed8158f6df1761816521e6581a9320",
+      "package": "ui_common",
+      "item": "anniu_guanbi_tanchuang",
+      "sprite": {
+        "atlas": "atlas100",
+        "rect": [
+          1784,
+          1713,
+          123,
+          120
+        ],
+        "rotated": false,
+        "offset": [
+          0,
+          0
+        ],
+        "size": [
+          123,
+          120
+        ]
+      }
+    }
+  ]
+}

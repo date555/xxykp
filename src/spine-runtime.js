@@ -1,0 +1,49 @@
+import {PIXI,Spine,TextureAtlas,SkeletonBinary,SkeletonJson,AtlasAttachmentLoader,Skeleton,AnimationState,AnimationStateData} from '../vendor/spine.js';
+import {ANIMATIONS,APPEARANCE_ANIMATIONS,BOSS_ANIMATIONS,TOY_ANIMATIONS,STATUS_ANIMATIONS,animationFor} from './animation-data.js';
+import {bossActions} from './rig-compat.js';
+import {resolveEffectDimensions,fitEffectScale} from './spine-bounds.js';
+const loaded=new Map(),pending=new Map();let manifest,manifestPromise,scene;let loadQueue=Promise.resolve();
+export const animationStatus={ready:false,error:'',count:0};
+async function request(path,type){const response=await fetch(path);if(!response.ok)throw Error(`资源加载失败 ${path}`);return response[type]();}
+async function load(key,meta){
+ const base=`assets/spine/${key}`,folder=base.slice(0,base.lastIndexOf('/')+1);
+ const [atlasText,skeleton,textures]=await Promise.all([request(`${base}.atlas`,'text'),request(`${base}.${meta.format}`,meta.format==='json'?'json':'arrayBuffer'),Promise.all(meta.textures.map(name=>new Promise((resolve,reject)=>{const im=new Image();im.onload=()=>resolve([name,PIXI.BaseTexture.from(im,{alphaMode:PIXI.ALPHA_MODES.PMA})]);im.onerror=()=>reject(Error(`缺失纹理 ${folder+name}`));im.src=folder+name;})))]);
+ const textureMap=new Map(textures);
+ const atlas=await new Promise((resolve,reject)=>new TextureAtlas(atlasText,(name,done)=>done(textureMap.get(name)),value=>value?resolve(value):reject(Error('无法读取纹理图集 '+key))));
+ const attachment=new AtlasAttachmentLoader(atlas);const parser=meta.format==='json'?new SkeletonJson(attachment):new SkeletonBinary(attachment);
+ const data=parser.readSkeletonData(meta.format==='json'?skeleton:new Uint8Array(skeleton));
+ if(!data.animations.length)throw Error('骨骼没有动画 '+key);
+ for(const m of Object.values(APPEARANCE_ANIMATIONS).filter(m=>m.body===key)){for(const name of ['idle','attack','skill'])if(!data.animations.some(a=>a.name===name))throw Error(`${key} 缺失动作 ${name}`);if(m.skin&&!data.skins.some(s=>s.name===m.skin))throw Error(`${key} 缺失皮肤 ${m.skin}`);}
+ const dimensions=resolveEffectDimensions(meta,data,{Skeleton,AnimationState,AnimationStateData});
+ loaded.set(key,{data,meta:{...meta,...dimensions},atlas,textures:textureMap});animationStatus.count=loaded.size;
+}
+async function getManifest(){manifestPromise||=request('assets/spine/manifest.json','json');manifest=await manifestPromise;return manifest;}
+async function ensure(key){if(loaded.has(key))return;if(!manifest.assets[key])throw Error('未登记的动画 '+key);if(!pending.has(key))pending.set(key,load(key,manifest.assets[key]).finally(()=>pending.delete(key)));await pending.get(key);}
+function releaseExcept(keep){scene?.clear();for(const [key,value] of loaded)if(!keep.has(key)){for(const texture of value.textures.values())texture.destroy();loaded.delete(key);}animationStatus.count=loaded.size;}
+export function hasAnimation(key){return loaded.has(key);}
+async function loadSelection(party=['guojia','zhouyu','simayi','ganning','lusu'].map(id=>({id})),bossKeys=[]){try{await getManifest();const keys=new Set([...Object.values(TOY_ANIMATIONS),...Object.values(STATUS_ANIMATIONS)].map(a=>a.asset));for(const h of party.filter(Boolean)){const m=animationFor(h);keys.add(m.body);for(const mode of ['attack','skill']){keys.add(m[mode].asset);if(m[mode].hitAsset)keys.add(m[mode].hitAsset);}}for(const key of bossKeys)if(BOSS_ANIMATIONS[key])keys.add(BOSS_ANIMATIONS[key].body);await Promise.all([...keys].map(ensure));scene||=new SpineScene();releaseExcept(keys);animationStatus.ready=true;animationStatus.error='';document.documentElement.dataset.animations=`ready:${loaded.size}`;return loaded.size;}catch(error){animationStatus.error=error.message;document.documentElement.dataset.animations='error';throw error;}}
+export function loadAnimations(...args){const task=loadQueue.catch(()=>{}).then(()=>loadSelection(...args));loadQueue=task;return task;}
+export async function verifyAllAnimations(progress){await getManifest();const keys=Object.keys(manifest.assets),failures=[];animationStatus.ready=false;releaseExcept(new Set());let passed=0;for(const key of keys){try{await ensure(key);passed++;}catch(e){failures.push({key,message:e.message});}releaseExcept(new Set());progress?.({passed,total:keys.length,failures:[...failures]});}return {passed,total:keys.length,failures};}
+function make(key,animation=null,loop=true,skin=''){const item=loaded.get(key);if(!item)throw Error('未加载的骨骼 '+key);const display=new Spine(item.data);display.autoUpdate=false;display.localDelayLimit=0;if(skin){display.skeleton.setSkinByName(skin);display.skeleton.setSlotsToSetupPose();}display.state.setAnimation(0,animation||item.data.animations[0].name,loop);display.update(0);return display;}
+class SpineScene {
+ constructor(){this.renderer=new PIXI.Renderer({width:1200,height:570,backgroundAlpha:0,antialias:true,resolution:1,clearBeforeRender:true});this.root=new PIXI.Container();this.root.sortableChildren=true;this.actors=new Map();this.fx=new Map();this.battle=null;this.lastClock=0;}
+ clear(){for(const d of this.root.removeChildren())d.destroy({children:true,texture:false,baseTexture:false});this.actors.clear();this.fx.clear();}
+ draw(ctx,battle,party,time){const clock=battle?battle.time:time;let dt=Math.max(0,Math.min(.1,clock-this.lastClock));this.lastClock=clock;if(this.battle!==battle){this.clear();this.battle=battle;dt=0;}
+  const keys=new Set();for(const h of party){if(!h)continue;const meta=animationFor(h);if(!loaded.has(meta.body))continue;const key=`hero:${h.id}:${meta.avatarId}`;keys.add(key);let actor=this.actors.get(key);if(!actor){const d=make(meta.body,'idle',true,meta.skin);actor={d,serial:0};this.actors.set(key,actor);this.root.addChild(d);}const d=actor.d;d.position.set(h.x,h.y+3);const scale=122/Math.max(1,meta.height);d.scale.set(scale,scale);d.zIndex=h.y;if(h.animSerial&&h.animSerial!==actor.serial){actor.serial=h.animSerial;d.state.setAnimation(0,h.animation,false);d.state.addAnimation(0,'idle',true,0);d.state.timeScale=h.animSpeed||1;}d.update(dt);}
+  for(const enemy of battle?.enemies||[]){const meta=enemy.boss&&BOSS_ANIMATIONS[enemy.bossKey];if(!meta||!loaded.has(meta.body))continue;const key=`enemy:${enemy.id}`;keys.add(key);let actor=this.actors.get(key);if(!actor){const d=make(meta.body,'idle',true,meta.skin);actor={d,serial:0};this.actors.set(key,actor);this.root.addChild(d);}const d=actor.d;d.position.set(enemy.x,enemy.y);const scale=92*enemy.scale/Math.max(1,meta.height);d.scale.set(-scale,scale);d.zIndex=enemy.y;d.tint=enemy.freeze>0?0xa9def0:enemy.ward>0?0xffdc8a:0xffffff;if(enemy.animSerial!==actor.serial){actor.serial=enemy.animSerial;const actions=bossActions(meta),action=actions.includes('skill')?'skill':actions.includes('attack')?'attack':null;if(action){d.state.setAnimation(0,action,false);d.state.addAnimation(0,'idle',true,0);}}d.update(enemy.freeze>0?0:dt);}
+  for(const [id,actor] of this.actors){if(!keys.has(id)){this.root.removeChild(actor.d);actor.d.destroy({children:true,texture:false,baseTexture:false});this.actors.delete(id);}}
+  const alive=new Set();
+  for(const p of battle?.projectiles||[]){if(p.age<p.delay)continue;alive.add(p);let fx=this.fx.get(p);if(!fx){const d=make(p.asset,null,!['Line','Position','Center'].includes(p.type));d.state.timeScale=p.effectSpeed||1;fx={d,previous:0};this.fx.set(p,fx);this.root.addChild(d);}const d=fx.d,meta=loaded.get(p.asset).meta,progress=Math.min(1,(p.age-p.delay)/p.flight),dx=p.tx-p.x,dy=p.ty-p.y;d.zIndex=900;d.alpha=1;
+   if(p.type==='Line'){d.position.set(p.x,p.y);d.rotation=Math.atan2(dy,dx);d.scale.set(Math.hypot(dx,dy)/meta.width,p.skill?.21:.4);}
+   else if(['Position','Center'].includes(p.type)){d.position.set(p.tx,p.ty+44);const size=p.type==='Center'?300:200;d.scale.set(fitEffectScale(meta,size));d.rotation=0;}
+   else{d.position.set(p.x+dx*progress,p.y+dy*progress-(p.type==='Parabola'?Math.sin(progress*Math.PI)*115:0));d.scale.set(fitEffectScale(meta,p.skill?115:66));d.rotation=p.type==='Parabola'?progress*Math.PI*2:Math.atan2(dy,dx);}
+   const age=p.age-p.delay;d.update(Math.max(0,age-fx.previous));fx.previous=age;
+  }
+  for(const e of battle?.effects||[]){if(!['spine-hit','spine-recovery'].includes(e.type))continue;alive.add(e);let fx=this.fx.get(e);if(!fx){const d=make(e.asset,null,false);d.state.timeScale=e.speed||1;fx={d,previous:0};this.fx.set(e,fx);this.root.addChild(d);}const d=fx.d,meta=loaded.get(e.asset).meta;d.position.set(e.x,e.y);d.scale.set(fitEffectScale(meta,e.type==='spine-recovery'?145:110));d.zIndex=1000;const age=e.maxLife-e.life;d.update(Math.max(0,age-fx.previous));fx.previous=age;}
+  for(const enemy of battle?.enemies||[]){if(enemy.freeze<=0||enemy.hp<=0)continue;alive.add(enemy);let fx=this.fx.get(enemy);if(!fx){const d=make(STATUS_ANIMATIONS.frozen.asset);fx={d};this.fx.set(enemy,fx);this.root.addChild(d);}const d=fx.d;d.position.set(enemy.x,enemy.y);d.scale.set(92*enemy.scale/179);d.zIndex=950;d.update(dt);}
+  for(const cast of battle?.toyCasts||[]){alive.add(cast);let fx=this.fx.get(cast);if(!fx){const d=make(cast.asset,null,false);d.state.timeScale=cast.speed;fx={d,previous:0};this.fx.set(cast,fx);this.root.addChild(d);}const d=fx.d,meta=loaded.get(cast.asset).meta;const width=cast.id==='heal'?300:cast.id==='arrow'?510:390;d.position.set(cast.x,cast.y);d.scale.set(fitEffectScale(meta,width,440));d.zIndex=1200;d.update(Math.max(0,cast.age-fx.previous));fx.previous=cast.age;}
+  for(const [key,fx] of this.fx){if(!alive.has(key)){this.root.removeChild(fx.d);fx.d.destroy({children:true,texture:false,baseTexture:false});this.fx.delete(key);}}
+  this.renderer.render(this.root);ctx.drawImage(this.renderer.view,0,0,1200,570);
+ }
+}
+export function drawAnimations(ctx,battle,party,time){if(animationStatus.ready)scene.draw(ctx,battle,party,time);}

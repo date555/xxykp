@@ -1,0 +1,1712 @@
+[
+  {
+    "chapter": 0,
+    "level": 1,
+    "star": 0,
+    "seed": 1,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 237,
+    "base": 100
+  },
+  {
+    "chapter": 0,
+    "level": 1,
+    "star": 0,
+    "seed": 2,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 238,
+    "base": 100
+  },
+  {
+    "chapter": 0,
+    "level": 1,
+    "star": 0,
+    "seed": 3,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 237,
+    "base": 100
+  },
+  {
+    "chapter": 1,
+    "level": 8,
+    "star": 0,
+    "seed": 1,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 306,
+    "base": 96
+  },
+  {
+    "chapter": 1,
+    "level": 8,
+    "star": 0,
+    "seed": 2,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 302,
+    "base": 94
+  },
+  {
+    "chapter": 1,
+    "level": 8,
+    "star": 0,
+    "seed": 3,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 296,
+    "base": 96
+  },
+  {
+    "chapter": 2,
+    "level": 16,
+    "star": 0,
+    "seed": 1,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 341,
+    "base": 98
+  },
+  {
+    "chapter": 2,
+    "level": 16,
+    "star": 0,
+    "seed": 2,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 356,
+    "base": 94
+  },
+  {
+    "chapter": 2,
+    "level": 16,
+    "star": 0,
+    "seed": 3,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 327,
+    "base": 88
+  },
+  {
+    "chapter": 3,
+    "level": 26,
+    "star": 0,
+    "seed": 1,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 360,
+    "base": 88
+  },
+  {
+    "chapter": 3,
+    "level": 26,
+    "star": 0,
+    "seed": 2,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 352,
+    "base": 96
+  },
+  {
+    "chapter": 3,
+    "level": 26,
+    "star": 0,
+    "seed": 3,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 346,
+    "base": 100
+  },
+  {
+    "chapter": 4,
+    "level": 36,
+    "star": 0,
+    "seed": 1,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 375,
+    "base": 100
+  },
+  {
+    "chapter": 4,
+    "level": 36,
+    "star": 0,
+    "seed": 2,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 383,
+    "base": 100
+  },
+  {
+    "chapter": 4,
+    "level": 36,
+    "star": 0,
+    "seed": 3,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 382,
+    "base": 100
+  },
+  {
+    "chapter": 5,
+    "level": 46,
+    "star": 0,
+    "seed": 1,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 433,
+    "base": 100
+  },
+  {
+    "chapter": 5,
+    "level": 46,
+    "star": 0,
+    "seed": 2,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 421,
+    "base": 98
+  },
+  {
+    "chapter": 5,
+    "level": 46,
+    "star": 0,
+    "seed": 3,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 409,
+    "base": 98
+  },
+  {
+    "chapter": 6,
+    "level": 52,
+    "star": 0,
+    "seed": 1,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 475,
+    "base": 100
+  },
+  {
+    "chapter": 6,
+    "level": 52,
+    "star": 0,
+    "seed": 2,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 480,
+    "base": 100
+  },
+  {
+    "chapter": 6,
+    "level": 52,
+    "star": 0,
+    "seed": 3,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 463,
+    "base": 100
+  },
+  {
+    "chapter": 7,
+    "level": 54,
+    "star": 0,
+    "seed": 1,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 488,
+    "base": 100
+  },
+  {
+    "chapter": 7,
+    "level": 54,
+    "star": 0,
+    "seed": 2,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 484,
+    "base": 100
+  },
+  {
+    "chapter": 7,
+    "level": 54,
+    "star": 0,
+    "seed": 3,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 484,
+    "base": 100
+  },
+  {
+    "chapter": 8,
+    "level": 55,
+    "star": 0,
+    "seed": 1,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 524,
+    "base": 100
+  },
+  {
+    "chapter": 8,
+    "level": 55,
+    "star": 0,
+    "seed": 2,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 556,
+    "base": 100
+  },
+  {
+    "chapter": 8,
+    "level": 55,
+    "star": 0,
+    "seed": 3,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 522,
+    "base": 100
+  },
+  {
+    "chapter": 9,
+    "level": 57,
+    "star": 1,
+    "seed": 1,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 492,
+    "base": 100
+  },
+  {
+    "chapter": 9,
+    "level": 57,
+    "star": 1,
+    "seed": 2,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 520,
+    "base": 100
+  },
+  {
+    "chapter": 9,
+    "level": 57,
+    "star": 1,
+    "seed": 3,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 508,
+    "base": 100
+  },
+  {
+    "chapter": 10,
+    "level": 59,
+    "star": 1,
+    "seed": 1,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 483,
+    "base": 100
+  },
+  {
+    "chapter": 10,
+    "level": 59,
+    "star": 1,
+    "seed": 2,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 525,
+    "base": 100
+  },
+  {
+    "chapter": 10,
+    "level": 59,
+    "star": 1,
+    "seed": 3,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 501,
+    "base": 100
+  },
+  {
+    "chapter": 11,
+    "level": 61,
+    "star": 1,
+    "seed": 1,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 528,
+    "base": 100
+  },
+  {
+    "chapter": 11,
+    "level": 61,
+    "star": 1,
+    "seed": 2,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 560,
+    "base": 100
+  },
+  {
+    "chapter": 11,
+    "level": 61,
+    "star": 1,
+    "seed": 3,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 522,
+    "base": 99
+  },
+  {
+    "chapter": 12,
+    "level": 62,
+    "star": 1,
+    "seed": 1,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 600,
+    "base": 100
+  },
+  {
+    "chapter": 12,
+    "level": 62,
+    "star": 1,
+    "seed": 2,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 604,
+    "base": 100
+  },
+  {
+    "chapter": 12,
+    "level": 62,
+    "star": 1,
+    "seed": 3,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 579,
+    "base": 100
+  },
+  {
+    "chapter": 13,
+    "level": 64,
+    "star": 1,
+    "seed": 1,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 593,
+    "base": 100
+  },
+  {
+    "chapter": 13,
+    "level": 64,
+    "star": 1,
+    "seed": 2,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 619,
+    "base": 100
+  },
+  {
+    "chapter": 13,
+    "level": 64,
+    "star": 1,
+    "seed": 3,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 615,
+    "base": 100
+  },
+  {
+    "chapter": 14,
+    "level": 66,
+    "star": 1,
+    "seed": 1,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 605,
+    "base": 99
+  },
+  {
+    "chapter": 14,
+    "level": 66,
+    "star": 1,
+    "seed": 2,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 649,
+    "base": 99
+  },
+  {
+    "chapter": 14,
+    "level": 66,
+    "star": 1,
+    "seed": 3,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 604,
+    "base": 100
+  },
+  {
+    "chapter": 15,
+    "level": 67,
+    "star": 2,
+    "seed": 1,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 584,
+    "base": 100
+  },
+  {
+    "chapter": 15,
+    "level": 67,
+    "star": 2,
+    "seed": 2,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 534,
+    "base": 100
+  },
+  {
+    "chapter": 15,
+    "level": 67,
+    "star": 2,
+    "seed": 3,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 549,
+    "base": 100
+  },
+  {
+    "chapter": 16,
+    "level": 69,
+    "star": 2,
+    "seed": 1,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 545,
+    "base": 100
+  },
+  {
+    "chapter": 16,
+    "level": 69,
+    "star": 2,
+    "seed": 2,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 562,
+    "base": 100
+  },
+  {
+    "chapter": 16,
+    "level": 69,
+    "star": 2,
+    "seed": 3,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 565,
+    "base": 100
+  },
+  {
+    "chapter": 17,
+    "level": 71,
+    "star": 2,
+    "seed": 1,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 563,
+    "base": 100
+  },
+  {
+    "chapter": 17,
+    "level": 71,
+    "star": 2,
+    "seed": 2,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 556,
+    "base": 100
+  },
+  {
+    "chapter": 17,
+    "level": 71,
+    "star": 2,
+    "seed": 3,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 597,
+    "base": 94
+  },
+  {
+    "chapter": 18,
+    "level": 72,
+    "star": 2,
+    "seed": 1,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 600,
+    "base": 100
+  },
+  {
+    "chapter": 18,
+    "level": 72,
+    "star": 2,
+    "seed": 2,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 572,
+    "base": 100
+  },
+  {
+    "chapter": 18,
+    "level": 72,
+    "star": 2,
+    "seed": 3,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 592,
+    "base": 100
+  },
+  {
+    "chapter": 19,
+    "level": 74,
+    "star": 2,
+    "seed": 1,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 569,
+    "base": 100
+  },
+  {
+    "chapter": 19,
+    "level": 74,
+    "star": 2,
+    "seed": 2,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 574,
+    "base": 100
+  },
+  {
+    "chapter": 19,
+    "level": 74,
+    "star": 2,
+    "seed": 3,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 598,
+    "base": 100
+  },
+  {
+    "chapter": 20,
+    "level": 76,
+    "star": 2,
+    "seed": 1,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 597,
+    "base": 100
+  },
+  {
+    "chapter": 20,
+    "level": 76,
+    "star": 2,
+    "seed": 2,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 554,
+    "base": 100
+  },
+  {
+    "chapter": 20,
+    "level": 76,
+    "star": 2,
+    "seed": 3,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 603,
+    "base": 100
+  },
+  {
+    "chapter": 21,
+    "level": 78,
+    "star": 3,
+    "seed": 1,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 536,
+    "base": 100
+  },
+  {
+    "chapter": 21,
+    "level": 78,
+    "star": 3,
+    "seed": 2,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 559,
+    "base": 100
+  },
+  {
+    "chapter": 21,
+    "level": 78,
+    "star": 3,
+    "seed": 3,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 532,
+    "base": 100
+  },
+  {
+    "chapter": 22,
+    "level": 79,
+    "star": 3,
+    "seed": 1,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 536,
+    "base": 100
+  },
+  {
+    "chapter": 22,
+    "level": 79,
+    "star": 3,
+    "seed": 2,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 538,
+    "base": 100
+  },
+  {
+    "chapter": 22,
+    "level": 79,
+    "star": 3,
+    "seed": 3,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 541,
+    "base": 100
+  },
+  {
+    "chapter": 23,
+    "level": 81,
+    "star": 3,
+    "seed": 1,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 537,
+    "base": 100
+  },
+  {
+    "chapter": 23,
+    "level": 81,
+    "star": 3,
+    "seed": 2,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 524,
+    "base": 100
+  },
+  {
+    "chapter": 23,
+    "level": 81,
+    "star": 3,
+    "seed": 3,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 529,
+    "base": 100
+  },
+  {
+    "chapter": 24,
+    "level": 83,
+    "star": 3,
+    "seed": 1,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 556,
+    "base": 100
+  },
+  {
+    "chapter": 24,
+    "level": 83,
+    "star": 3,
+    "seed": 2,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 552,
+    "base": 100
+  },
+  {
+    "chapter": 24,
+    "level": 83,
+    "star": 3,
+    "seed": 3,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 599,
+    "base": 100
+  },
+  {
+    "chapter": 25,
+    "level": 84,
+    "star": 3,
+    "seed": 1,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 561,
+    "base": 100
+  },
+  {
+    "chapter": 25,
+    "level": 84,
+    "star": 3,
+    "seed": 2,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 565,
+    "base": 100
+  },
+  {
+    "chapter": 25,
+    "level": 84,
+    "star": 3,
+    "seed": 3,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 564,
+    "base": 100
+  },
+  {
+    "chapter": 26,
+    "level": 86,
+    "star": 3,
+    "seed": 1,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 537,
+    "base": 100
+  },
+  {
+    "chapter": 26,
+    "level": 86,
+    "star": 3,
+    "seed": 2,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 531,
+    "base": 100
+  },
+  {
+    "chapter": 26,
+    "level": 86,
+    "star": 3,
+    "seed": 3,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 543,
+    "base": 100
+  },
+  {
+    "chapter": 27,
+    "level": 88,
+    "star": 4,
+    "seed": 1,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 511,
+    "base": 100
+  },
+  {
+    "chapter": 27,
+    "level": 88,
+    "star": 4,
+    "seed": 2,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 508,
+    "base": 100
+  },
+  {
+    "chapter": 27,
+    "level": 88,
+    "star": 4,
+    "seed": 3,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 518,
+    "base": 100
+  },
+  {
+    "chapter": 28,
+    "level": 89,
+    "star": 4,
+    "seed": 1,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 524,
+    "base": 100
+  },
+  {
+    "chapter": 28,
+    "level": 89,
+    "star": 4,
+    "seed": 2,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 522,
+    "base": 100
+  },
+  {
+    "chapter": 28,
+    "level": 89,
+    "star": 4,
+    "seed": 3,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 520,
+    "base": 100
+  },
+  {
+    "chapter": 29,
+    "level": 91,
+    "star": 4,
+    "seed": 1,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 531,
+    "base": 100
+  },
+  {
+    "chapter": 29,
+    "level": 91,
+    "star": 4,
+    "seed": 2,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 512,
+    "base": 100
+  },
+  {
+    "chapter": 29,
+    "level": 91,
+    "star": 4,
+    "seed": 3,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 537,
+    "base": 100
+  },
+  {
+    "chapter": 30,
+    "level": 93,
+    "star": 4,
+    "seed": 1,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 525,
+    "base": 100
+  },
+  {
+    "chapter": 30,
+    "level": 93,
+    "star": 4,
+    "seed": 2,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 554,
+    "base": 100
+  },
+  {
+    "chapter": 30,
+    "level": 93,
+    "star": 4,
+    "seed": 3,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 538,
+    "base": 100
+  },
+  {
+    "chapter": 31,
+    "level": 95,
+    "star": 4,
+    "seed": 1,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 526,
+    "base": 100
+  },
+  {
+    "chapter": 31,
+    "level": 95,
+    "star": 4,
+    "seed": 2,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 510,
+    "base": 100
+  },
+  {
+    "chapter": 31,
+    "level": 95,
+    "star": 4,
+    "seed": 3,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 486,
+    "base": 100
+  },
+  {
+    "chapter": 32,
+    "level": 96,
+    "star": 4,
+    "seed": 1,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 530,
+    "base": 100
+  },
+  {
+    "chapter": 32,
+    "level": 96,
+    "star": 4,
+    "seed": 2,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 525,
+    "base": 100
+  },
+  {
+    "chapter": 32,
+    "level": 96,
+    "star": 4,
+    "seed": 3,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 534,
+    "base": 100
+  },
+  {
+    "chapter": 33,
+    "level": 98,
+    "star": 5,
+    "seed": 1,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 503,
+    "base": 100
+  },
+  {
+    "chapter": 33,
+    "level": 98,
+    "star": 5,
+    "seed": 2,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 503,
+    "base": 100
+  },
+  {
+    "chapter": 33,
+    "level": 98,
+    "star": 5,
+    "seed": 3,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 509,
+    "base": 100
+  },
+  {
+    "chapter": 34,
+    "level": 100,
+    "star": 5,
+    "seed": 1,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 501,
+    "base": 100
+  },
+  {
+    "chapter": 34,
+    "level": 100,
+    "star": 5,
+    "seed": 2,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 477,
+    "base": 100
+  },
+  {
+    "chapter": 34,
+    "level": 100,
+    "star": 5,
+    "seed": 3,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 501,
+    "base": 100
+  },
+  {
+    "chapter": 35,
+    "level": 101,
+    "star": 5,
+    "seed": 1,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 494,
+    "base": 100
+  },
+  {
+    "chapter": 35,
+    "level": 101,
+    "star": 5,
+    "seed": 2,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 480,
+    "base": 100
+  },
+  {
+    "chapter": 35,
+    "level": 101,
+    "star": 5,
+    "seed": 3,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 480,
+    "base": 100
+  },
+  {
+    "chapter": 36,
+    "level": 103,
+    "star": 5,
+    "seed": 1,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 504,
+    "base": 100
+  },
+  {
+    "chapter": 36,
+    "level": 103,
+    "star": 5,
+    "seed": 2,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 475,
+    "base": 100
+  },
+  {
+    "chapter": 36,
+    "level": 103,
+    "star": 5,
+    "seed": 3,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 520,
+    "base": 100
+  },
+  {
+    "chapter": 37,
+    "level": 105,
+    "star": 5,
+    "seed": 1,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 475,
+    "base": 100
+  },
+  {
+    "chapter": 37,
+    "level": 105,
+    "star": 5,
+    "seed": 2,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 495,
+    "base": 100
+  },
+  {
+    "chapter": 37,
+    "level": 105,
+    "star": 5,
+    "seed": 3,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 502,
+    "base": 100
+  },
+  {
+    "chapter": 38,
+    "level": 106,
+    "star": 5,
+    "seed": 1,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 490,
+    "base": 100
+  },
+  {
+    "chapter": 38,
+    "level": 106,
+    "star": 5,
+    "seed": 2,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 495,
+    "base": 100
+  },
+  {
+    "chapter": 38,
+    "level": 106,
+    "star": 5,
+    "seed": 3,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 527,
+    "base": 100
+  },
+  {
+    "chapter": 39,
+    "level": 108,
+    "star": 6,
+    "seed": 1,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 468,
+    "base": 100
+  },
+  {
+    "chapter": 39,
+    "level": 108,
+    "star": 6,
+    "seed": 2,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 519,
+    "base": 100
+  },
+  {
+    "chapter": 39,
+    "level": 108,
+    "star": 6,
+    "seed": 3,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 480,
+    "base": 100
+  },
+  {
+    "chapter": 40,
+    "level": 110,
+    "star": 6,
+    "seed": 1,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 476,
+    "base": 100
+  },
+  {
+    "chapter": 40,
+    "level": 110,
+    "star": 6,
+    "seed": 2,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 495,
+    "base": 100
+  },
+  {
+    "chapter": 40,
+    "level": 110,
+    "star": 6,
+    "seed": 3,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 489,
+    "base": 100
+  },
+  {
+    "chapter": 41,
+    "level": 112,
+    "star": 6,
+    "seed": 1,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 487,
+    "base": 100
+  },
+  {
+    "chapter": 41,
+    "level": 112,
+    "star": 6,
+    "seed": 2,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 480,
+    "base": 100
+  },
+  {
+    "chapter": 41,
+    "level": 112,
+    "star": 6,
+    "seed": 3,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 499,
+    "base": 100
+  },
+  {
+    "chapter": 42,
+    "level": 113,
+    "star": 6,
+    "seed": 1,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 498,
+    "base": 100
+  },
+  {
+    "chapter": 42,
+    "level": 113,
+    "star": 6,
+    "seed": 2,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 499,
+    "base": 100
+  },
+  {
+    "chapter": 42,
+    "level": 113,
+    "star": 6,
+    "seed": 3,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 520,
+    "base": 100
+  },
+  {
+    "chapter": 43,
+    "level": 115,
+    "star": 6,
+    "seed": 1,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 481,
+    "base": 100
+  },
+  {
+    "chapter": 43,
+    "level": 115,
+    "star": 6,
+    "seed": 2,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 494,
+    "base": 100
+  },
+  {
+    "chapter": 43,
+    "level": 115,
+    "star": 6,
+    "seed": 3,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 504,
+    "base": 100
+  },
+  {
+    "chapter": 44,
+    "level": 117,
+    "star": 6,
+    "seed": 1,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 481,
+    "base": 100
+  },
+  {
+    "chapter": 44,
+    "level": 117,
+    "star": 6,
+    "seed": 2,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 474,
+    "base": 100
+  },
+  {
+    "chapter": 44,
+    "level": 117,
+    "star": 6,
+    "seed": 3,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 485,
+    "base": 100
+  },
+  {
+    "chapter": 45,
+    "level": 118,
+    "star": 7,
+    "seed": 1,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 500,
+    "base": 100
+  },
+  {
+    "chapter": 45,
+    "level": 118,
+    "star": 7,
+    "seed": 2,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 469,
+    "base": 100
+  },
+  {
+    "chapter": 45,
+    "level": 118,
+    "star": 7,
+    "seed": 3,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 472,
+    "base": 100
+  },
+  {
+    "chapter": 46,
+    "level": 120,
+    "star": 7,
+    "seed": 1,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 473,
+    "base": 100
+  },
+  {
+    "chapter": 46,
+    "level": 120,
+    "star": 7,
+    "seed": 2,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 465,
+    "base": 100
+  },
+  {
+    "chapter": 46,
+    "level": 120,
+    "star": 7,
+    "seed": 3,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 479,
+    "base": 100
+  },
+  {
+    "chapter": 47,
+    "level": 122,
+    "star": 7,
+    "seed": 1,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 497,
+    "base": 100
+  },
+  {
+    "chapter": 47,
+    "level": 122,
+    "star": 7,
+    "seed": 2,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 475,
+    "base": 100
+  },
+  {
+    "chapter": 47,
+    "level": 122,
+    "star": 7,
+    "seed": 3,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 483,
+    "base": 100
+  },
+  {
+    "chapter": 48,
+    "level": 123,
+    "star": 7,
+    "seed": 1,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 470,
+    "base": 100
+  },
+  {
+    "chapter": 48,
+    "level": 123,
+    "star": 7,
+    "seed": 2,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 478,
+    "base": 100
+  },
+  {
+    "chapter": 48,
+    "level": 123,
+    "star": 7,
+    "seed": 3,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 482,
+    "base": 100
+  },
+  {
+    "chapter": 49,
+    "level": 125,
+    "star": 7,
+    "seed": 1,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 486,
+    "base": 100
+  },
+  {
+    "chapter": 49,
+    "level": 125,
+    "star": 7,
+    "seed": 2,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 488,
+    "base": 100
+  },
+  {
+    "chapter": 49,
+    "level": 125,
+    "star": 7,
+    "seed": 3,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 480,
+    "base": 100
+  },
+  {
+    "chapter": 50,
+    "level": 127,
+    "star": 7,
+    "seed": 1,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 471,
+    "base": 100
+  },
+  {
+    "chapter": 50,
+    "level": 127,
+    "star": 7,
+    "seed": 2,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 472,
+    "base": 100
+  },
+  {
+    "chapter": 50,
+    "level": 127,
+    "star": 7,
+    "seed": 3,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 486,
+    "base": 100
+  },
+  {
+    "chapter": 51,
+    "level": 129,
+    "star": 8,
+    "seed": 1,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 474,
+    "base": 100
+  },
+  {
+    "chapter": 51,
+    "level": 129,
+    "star": 8,
+    "seed": 2,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 485,
+    "base": 100
+  },
+  {
+    "chapter": 51,
+    "level": 129,
+    "star": 8,
+    "seed": 3,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 474,
+    "base": 100
+  },
+  {
+    "chapter": 52,
+    "level": 130,
+    "star": 8,
+    "seed": 1,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 452,
+    "base": 100
+  },
+  {
+    "chapter": 52,
+    "level": 130,
+    "star": 8,
+    "seed": 2,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 480,
+    "base": 100
+  },
+  {
+    "chapter": 52,
+    "level": 130,
+    "star": 8,
+    "seed": 3,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 485,
+    "base": 100
+  },
+  {
+    "chapter": 53,
+    "level": 132,
+    "star": 8,
+    "seed": 1,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 470,
+    "base": 100
+  },
+  {
+    "chapter": 53,
+    "level": 132,
+    "star": 8,
+    "seed": 2,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 492,
+    "base": 100
+  },
+  {
+    "chapter": 53,
+    "level": 132,
+    "star": 8,
+    "seed": 3,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 465,
+    "base": 100
+  },
+  {
+    "chapter": 54,
+    "level": 134,
+    "star": 8,
+    "seed": 1,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 477,
+    "base": 100
+  },
+  {
+    "chapter": 54,
+    "level": 134,
+    "star": 8,
+    "seed": 2,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 478,
+    "base": 100
+  },
+  {
+    "chapter": 54,
+    "level": 134,
+    "star": 8,
+    "seed": 3,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 472,
+    "base": 100
+  },
+  {
+    "chapter": 55,
+    "level": 135,
+    "star": 8,
+    "seed": 1,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 484,
+    "base": 100
+  },
+  {
+    "chapter": 55,
+    "level": 135,
+    "star": 8,
+    "seed": 2,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 472,
+    "base": 100
+  },
+  {
+    "chapter": 55,
+    "level": 135,
+    "star": 8,
+    "seed": 3,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 473,
+    "base": 100
+  },
+  {
+    "chapter": 56,
+    "level": 137,
+    "star": 8,
+    "seed": 1,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 482,
+    "base": 100
+  },
+  {
+    "chapter": 56,
+    "level": 137,
+    "star": 8,
+    "seed": 2,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 463,
+    "base": 100
+  },
+  {
+    "chapter": 56,
+    "level": 137,
+    "star": 8,
+    "seed": 3,
+    "state": "won",
+    "cleared": 10,
+    "seconds": 488,
+    "base": 100
+  }
+]

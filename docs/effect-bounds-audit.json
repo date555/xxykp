@@ -1,0 +1,7880 @@
+{
+  "scope": "All referenced effect source sizes; 120fps geometry verification for missing sizes only. Not an all-skin pixel audit.",
+  "effects": 330,
+  "normalized": 17,
+  "affectedAppearances": [
+    {
+      "id": "2009",
+      "name": "炼器师·华佗"
+    },
+    {
+      "id": "2014",
+      "name": "墨家·黄月英"
+    },
+    {
+      "id": "10207",
+      "name": "「鱼」音绕梁·郭嘉"
+    },
+    {
+      "id": "10313",
+      "name": "山河锦绣·关羽"
+    },
+    {
+      "id": "10409",
+      "name": "白无常·诸葛亮"
+    },
+    {
+      "id": "10807",
+      "name": "青囊绘塾·华佗"
+    },
+    {
+      "id": "11104",
+      "name": "童年时光·孙策"
+    },
+    {
+      "id": "11605",
+      "name": "中投靓仔·公孙瓒"
+    },
+    {
+      "id": "12003",
+      "name": "机甲·张角"
+    },
+    {
+      "id": "12004",
+      "name": "观星者·张角"
+    },
+    {
+      "id": "12005",
+      "name": "太乙真人·张角"
+    },
+    {
+      "id": "12106",
+      "name": "山河锦绣·鲁肃"
+    }
+  ],
+  "frames": 1941,
+  "missingSourceSizes": [
+    "huatuo6/huatuo6_skill_loop",
+    "huatuo6/huatuo6_skill_hit",
+    "huangyueying7/huangyueying7_attack_hit",
+    "guojia7/guojia7_skill_hit",
+    "guanyu13/guanyu13_attack_hit",
+    "guanyu13/guanyu13_skill_hit",
+    "zhugeliang9/zhugeliang9_attack_hit",
+    "zhugeliang9/zhugeliang9_skill_hit",
+    "huatuo7/huatuo7_skill_loop",
+    "huatuo7/huatuo7_skill_hit",
+    "sunce6/sunce6_skill_hit2",
+    "gongsunzan7/gongsunzan7_skill_hit",
+    "zhangjiao3_1/zhangjiao3_attack_hit",
+    "zhangjiao4_1/zhangjiao4_attack_hit",
+    "zhangjiao5/zhangjiao5_attack_hit",
+    "zhangjiao5/zhangjiao5_skill_hit",
+    "lusu6/lusu6_attack_hit"
+  ],
+  "failures": [],
+  "records": [
+    {
+      "key": "simayi/simayi_attack_loop",
+      "sourceSize": {
+        "width": 200,
+        "height": 101
+      },
+      "resolvedSize": {
+        "width": 200,
+        "height": 101
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "101",
+          "heroId": "simayi",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "battleEffect/gongjian_attack_hit/gongjian_attack_hit",
+      "sourceSize": {
+        "width": 95,
+        "height": 95
+      },
+      "resolvedSize": {
+        "width": 95,
+        "height": 95
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "101",
+          "heroId": "simayi",
+          "action": "attack",
+          "role": "hit",
+          "type": "Move"
+        },
+        {
+          "id": "218",
+          "heroId": "huangzhong",
+          "action": "attack",
+          "role": "hit",
+          "type": "Parabola"
+        },
+        {
+          "id": "313",
+          "heroId": "zhurongfuren",
+          "action": "attack",
+          "role": "hit",
+          "type": "Move"
+        },
+        {
+          "id": "10101",
+          "heroId": "simayi",
+          "action": "attack",
+          "role": "hit",
+          "type": "Move"
+        },
+        {
+          "id": "10102",
+          "heroId": "simayi",
+          "action": "attack",
+          "role": "hit",
+          "type": "Line"
+        },
+        {
+          "id": "10102",
+          "heroId": "simayi",
+          "action": "skill",
+          "role": "hit",
+          "type": "Position"
+        },
+        {
+          "id": "10103",
+          "heroId": "simayi",
+          "action": "skill",
+          "role": "hit",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "simayi/simayi_skill_line",
+      "sourceSize": {
+        "width": 622,
+        "height": 203
+      },
+      "resolvedSize": {
+        "width": 622,
+        "height": 203
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "101",
+          "heroId": "simayi",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Line"
+        }
+      ]
+    },
+    {
+      "key": "simayi/simayi_skill_hit",
+      "sourceSize": {
+        "width": 251,
+        "height": 210
+      },
+      "resolvedSize": {
+        "width": 251,
+        "height": 210
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "101",
+          "heroId": "simayi",
+          "action": "skill",
+          "role": "hit",
+          "type": "Line"
+        }
+      ]
+    },
+    {
+      "key": "guojia/guojia_attack_line",
+      "sourceSize": {
+        "width": 852,
+        "height": 140
+      },
+      "resolvedSize": {
+        "width": 852,
+        "height": 140
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "102",
+          "heroId": "guojia",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Line"
+        }
+      ]
+    },
+    {
+      "key": "battleEffect/spells_attack_hit/spells_attack_hit",
+      "sourceSize": {
+        "width": 244,
+        "height": 244
+      },
+      "resolvedSize": {
+        "width": 244,
+        "height": 244
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "102",
+          "heroId": "guojia",
+          "action": "attack",
+          "role": "hit",
+          "type": "Line"
+        },
+        {
+          "id": "104",
+          "heroId": "zhugeliang",
+          "action": "attack",
+          "role": "hit",
+          "type": "Line"
+        },
+        {
+          "id": "1007",
+          "heroId": "zhenji",
+          "action": "attack",
+          "role": "hit",
+          "type": "Move"
+        },
+        {
+          "id": "10201",
+          "heroId": "guojia",
+          "action": "attack",
+          "role": "hit",
+          "type": "Move"
+        },
+        {
+          "id": "10703",
+          "heroId": "lvbu",
+          "action": "attack",
+          "role": "hit",
+          "type": "Move"
+        },
+        {
+          "id": "10712",
+          "heroId": "lvbu",
+          "action": "attack",
+          "role": "hit",
+          "type": "Move"
+        },
+        {
+          "id": "10713",
+          "heroId": "lvbu",
+          "action": "attack",
+          "role": "hit",
+          "type": "Move"
+        },
+        {
+          "id": "10714",
+          "heroId": "lvbu",
+          "action": "attack",
+          "role": "hit",
+          "type": "Move"
+        },
+        {
+          "id": "10903",
+          "heroId": "zhenji",
+          "action": "attack",
+          "role": "hit",
+          "type": "Move"
+        },
+        {
+          "id": "11302",
+          "heroId": "caoren",
+          "action": "attack",
+          "role": "hit",
+          "type": "Line"
+        }
+      ]
+    },
+    {
+      "key": "guojia/guojia_skill_line",
+      "sourceSize": {
+        "width": 1082,
+        "height": 946
+      },
+      "resolvedSize": {
+        "width": 1082,
+        "height": 946
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "102",
+          "heroId": "guojia",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Line"
+        }
+      ]
+    },
+    {
+      "key": "guojia/guojia_skill_hit",
+      "sourceSize": {
+        "width": 226,
+        "height": 215
+      },
+      "resolvedSize": {
+        "width": 226,
+        "height": 215
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "102",
+          "heroId": "guojia",
+          "action": "skill",
+          "role": "hit",
+          "type": "Line"
+        }
+      ]
+    },
+    {
+      "key": "zhugeliang/zhugeliang_attack_line",
+      "sourceSize": {
+        "width": 436,
+        "height": 101
+      },
+      "resolvedSize": {
+        "width": 436,
+        "height": 101
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "104",
+          "heroId": "zhugeliang",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Line"
+        }
+      ]
+    },
+    {
+      "key": "zhugeliang/zhugeliang_skill_hit",
+      "sourceSize": {
+        "width": 629,
+        "height": 2164
+      },
+      "resolvedSize": {
+        "width": 629,
+        "height": 2164
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "104",
+          "heroId": "zhugeliang",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "zhouyu/zhouyu_attack_line",
+      "sourceSize": {
+        "width": 641,
+        "height": 102
+      },
+      "resolvedSize": {
+        "width": 641,
+        "height": 102
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "105",
+          "heroId": "zhouyu",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Line"
+        }
+      ]
+    },
+    {
+      "key": "battleEffect/bianpao_attack_hit/bianpao_attack_hit",
+      "sourceSize": {
+        "width": 151,
+        "height": 163
+      },
+      "resolvedSize": {
+        "width": 151,
+        "height": 163
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "105",
+          "heroId": "zhouyu",
+          "action": "attack",
+          "role": "hit",
+          "type": "Line"
+        },
+        {
+          "id": "119",
+          "heroId": "daqiao",
+          "action": "attack",
+          "role": "hit",
+          "type": "Move"
+        },
+        {
+          "id": "224",
+          "heroId": "xiaoqiao",
+          "action": "attack",
+          "role": "hit",
+          "type": "Move"
+        },
+        {
+          "id": "224",
+          "heroId": "xiaoqiao",
+          "action": "skill",
+          "role": "hit",
+          "type": "Position"
+        },
+        {
+          "id": "308",
+          "heroId": "zhangzhao",
+          "action": "attack",
+          "role": "hit",
+          "type": "Move"
+        },
+        {
+          "id": "309",
+          "heroId": "luji",
+          "action": "attack",
+          "role": "hit",
+          "type": "Move"
+        },
+        {
+          "id": "309",
+          "heroId": "luji",
+          "action": "skill",
+          "role": "hit",
+          "type": "Line"
+        },
+        {
+          "id": "10501",
+          "heroId": "zhouyu",
+          "action": "attack",
+          "role": "hit",
+          "type": "Line"
+        },
+        {
+          "id": "10503",
+          "heroId": "zhouyu",
+          "action": "attack",
+          "role": "hit",
+          "type": "Line"
+        },
+        {
+          "id": "11504",
+          "heroId": "sunjian",
+          "action": "attack",
+          "role": "hit",
+          "type": "Line"
+        }
+      ]
+    },
+    {
+      "key": "zhouyu/zhouyu_skill_loop",
+      "sourceSize": {
+        "width": 735,
+        "height": 603
+      },
+      "resolvedSize": {
+        "width": 735,
+        "height": 603
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "105",
+          "heroId": "zhouyu",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Rush"
+        }
+      ]
+    },
+    {
+      "key": "zhouyu/zhouyu_skill_hit",
+      "sourceSize": {
+        "width": 1215,
+        "height": 542
+      },
+      "resolvedSize": {
+        "width": 1215,
+        "height": 542
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "105",
+          "heroId": "zhouyu",
+          "action": "skill",
+          "role": "hit",
+          "type": "Rush"
+        }
+      ]
+    },
+    {
+      "key": "zhenji/zhenji_attack_loop",
+      "sourceSize": {
+        "width": 158,
+        "height": 58
+      },
+      "resolvedSize": {
+        "width": 158,
+        "height": 58
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "109",
+          "heroId": "zhenji",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "battleEffect/sword_attack_hit/sword_attack_hit",
+      "sourceSize": {
+        "width": 160,
+        "height": 193
+      },
+      "resolvedSize": {
+        "width": 160,
+        "height": 193
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "109",
+          "heroId": "zhenji",
+          "action": "attack",
+          "role": "hit",
+          "type": "Move"
+        },
+        {
+          "id": "110",
+          "heroId": "huangyueying",
+          "action": "attack",
+          "role": "hit",
+          "type": "Line"
+        },
+        {
+          "id": "110",
+          "heroId": "huangyueying",
+          "action": "skill",
+          "role": "hit",
+          "type": "Line"
+        },
+        {
+          "id": "116",
+          "heroId": "gongsunzan",
+          "action": "attack",
+          "role": "hit",
+          "type": "Parabola"
+        },
+        {
+          "id": "209",
+          "heroId": "ganning",
+          "action": "attack",
+          "role": "hit",
+          "type": "Parabola"
+        },
+        {
+          "id": "212",
+          "heroId": "zhangjiao",
+          "action": "attack",
+          "role": "hit",
+          "type": "Move"
+        },
+        {
+          "id": "216",
+          "heroId": "xiahouyuan",
+          "action": "attack",
+          "role": "hit",
+          "type": "Parabola"
+        },
+        {
+          "id": "218",
+          "heroId": "huangzhong",
+          "action": "skill",
+          "role": "hit",
+          "type": "Position"
+        },
+        {
+          "id": "1002",
+          "heroId": "taishici",
+          "action": "attack",
+          "role": "hit",
+          "type": "Move"
+        },
+        {
+          "id": "1010",
+          "heroId": "huatuo",
+          "action": "attack",
+          "role": "hit",
+          "type": "Line"
+        },
+        {
+          "id": "1010",
+          "heroId": "huatuo",
+          "action": "skill",
+          "role": "hit",
+          "type": "Position"
+        },
+        {
+          "id": "1011",
+          "heroId": "huangyueying",
+          "action": "attack",
+          "role": "hit",
+          "type": "Line"
+        },
+        {
+          "id": "1012",
+          "heroId": "guojia",
+          "action": "attack",
+          "role": "hit",
+          "type": "Move"
+        },
+        {
+          "id": "1013",
+          "heroId": "zhouyu",
+          "action": "attack",
+          "role": "hit",
+          "type": "Move"
+        },
+        {
+          "id": "2005",
+          "heroId": "zhouyu",
+          "action": "attack",
+          "role": "hit",
+          "type": "Move"
+        },
+        {
+          "id": "10302",
+          "heroId": "guanyu",
+          "action": "attack",
+          "role": "hit",
+          "type": "Position"
+        },
+        {
+          "id": "10601",
+          "heroId": "taishici",
+          "action": "attack",
+          "role": "hit",
+          "type": "Move"
+        },
+        {
+          "id": "10801",
+          "heroId": "huatuo",
+          "action": "attack",
+          "role": "hit",
+          "type": "Line"
+        },
+        {
+          "id": "10805",
+          "heroId": "huatuo",
+          "action": "skill",
+          "role": "hit",
+          "type": "Position"
+        },
+        {
+          "id": "10901",
+          "heroId": "zhenji",
+          "action": "attack",
+          "role": "hit",
+          "type": "Line"
+        },
+        {
+          "id": "10902",
+          "heroId": "zhenji",
+          "action": "attack",
+          "role": "hit",
+          "type": "Move"
+        },
+        {
+          "id": "11001",
+          "heroId": "huangyueying",
+          "action": "attack",
+          "role": "hit",
+          "type": "Move"
+        },
+        {
+          "id": "11001",
+          "heroId": "huangyueying",
+          "action": "skill",
+          "role": "hit",
+          "type": "Position"
+        },
+        {
+          "id": "11002",
+          "heroId": "huangyueying",
+          "action": "attack",
+          "role": "hit",
+          "type": "Move"
+        },
+        {
+          "id": "11002",
+          "heroId": "huangyueying",
+          "action": "skill",
+          "role": "hit",
+          "type": "Position"
+        },
+        {
+          "id": "11005",
+          "heroId": "huangyueying",
+          "action": "skill",
+          "role": "hit",
+          "type": "Position"
+        },
+        {
+          "id": "11104",
+          "heroId": "sunce",
+          "action": "attack",
+          "role": "hit",
+          "type": "Position"
+        },
+        {
+          "id": "11201",
+          "heroId": "jiaxu",
+          "action": "attack",
+          "role": "hit",
+          "type": "Move"
+        },
+        {
+          "id": "11204",
+          "heroId": "jiaxu",
+          "action": "attack",
+          "role": "hit",
+          "type": "Move"
+        },
+        {
+          "id": "11401",
+          "heroId": "jiangwei",
+          "action": "attack",
+          "role": "hit",
+          "type": "Line"
+        },
+        {
+          "id": "11402",
+          "heroId": "jiangwei",
+          "action": "attack",
+          "role": "hit",
+          "type": "Move"
+        },
+        {
+          "id": "11408",
+          "heroId": "jiangwei",
+          "action": "attack",
+          "role": "hit",
+          "type": "Line"
+        },
+        {
+          "id": "11601",
+          "heroId": "gongsunzan",
+          "action": "attack",
+          "role": "hit",
+          "type": "Line"
+        },
+        {
+          "id": "11602",
+          "heroId": "gongsunzan",
+          "action": "attack",
+          "role": "hit",
+          "type": "Line"
+        },
+        {
+          "id": "11605",
+          "heroId": "gongsunzan",
+          "action": "attack",
+          "role": "hit",
+          "type": "Parabola"
+        },
+        {
+          "id": "11904",
+          "heroId": "daqiao",
+          "action": "attack",
+          "role": "hit",
+          "type": "Move"
+        },
+        {
+          "id": "12002",
+          "heroId": "zhangjiao",
+          "action": "attack",
+          "role": "hit",
+          "type": "Line"
+        }
+      ]
+    },
+    {
+      "key": "zhenji/zhenji_skill_hit",
+      "sourceSize": {
+        "width": 900,
+        "height": 900
+      },
+      "resolvedSize": {
+        "width": 900,
+        "height": 900
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "109",
+          "heroId": "zhenji",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "huangyueying/huangyueying_attack_line",
+      "sourceSize": {
+        "width": 604,
+        "height": 103
+      },
+      "resolvedSize": {
+        "width": 604,
+        "height": 103
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "110",
+          "heroId": "huangyueying",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Line"
+        }
+      ]
+    },
+    {
+      "key": "huangyueying/huangyueying_skill_line",
+      "sourceSize": {
+        "width": 1251,
+        "height": 906
+      },
+      "resolvedSize": {
+        "width": 1251,
+        "height": 906
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "110",
+          "heroId": "huangyueying",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Line"
+        }
+      ]
+    },
+    {
+      "key": "gongsunzan/gongsunzan_attack_loop",
+      "sourceSize": {
+        "width": 233,
+        "height": 42
+      },
+      "resolvedSize": {
+        "width": 233,
+        "height": 42
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "116",
+          "heroId": "gongsunzan",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Parabola"
+        }
+      ]
+    },
+    {
+      "key": "gongsunzan/gongsunzan_skill_loop",
+      "sourceSize": {
+        "width": 343,
+        "height": 83
+      },
+      "resolvedSize": {
+        "width": 343,
+        "height": 83
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "116",
+          "heroId": "gongsunzan",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "gongsunzan/gongsunzan_skill_hit",
+      "sourceSize": {
+        "width": 747,
+        "height": 681
+      },
+      "resolvedSize": {
+        "width": 747,
+        "height": 681
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "116",
+          "heroId": "gongsunzan",
+          "action": "skill",
+          "role": "hit",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "daqiao/daqiao_attack_loop",
+      "sourceSize": {
+        "width": 524,
+        "height": 176
+      },
+      "resolvedSize": {
+        "width": 524,
+        "height": 176
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "119",
+          "heroId": "daqiao",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "daqiao/daqiao_skill_loop",
+      "sourceSize": {
+        "width": 1486,
+        "height": 798
+      },
+      "resolvedSize": {
+        "width": 1486,
+        "height": 798
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "119",
+          "heroId": "daqiao",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Center"
+        }
+      ]
+    },
+    {
+      "key": "daqiao/daqiao_skill_hit",
+      "sourceSize": {
+        "width": 356,
+        "height": 342
+      },
+      "resolvedSize": {
+        "width": 356,
+        "height": 342
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "119",
+          "heroId": "daqiao",
+          "action": "skill",
+          "role": "hit",
+          "type": "Center"
+        }
+      ]
+    },
+    {
+      "key": "pangtong/pangtong_attack_loop",
+      "sourceSize": {
+        "width": 100,
+        "height": 101
+      },
+      "resolvedSize": {
+        "width": 100,
+        "height": 101
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "206",
+          "heroId": "pangtong",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "pangtong/pangtong_skill_hit",
+      "sourceSize": {
+        "width": 451,
+        "height": 451
+      },
+      "resolvedSize": {
+        "width": 451,
+        "height": 451
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "206",
+          "heroId": "pangtong",
+          "action": "attack",
+          "role": "hit",
+          "type": "Move"
+        },
+        {
+          "id": "206",
+          "heroId": "pangtong",
+          "action": "skill",
+          "role": "hit",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "pangtong/pangtong_skill_loop",
+      "sourceSize": {
+        "width": 101,
+        "height": 101
+      },
+      "resolvedSize": {
+        "width": 101,
+        "height": 101
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "206",
+          "heroId": "pangtong",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "lusu/lusu_attack_loop",
+      "sourceSize": {
+        "width": 150,
+        "height": 99
+      },
+      "resolvedSize": {
+        "width": 150,
+        "height": 99
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "207",
+          "heroId": "lusu",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "lusu/lusu_skill_hit",
+      "sourceSize": {
+        "width": 275,
+        "height": 483
+      },
+      "resolvedSize": {
+        "width": 275,
+        "height": 483
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "207",
+          "heroId": "lusu",
+          "action": "attack",
+          "role": "hit",
+          "type": "Move"
+        },
+        {
+          "id": "207",
+          "heroId": "lusu",
+          "action": "skill",
+          "role": "hit",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "lusu/lusu_skill_loop",
+      "sourceSize": {
+        "width": 203,
+        "height": 200
+      },
+      "resolvedSize": {
+        "width": 203,
+        "height": 200
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "207",
+          "heroId": "lusu",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "ganning/ganning_attack_loop",
+      "sourceSize": {
+        "width": 234,
+        "height": 47
+      },
+      "resolvedSize": {
+        "width": 234,
+        "height": 47
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "209",
+          "heroId": "ganning",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Parabola"
+        }
+      ]
+    },
+    {
+      "key": "ganning/ganning_skill_loop",
+      "sourceSize": {
+        "width": 353,
+        "height": 182
+      },
+      "resolvedSize": {
+        "width": 353,
+        "height": 182
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "209",
+          "heroId": "ganning",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Rush"
+        }
+      ]
+    },
+    {
+      "key": "ganning/ganning_skill_hit",
+      "sourceSize": {
+        "width": 469,
+        "height": 1004
+      },
+      "resolvedSize": {
+        "width": 469,
+        "height": 1004
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "209",
+          "heroId": "ganning",
+          "action": "skill",
+          "role": "hit",
+          "type": "Rush"
+        }
+      ]
+    },
+    {
+      "key": "zhangjiao/zhangjiao_attack_loop",
+      "sourceSize": {
+        "width": 199,
+        "height": 62
+      },
+      "resolvedSize": {
+        "width": 199,
+        "height": 62
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "212",
+          "heroId": "zhangjiao",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "zhangjiao/zhangjiao_skill_loop",
+      "sourceSize": {
+        "width": 273,
+        "height": 100
+      },
+      "resolvedSize": {
+        "width": 273,
+        "height": 100
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "212",
+          "heroId": "zhangjiao",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "zhangjiao/zhangjiao_skill_hit",
+      "sourceSize": {
+        "width": 338,
+        "height": 1309
+      },
+      "resolvedSize": {
+        "width": 338,
+        "height": 1309
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "212",
+          "heroId": "zhangjiao",
+          "action": "skill",
+          "role": "hit",
+          "type": "Move"
+        },
+        {
+          "id": "12002",
+          "heroId": "zhangjiao",
+          "action": "skill",
+          "role": "hit",
+          "type": "Position"
+        },
+        {
+          "id": "12007",
+          "heroId": "zhangjiao",
+          "action": "skill",
+          "role": "hit",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "xiahouyuan/xiahouyuan_attack_loop",
+      "sourceSize": {
+        "width": 174,
+        "height": 32
+      },
+      "resolvedSize": {
+        "width": 174,
+        "height": 32
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "216",
+          "heroId": "xiahouyuan",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Parabola"
+        }
+      ]
+    },
+    {
+      "key": "xiahouyuan/xiahouyuan_skill_loop",
+      "sourceSize": {
+        "width": 396,
+        "height": 101
+      },
+      "resolvedSize": {
+        "width": 396,
+        "height": 101
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "216",
+          "heroId": "xiahouyuan",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Parabola"
+        }
+      ]
+    },
+    {
+      "key": "xiahouyuan/xiahouyuan_skill_hit",
+      "sourceSize": {
+        "width": 334,
+        "height": 171
+      },
+      "resolvedSize": {
+        "width": 334,
+        "height": 171
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "216",
+          "heroId": "xiahouyuan",
+          "action": "skill",
+          "role": "hit",
+          "type": "Parabola"
+        }
+      ]
+    },
+    {
+      "key": "huangzhong/huangzhong_attack_loop",
+      "sourceSize": {
+        "width": 221,
+        "height": 59
+      },
+      "resolvedSize": {
+        "width": 221,
+        "height": 59
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "218",
+          "heroId": "huangzhong",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Parabola"
+        }
+      ]
+    },
+    {
+      "key": "huangzhong/huangzhong_skill_hit",
+      "sourceSize": {
+        "width": 426,
+        "height": 2024
+      },
+      "resolvedSize": {
+        "width": 426,
+        "height": 2024
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "218",
+          "heroId": "huangzhong",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "xiaoqiao/xiaoqiao_attack_loop",
+      "sourceSize": {
+        "width": 199,
+        "height": 101
+      },
+      "resolvedSize": {
+        "width": 199,
+        "height": 101
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "224",
+          "heroId": "xiaoqiao",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "xiaoqiao/xiaoqiao_skill_hit",
+      "sourceSize": {
+        "width": 788,
+        "height": 773
+      },
+      "resolvedSize": {
+        "width": 788,
+        "height": 773
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "224",
+          "heroId": "xiaoqiao",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "zhangzhao/zhangzhao_attack_loop",
+      "sourceSize": {
+        "width": 189,
+        "height": 74
+      },
+      "resolvedSize": {
+        "width": 189,
+        "height": 74
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "308",
+          "heroId": "zhangzhao",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "zhangzhao/zhangzhao_skill_loop",
+      "sourceSize": {
+        "width": 204,
+        "height": 209
+      },
+      "resolvedSize": {
+        "width": 204,
+        "height": 209
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "308",
+          "heroId": "zhangzhao",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "zhangzhao/zhangzhao_skill_hit",
+      "sourceSize": {
+        "width": 284,
+        "height": 284
+      },
+      "resolvedSize": {
+        "width": 284,
+        "height": 284
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "308",
+          "heroId": "zhangzhao",
+          "action": "skill",
+          "role": "hit",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "luji/luji_attack_loop",
+      "sourceSize": {
+        "width": 157,
+        "height": 157
+      },
+      "resolvedSize": {
+        "width": 157,
+        "height": 157
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "309",
+          "heroId": "luji",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "luji/luji_skill_line",
+      "sourceSize": {
+        "width": 929,
+        "height": 200
+      },
+      "resolvedSize": {
+        "width": 929,
+        "height": 200
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "309",
+          "heroId": "luji",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Line"
+        }
+      ]
+    },
+    {
+      "key": "zhurongfuren/zhurongfuren_attack_loop",
+      "sourceSize": {
+        "width": 153,
+        "height": 157
+      },
+      "resolvedSize": {
+        "width": 153,
+        "height": 157
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "313",
+          "heroId": "zhurongfuren",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "zhurongfuren/zhurongfuren_skill_loop",
+      "sourceSize": {
+        "width": 166,
+        "height": 150
+      },
+      "resolvedSize": {
+        "width": 166,
+        "height": 150
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "313",
+          "heroId": "zhurongfuren",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "zhurongfuren/zhurongfuren_skill_hit",
+      "sourceSize": {
+        "width": 242,
+        "height": 264
+      },
+      "resolvedSize": {
+        "width": 242,
+        "height": 264
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "313",
+          "heroId": "zhurongfuren",
+          "action": "skill",
+          "role": "hit",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "taishici4/taishici4_attack_loop",
+      "sourceSize": {
+        "width": 203,
+        "height": 131
+      },
+      "resolvedSize": {
+        "width": 203,
+        "height": 131
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "1002",
+          "heroId": "taishici",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "taishici4/taishici4_skill_loop",
+      "sourceSize": {
+        "width": 296,
+        "height": 174
+      },
+      "resolvedSize": {
+        "width": 296,
+        "height": 174
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "1002",
+          "heroId": "taishici",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "taishici4/taishici4_skill_hit",
+      "sourceSize": {
+        "width": 329,
+        "height": 325
+      },
+      "resolvedSize": {
+        "width": 329,
+        "height": 325
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "1002",
+          "heroId": "taishici",
+          "action": "skill",
+          "role": "hit",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "gongsunzan4/gongsunzan4_attack_hit",
+      "sourceSize": {
+        "width": 333,
+        "height": 384
+      },
+      "resolvedSize": {
+        "width": 333,
+        "height": 384
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "1005",
+          "heroId": "gongsunzan",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "gongsunzan4/gongsunzan4_skill_hit",
+      "sourceSize": {
+        "width": 662,
+        "height": 1050
+      },
+      "resolvedSize": {
+        "width": 662,
+        "height": 1050
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "1005",
+          "heroId": "gongsunzan",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "zhenji5/zhenji5_attack_loop",
+      "sourceSize": {
+        "width": 201,
+        "height": 69
+      },
+      "resolvedSize": {
+        "width": 201,
+        "height": 69
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "1007",
+          "heroId": "zhenji",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "zhenji5/zhenji5_skill_hit",
+      "sourceSize": {
+        "width": 777,
+        "height": 738
+      },
+      "resolvedSize": {
+        "width": 777,
+        "height": 738
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "1007",
+          "heroId": "zhenji",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "simayi5/simayi5_attack_hit",
+      "sourceSize": {
+        "width": 265,
+        "height": 233
+      },
+      "resolvedSize": {
+        "width": 265,
+        "height": 233
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "1009",
+          "heroId": "simayi",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "simayi5/simayi5_skill_hit",
+      "sourceSize": {
+        "width": 880,
+        "height": 1015
+      },
+      "resolvedSize": {
+        "width": 880,
+        "height": 1015
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "1009",
+          "heroId": "simayi",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "huatuo4/huatuo4_attack_line",
+      "sourceSize": {
+        "width": 568,
+        "height": 93
+      },
+      "resolvedSize": {
+        "width": 568,
+        "height": 93
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "1010",
+          "heroId": "huatuo",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Line"
+        }
+      ]
+    },
+    {
+      "key": "huatuo4/huatuo4_skill_hit",
+      "sourceSize": {
+        "width": 451,
+        "height": 451
+      },
+      "resolvedSize": {
+        "width": 451,
+        "height": 451
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "1010",
+          "heroId": "huatuo",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "huangyueying5/huangyueying5_attack_line",
+      "sourceSize": {
+        "width": 562,
+        "height": 82
+      },
+      "resolvedSize": {
+        "width": 562,
+        "height": 82
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "1011",
+          "heroId": "huangyueying",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Line"
+        }
+      ]
+    },
+    {
+      "key": "huangyueying5/huangyueying5_skill_hit",
+      "sourceSize": {
+        "width": 1545,
+        "height": 862
+      },
+      "resolvedSize": {
+        "width": 1545,
+        "height": 862
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "1011",
+          "heroId": "huangyueying",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "guojia4/guojia4_attack_loop",
+      "sourceSize": {
+        "width": 201,
+        "height": 199
+      },
+      "resolvedSize": {
+        "width": 201,
+        "height": 199
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "1012",
+          "heroId": "guojia",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "guojia4/guojia4_skill_hit",
+      "sourceSize": {
+        "width": 1478,
+        "height": 1683
+      },
+      "resolvedSize": {
+        "width": 1478,
+        "height": 1683
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "1012",
+          "heroId": "guojia",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "zhouyu6/zhouyu6_attack_loop",
+      "sourceSize": {
+        "width": 231,
+        "height": 113
+      },
+      "resolvedSize": {
+        "width": 231,
+        "height": 113
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "1013",
+          "heroId": "zhouyu",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "zhouyu6/zhouyu6_skill_hit",
+      "sourceSize": {
+        "width": 999,
+        "height": 756
+      },
+      "resolvedSize": {
+        "width": 999,
+        "height": 756
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "1013",
+          "heroId": "zhouyu",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "simayi7/simayi7_attack_loop",
+      "sourceSize": {
+        "width": 384,
+        "height": 119
+      },
+      "resolvedSize": {
+        "width": 384,
+        "height": 119
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "2001",
+          "heroId": "simayi",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "simayi7/simayi7_attack_hit",
+      "sourceSize": {
+        "width": 357,
+        "height": 334
+      },
+      "resolvedSize": {
+        "width": 357,
+        "height": 334
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "2001",
+          "heroId": "simayi",
+          "action": "attack",
+          "role": "hit",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "simayi7/simayi7_skill_hit",
+      "sourceSize": {
+        "width": 1738,
+        "height": 3671
+      },
+      "resolvedSize": {
+        "width": 1738,
+        "height": 3671
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "2001",
+          "heroId": "simayi",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "zhenji7/zhenji7_attack_loop",
+      "sourceSize": {
+        "width": 201,
+        "height": 69
+      },
+      "resolvedSize": {
+        "width": 201,
+        "height": 69
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "2002",
+          "heroId": "zhenji",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "zhenji7/zhenji7_attack_hit",
+      "sourceSize": {
+        "width": 305,
+        "height": 291
+      },
+      "resolvedSize": {
+        "width": 305,
+        "height": 291
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "2002",
+          "heroId": "zhenji",
+          "action": "attack",
+          "role": "hit",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "zhenji7/zhenji7_skill_hit",
+      "sourceSize": {
+        "width": 1065,
+        "height": 1064
+      },
+      "resolvedSize": {
+        "width": 1065,
+        "height": 1064
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "2002",
+          "heroId": "zhenji",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "guojia5/guojia5_attack_loop",
+      "sourceSize": {
+        "width": 392,
+        "height": 159
+      },
+      "resolvedSize": {
+        "width": 392,
+        "height": 159
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "2004",
+          "heroId": "guojia",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "guojia5/guojia5_attack_hit",
+      "sourceSize": {
+        "width": 772,
+        "height": 730
+      },
+      "resolvedSize": {
+        "width": 772,
+        "height": 730
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "2004",
+          "heroId": "guojia",
+          "action": "attack",
+          "role": "hit",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "guojia5/guojia5_skill_hit",
+      "sourceSize": {
+        "width": 1167,
+        "height": 1388
+      },
+      "resolvedSize": {
+        "width": 1167,
+        "height": 1388
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "2004",
+          "heroId": "guojia",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "zhouyu7/zhouyu7_attack_loop",
+      "sourceSize": {
+        "width": 231,
+        "height": 113
+      },
+      "resolvedSize": {
+        "width": 231,
+        "height": 113
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "2005",
+          "heroId": "zhouyu",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "zhouyu7/zhouyu7_skill_hit",
+      "sourceSize": {
+        "width": 2154,
+        "height": 1591
+      },
+      "resolvedSize": {
+        "width": 2154,
+        "height": 1591
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "2005",
+          "heroId": "zhouyu",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "sunce5/sunce5_attack_loop",
+      "sourceSize": {
+        "width": 199,
+        "height": 99
+      },
+      "resolvedSize": {
+        "width": 199,
+        "height": 99
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "2006",
+          "heroId": "sunce",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "sunce5/sunce5_attack_hit",
+      "sourceSize": {
+        "width": 363,
+        "height": 303
+      },
+      "resolvedSize": {
+        "width": 363,
+        "height": 303
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "2006",
+          "heroId": "sunce",
+          "action": "attack",
+          "role": "hit",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "sunce5/sunce5_skill_hit",
+      "sourceSize": {
+        "width": 2235,
+        "height": 1053
+      },
+      "resolvedSize": {
+        "width": 2235,
+        "height": 1053
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "2006",
+          "heroId": "sunce",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "huatuo6/huatuo6_attack_loop",
+      "sourceSize": {
+        "width": 345,
+        "height": 104
+      },
+      "resolvedSize": {
+        "width": 345,
+        "height": 104
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "2009",
+          "heroId": "huatuo",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "huatuo6/huatuo6_attack_hit",
+      "sourceSize": {
+        "width": 567,
+        "height": 216
+      },
+      "resolvedSize": {
+        "width": 567,
+        "height": 216
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "2009",
+          "heroId": "huatuo",
+          "action": "attack",
+          "role": "hit",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "huatuo6/huatuo6_skill_loop",
+      "sourceSize": {
+        "width": 0,
+        "height": 0
+      },
+      "resolvedSize": {
+        "width": 493.3019056352523,
+        "height": 1296.7207601879975
+      },
+      "bounds": {
+        "x": -232.97517387265583,
+        "y": -1151.8985319581702,
+        "width": 470.67996711205126,
+        "height": 1248.9792886752043,
+        "frames": 262
+      },
+      "sourceMissing": true,
+      "refs": [
+        {
+          "id": "2009",
+          "heroId": "huatuo",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "huatuo6/huatuo6_skill_hit",
+      "sourceSize": {
+        "width": 0,
+        "height": 0
+      },
+      "resolvedSize": {
+        "width": 604.044429466752,
+        "height": 427.7705712474595
+      },
+      "bounds": {
+        "x": -280.9191063949828,
+        "y": -230.32764292887407,
+        "width": 575.2804090159543,
+        "height": 407.40054404519947,
+        "frames": 217
+      },
+      "sourceMissing": true,
+      "refs": [
+        {
+          "id": "2009",
+          "heroId": "huatuo",
+          "action": "skill",
+          "role": "hit",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "gongsunzan6/gongsunzan6_attack_loop",
+      "sourceSize": {
+        "width": 684,
+        "height": 114
+      },
+      "resolvedSize": {
+        "width": 684,
+        "height": 114
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "2010",
+          "heroId": "gongsunzan",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "gongsunzan6/gongsunzan6_attack_hit",
+      "sourceSize": {
+        "width": 390,
+        "height": 476
+      },
+      "resolvedSize": {
+        "width": 390,
+        "height": 476
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "2010",
+          "heroId": "gongsunzan",
+          "action": "attack",
+          "role": "hit",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "gongsunzan6/gongsunzan6_skill_hit",
+      "sourceSize": {
+        "width": 813,
+        "height": 1214
+      },
+      "resolvedSize": {
+        "width": 813,
+        "height": 1214
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "2010",
+          "heroId": "gongsunzan",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "jiaxu6/jiaxu6_attack_loop",
+      "sourceSize": {
+        "width": 240,
+        "height": 99
+      },
+      "resolvedSize": {
+        "width": 240,
+        "height": 99
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "2011",
+          "heroId": "jiaxu",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "jiaxu6/jiaxu6_attack_hit",
+      "sourceSize": {
+        "width": 376,
+        "height": 439
+      },
+      "resolvedSize": {
+        "width": 376,
+        "height": 439
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "2011",
+          "heroId": "jiaxu",
+          "action": "attack",
+          "role": "hit",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "jiaxu6/jiaxu6_skill_hit",
+      "sourceSize": {
+        "width": 595,
+        "height": 652
+      },
+      "resolvedSize": {
+        "width": 595,
+        "height": 652
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "2011",
+          "heroId": "jiaxu",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "zhugeliang7/zhugeliang7_attack_line",
+      "sourceSize": {
+        "width": 436,
+        "height": 101
+      },
+      "resolvedSize": {
+        "width": 436,
+        "height": 101
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "2013",
+          "heroId": "zhugeliang",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Line"
+        }
+      ]
+    },
+    {
+      "key": "zhugeliang7/zhugeliang7_attack_hit",
+      "sourceSize": {
+        "width": 213,
+        "height": 213
+      },
+      "resolvedSize": {
+        "width": 213,
+        "height": 213
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "2013",
+          "heroId": "zhugeliang",
+          "action": "attack",
+          "role": "hit",
+          "type": "Line"
+        }
+      ]
+    },
+    {
+      "key": "zhugeliang7/zhugeliang7_skill_hit",
+      "sourceSize": {
+        "width": 491,
+        "height": 488
+      },
+      "resolvedSize": {
+        "width": 491,
+        "height": 488
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "2013",
+          "heroId": "zhugeliang",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "huangyueying7/huangyueying7_attack_line",
+      "sourceSize": {
+        "width": 746,
+        "height": 103
+      },
+      "resolvedSize": {
+        "width": 746,
+        "height": 103
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "2014",
+          "heroId": "huangyueying",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Line"
+        }
+      ]
+    },
+    {
+      "key": "huangyueying7/huangyueying7_attack_hit",
+      "sourceSize": {
+        "width": 0,
+        "height": 0
+      },
+      "resolvedSize": {
+        "width": 244.3554396846519,
+        "height": 268.7909343300094
+      },
+      "bounds": {
+        "x": -116.9829297575262,
+        "y": -129.86051673853754,
+        "width": 233.74126330314414,
+        "height": 257.1153423314497,
+        "frames": 66
+      },
+      "sourceMissing": true,
+      "refs": [
+        {
+          "id": "2014",
+          "heroId": "huangyueying",
+          "action": "attack",
+          "role": "hit",
+          "type": "Line"
+        }
+      ]
+    },
+    {
+      "key": "huangyueying7/huangyueying7_skill_hit",
+      "sourceSize": {
+        "width": 1163,
+        "height": 1081
+      },
+      "resolvedSize": {
+        "width": 1163,
+        "height": 1081
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "2014",
+          "heroId": "huangyueying",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "daqiao2/daqiao2_attack_loop",
+      "sourceSize": {
+        "width": 290,
+        "height": 137
+      },
+      "resolvedSize": {
+        "width": 290,
+        "height": 137
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "3001",
+          "heroId": "daqiao",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "daqiao2/daqiao2_attack_hit",
+      "sourceSize": {
+        "width": 170,
+        "height": 201
+      },
+      "resolvedSize": {
+        "width": 170,
+        "height": 201
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "3001",
+          "heroId": "daqiao",
+          "action": "attack",
+          "role": "hit",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "daqiao2/daqiao2_skill_hit2",
+      "sourceSize": {
+        "width": 789,
+        "height": 575
+      },
+      "resolvedSize": {
+        "width": 789,
+        "height": 575
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "3001",
+          "heroId": "daqiao",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "daqiao2/daqiao2_skill_hit1",
+      "sourceSize": {
+        "width": 319,
+        "height": 493
+      },
+      "resolvedSize": {
+        "width": 319,
+        "height": 493
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "3001",
+          "heroId": "daqiao",
+          "action": "skill",
+          "role": "hit",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "simayi2/simayi2_attack_loop",
+      "sourceSize": {
+        "width": 170,
+        "height": 67
+      },
+      "resolvedSize": {
+        "width": 170,
+        "height": 67
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10101",
+          "heroId": "simayi",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Move"
+        },
+        {
+          "id": "10101",
+          "heroId": "simayi",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "simayi3/simayi3_attack_line",
+      "sourceSize": {
+        "width": 599,
+        "height": 130
+      },
+      "resolvedSize": {
+        "width": 599,
+        "height": 130
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10102",
+          "heroId": "simayi",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Line"
+        }
+      ]
+    },
+    {
+      "key": "simayi3/simayi3_skill_hit",
+      "sourceSize": {
+        "width": 1092,
+        "height": 1245
+      },
+      "resolvedSize": {
+        "width": 1092,
+        "height": 1245
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10102",
+          "heroId": "simayi",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "simayi4/simayi4_attack_line",
+      "sourceSize": {
+        "width": 551,
+        "height": 100
+      },
+      "resolvedSize": {
+        "width": 551,
+        "height": 100
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10103",
+          "heroId": "simayi",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Line"
+        }
+      ]
+    },
+    {
+      "key": "simayi4/simayi4_attack_hit",
+      "sourceSize": {
+        "width": 1097,
+        "height": 358
+      },
+      "resolvedSize": {
+        "width": 1097,
+        "height": 358
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10103",
+          "heroId": "simayi",
+          "action": "attack",
+          "role": "hit",
+          "type": "Line"
+        }
+      ]
+    },
+    {
+      "key": "simayi4/simayi4_skill_hit",
+      "sourceSize": {
+        "width": 1008,
+        "height": 1372
+      },
+      "resolvedSize": {
+        "width": 1008,
+        "height": 1372
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10103",
+          "heroId": "simayi",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "simayi8/simayi8_attack_line",
+      "sourceSize": {
+        "width": 551,
+        "height": 100
+      },
+      "resolvedSize": {
+        "width": 551,
+        "height": 100
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10108",
+          "heroId": "simayi",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "simayi8/simayi8_attack_hit",
+      "sourceSize": {
+        "width": 348,
+        "height": 339
+      },
+      "resolvedSize": {
+        "width": 348,
+        "height": 339
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10108",
+          "heroId": "simayi",
+          "action": "attack",
+          "role": "hit",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "simayi8/simayi8_skill_hit",
+      "sourceSize": {
+        "width": 1492,
+        "height": 1584
+      },
+      "resolvedSize": {
+        "width": 1492,
+        "height": 1584
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10108",
+          "heroId": "simayi",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "simayi11/simayi11_attack_hit",
+      "sourceSize": {
+        "width": 501,
+        "height": 300
+      },
+      "resolvedSize": {
+        "width": 501,
+        "height": 300
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10111",
+          "heroId": "simayi",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "simayi11/simayi11_skill_hit",
+      "sourceSize": {
+        "width": 874,
+        "height": 565
+      },
+      "resolvedSize": {
+        "width": 874,
+        "height": 565
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10111",
+          "heroId": "simayi",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "guojia2/guojia2_attack_loop",
+      "sourceSize": {
+        "width": 136,
+        "height": 40
+      },
+      "resolvedSize": {
+        "width": 136,
+        "height": 40
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10201",
+          "heroId": "guojia",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "guojia2/guojia2_skill_loop",
+      "sourceSize": {
+        "width": 167,
+        "height": 61
+      },
+      "resolvedSize": {
+        "width": 167,
+        "height": 61
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10201",
+          "heroId": "guojia",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "guojia2/guojia2_skill_hit",
+      "sourceSize": {
+        "width": 510,
+        "height": 510
+      },
+      "resolvedSize": {
+        "width": 510,
+        "height": 510
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10201",
+          "heroId": "guojia",
+          "action": "skill",
+          "role": "hit",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "guojia6/guojia6_attack_loop",
+      "sourceSize": {
+        "width": 201,
+        "height": 156
+      },
+      "resolvedSize": {
+        "width": 201,
+        "height": 156
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10206",
+          "heroId": "guojia",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "guojia6/guojia6_attack_hit",
+      "sourceSize": {
+        "width": 320,
+        "height": 320
+      },
+      "resolvedSize": {
+        "width": 320,
+        "height": 320
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10206",
+          "heroId": "guojia",
+          "action": "attack",
+          "role": "hit",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "guojia6/guojia6_skill_hit",
+      "sourceSize": {
+        "width": 861,
+        "height": 1371
+      },
+      "resolvedSize": {
+        "width": 861,
+        "height": 1371
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10206",
+          "heroId": "guojia",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "guojia7/guojia7_attack_loop",
+      "sourceSize": {
+        "width": 537,
+        "height": 223
+      },
+      "resolvedSize": {
+        "width": 537,
+        "height": 223
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10207",
+          "heroId": "guojia",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "guojia7/guojia7_attack_hit",
+      "sourceSize": {
+        "width": 483,
+        "height": 411
+      },
+      "resolvedSize": {
+        "width": 483,
+        "height": 411
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10207",
+          "heroId": "guojia",
+          "action": "attack",
+          "role": "hit",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "guojia7/guojia7_skill_hit",
+      "sourceSize": {
+        "width": 0,
+        "height": 0
+      },
+      "resolvedSize": {
+        "width": 2620.78500624975,
+        "height": 2701.3655792198747
+      },
+      "bounds": {
+        "x": -1145.522177590496,
+        "y": -1481.8642476693615,
+        "width": 2494.107898144271,
+        "height": 2570.793564081199,
+        "frames": 146
+      },
+      "sourceMissing": true,
+      "refs": [
+        {
+          "id": "10207",
+          "heroId": "guojia",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "guanyu3/guanyu3_attack_hit",
+      "sourceSize": {
+        "width": 552,
+        "height": 1147
+      },
+      "resolvedSize": {
+        "width": 552,
+        "height": 1147
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10302",
+          "heroId": "guanyu",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "guanyu3/guanyu3_skill_hit",
+      "sourceSize": {
+        "width": 2070,
+        "height": 1130
+      },
+      "resolvedSize": {
+        "width": 2070,
+        "height": 1130
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10302",
+          "heroId": "guanyu",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "guanyu7/guanyu7_attack_hit",
+      "sourceSize": {
+        "width": 1019,
+        "height": 1595
+      },
+      "resolvedSize": {
+        "width": 1019,
+        "height": 1595
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10307",
+          "heroId": "guanyu",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "guanyu5/guanyu5_attack_hit",
+      "sourceSize": {
+        "width": 165,
+        "height": 165
+      },
+      "resolvedSize": {
+        "width": 165,
+        "height": 165
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10307",
+          "heroId": "guanyu",
+          "action": "attack",
+          "role": "hit",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "guanyu7/guanyu7_skill_hit",
+      "sourceSize": {
+        "width": 782,
+        "height": 1748
+      },
+      "resolvedSize": {
+        "width": 782,
+        "height": 1748
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10307",
+          "heroId": "guanyu",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "guanyu5/guanyu5_skill_hit2",
+      "sourceSize": {
+        "width": 985,
+        "height": 1071
+      },
+      "resolvedSize": {
+        "width": 985,
+        "height": 1071
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10307",
+          "heroId": "guanyu",
+          "action": "skill",
+          "role": "hit",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "guanyu13/guanyu13_attack_loop",
+      "sourceSize": {
+        "width": 516,
+        "height": 163
+      },
+      "resolvedSize": {
+        "width": 516,
+        "height": 163
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10313",
+          "heroId": "guanyu",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "guanyu13/guanyu13_attack_hit",
+      "sourceSize": {
+        "width": 0,
+        "height": 0
+      },
+      "resolvedSize": {
+        "width": 869.4775941891212,
+        "height": 573.1060796026605
+      },
+      "bounds": {
+        "x": -207.12503169179573,
+        "y": -534.2202819870668,
+        "width": 829.1348866801546,
+        "height": 545.8153139072957,
+        "frames": 58
+      },
+      "sourceMissing": true,
+      "refs": [
+        {
+          "id": "10313",
+          "heroId": "guanyu",
+          "action": "attack",
+          "role": "hit",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "guanyu13/guanyu13_skill_hit",
+      "sourceSize": {
+        "width": 0,
+        "height": 0
+      },
+      "resolvedSize": {
+        "width": 1385.8492296420013,
+        "height": 1463.1402798884485
+      },
+      "bounds": {
+        "x": -688.3034327626934,
+        "y": -1054.962899248858,
+        "width": 1322.110324802628,
+        "height": 1396.9382814166615,
+        "frames": 121
+      },
+      "sourceMissing": true,
+      "refs": [
+        {
+          "id": "10313",
+          "heroId": "guanyu",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "zhugeliang4/zhugeliang4_attack_loop",
+      "sourceSize": {
+        "width": 285,
+        "height": 69
+      },
+      "resolvedSize": {
+        "width": 285,
+        "height": 69
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10403",
+          "heroId": "zhugeliang",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "zhugeliang4/zhugeliang4_attack_hit",
+      "sourceSize": {
+        "width": 104,
+        "height": 54
+      },
+      "resolvedSize": {
+        "width": 104,
+        "height": 54
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10403",
+          "heroId": "zhugeliang",
+          "action": "attack",
+          "role": "hit",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "zhugeliang4/zhugeliang4_skill_hit",
+      "sourceSize": {
+        "width": 539,
+        "height": 1141
+      },
+      "resolvedSize": {
+        "width": 539,
+        "height": 1141
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10403",
+          "heroId": "zhugeliang",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "zhugeliang5/zhugeliang5_attack_loop",
+      "sourceSize": {
+        "width": 201,
+        "height": 199
+      },
+      "resolvedSize": {
+        "width": 201,
+        "height": 199
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10404",
+          "heroId": "zhugeliang",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "zhugeliang5/zhugeliang5_attack_hit",
+      "sourceSize": {
+        "width": 301,
+        "height": 227
+      },
+      "resolvedSize": {
+        "width": 301,
+        "height": 227
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10404",
+          "heroId": "zhugeliang",
+          "action": "attack",
+          "role": "hit",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "zhugeliang5/zhugeliang5_skill_hit",
+      "sourceSize": {
+        "width": 1781,
+        "height": 2088
+      },
+      "resolvedSize": {
+        "width": 1781,
+        "height": 2088
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10404",
+          "heroId": "zhugeliang",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "zhugeliang8/zhugeliang8_attack_loop",
+      "sourceSize": {
+        "width": 142,
+        "height": 64
+      },
+      "resolvedSize": {
+        "width": 142,
+        "height": 64
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10408",
+          "heroId": "zhugeliang",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "zhugeliang8/zhugeliang8_attack_hit",
+      "sourceSize": {
+        "width": 123,
+        "height": 157
+      },
+      "resolvedSize": {
+        "width": 123,
+        "height": 157
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10408",
+          "heroId": "zhugeliang",
+          "action": "attack",
+          "role": "hit",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "zhugeliang8/zhugeliang8_skill_hit",
+      "sourceSize": {
+        "width": 1017,
+        "height": 1098
+      },
+      "resolvedSize": {
+        "width": 1017,
+        "height": 1098
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10408",
+          "heroId": "zhugeliang",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Center"
+        }
+      ]
+    },
+    {
+      "key": "zhugeliang9/zhugeliang9_attack_hit",
+      "sourceSize": {
+        "width": 0,
+        "height": 0
+      },
+      "resolvedSize": {
+        "width": 836.8354604390836,
+        "height": 900.6263905199155
+      },
+      "bounds": {
+        "x": -406.5484716086636,
+        "y": -642.4070276736727,
+        "width": 798.9805603279109,
+        "height": 862.421093113343,
+        "frames": 69
+      },
+      "sourceMissing": true,
+      "refs": [
+        {
+          "id": "10409",
+          "heroId": "zhugeliang",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "zhugeliang9/zhugeliang9_skill_hit",
+      "sourceSize": {
+        "width": 0,
+        "height": 0
+      },
+      "resolvedSize": {
+        "width": 1817.8575243062335,
+        "height": 1431.8721442131675
+      },
+      "bounds": {
+        "x": -858.6080939218448,
+        "y": -871.0219967454411,
+        "width": 1733.7408498211971,
+        "height": 1368.5104904635534,
+        "frames": 146
+      },
+      "sourceMissing": true,
+      "refs": [
+        {
+          "id": "10409",
+          "heroId": "zhugeliang",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Center"
+        }
+      ]
+    },
+    {
+      "key": "zhouyu2/zhouyu2_attack_line",
+      "sourceSize": {
+        "width": 650,
+        "height": 102
+      },
+      "resolvedSize": {
+        "width": 650,
+        "height": 102
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10501",
+          "heroId": "zhouyu",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Line"
+        }
+      ]
+    },
+    {
+      "key": "zhouyu2/zhouyu2_skill_hit",
+      "sourceSize": {
+        "width": 1419,
+        "height": 1503
+      },
+      "resolvedSize": {
+        "width": 1419,
+        "height": 1503
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10501",
+          "heroId": "zhouyu",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "zhouyu2/zhouyu2_skill_loop",
+      "sourceSize": {
+        "width": 252,
+        "height": 203
+      },
+      "resolvedSize": {
+        "width": 252,
+        "height": 203
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10501",
+          "heroId": "zhouyu",
+          "action": "skill",
+          "role": "hit",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "zhouyu3/zhouyu3_attack_loop",
+      "sourceSize": {
+        "width": 177,
+        "height": 199
+      },
+      "resolvedSize": {
+        "width": 177,
+        "height": 199
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10502",
+          "heroId": "zhouyu",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "zhouyu3/zhouyu3_skill_hit",
+      "sourceSize": {
+        "width": 1789,
+        "height": 1267
+      },
+      "resolvedSize": {
+        "width": 1789,
+        "height": 1267
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10502",
+          "heroId": "zhouyu",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "zhouyu4/zhouyu4_attack_line",
+      "sourceSize": {
+        "width": 641,
+        "height": 102
+      },
+      "resolvedSize": {
+        "width": 641,
+        "height": 102
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10503",
+          "heroId": "zhouyu",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Line"
+        }
+      ]
+    },
+    {
+      "key": "zhouyu4/zhouyu4_skill_hit",
+      "sourceSize": {
+        "width": 1190,
+        "height": 1568
+      },
+      "resolvedSize": {
+        "width": 1190,
+        "height": 1568
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10503",
+          "heroId": "zhouyu",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "zhouyu5/zhouyu5_attack_loop",
+      "sourceSize": {
+        "width": 179,
+        "height": 76
+      },
+      "resolvedSize": {
+        "width": 179,
+        "height": 76
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10504",
+          "heroId": "zhouyu",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "zhouyu5/zhouyu5_attack_hit",
+      "sourceSize": {
+        "width": 104,
+        "height": 134
+      },
+      "resolvedSize": {
+        "width": 104,
+        "height": 134
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10504",
+          "heroId": "zhouyu",
+          "action": "attack",
+          "role": "hit",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "zhouyu5/zhouyu5_skill_hit",
+      "sourceSize": {
+        "width": 1645,
+        "height": 1629
+      },
+      "resolvedSize": {
+        "width": 1645,
+        "height": 1629
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10504",
+          "heroId": "zhouyu",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "zhouyu8/zhouyu8_attack_loop",
+      "sourceSize": {
+        "width": 167,
+        "height": 52
+      },
+      "resolvedSize": {
+        "width": 167,
+        "height": 52
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10508",
+          "heroId": "zhouyu",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "zhouyu8/zhouyu8_attack_hit",
+      "sourceSize": {
+        "width": 134,
+        "height": 166
+      },
+      "resolvedSize": {
+        "width": 134,
+        "height": 166
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10508",
+          "heroId": "zhouyu",
+          "action": "attack",
+          "role": "hit",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "zhouyu8/zhouyu8_skill_hit",
+      "sourceSize": {
+        "width": 1413,
+        "height": 1788
+      },
+      "resolvedSize": {
+        "width": 1413,
+        "height": 1788
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10508",
+          "heroId": "zhouyu",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "zhouyu11/zhouyu11_attack_line",
+      "sourceSize": {
+        "width": 149,
+        "height": 159
+      },
+      "resolvedSize": {
+        "width": 149,
+        "height": 159
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10511",
+          "heroId": "zhouyu",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "zhouyu11/zhouyu11_attack_hit",
+      "sourceSize": {
+        "width": 433,
+        "height": 560
+      },
+      "resolvedSize": {
+        "width": 433,
+        "height": 560
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10511",
+          "heroId": "zhouyu",
+          "action": "attack",
+          "role": "hit",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "zhouyu11/zhouyu11_skill_hit",
+      "sourceSize": {
+        "width": 1020,
+        "height": 905
+      },
+      "resolvedSize": {
+        "width": 1020,
+        "height": 905
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10511",
+          "heroId": "zhouyu",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "taishici2/taishici2_attack_loop",
+      "sourceSize": {
+        "width": 149,
+        "height": 100
+      },
+      "resolvedSize": {
+        "width": 149,
+        "height": 100
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10601",
+          "heroId": "taishici",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "taishici2/taishici2_skill_hit",
+      "sourceSize": {
+        "width": 990,
+        "height": 382
+      },
+      "resolvedSize": {
+        "width": 990,
+        "height": 382
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10601",
+          "heroId": "taishici",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "taishici7/taishici7_attack_line",
+      "sourceSize": {
+        "width": 1215,
+        "height": 294
+      },
+      "resolvedSize": {
+        "width": 1215,
+        "height": 294
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10607",
+          "heroId": "taishici",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Line"
+        }
+      ]
+    },
+    {
+      "key": "taishici7/taishici7_attack_hit",
+      "sourceSize": {
+        "width": 152,
+        "height": 136
+      },
+      "resolvedSize": {
+        "width": 152,
+        "height": 136
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10607",
+          "heroId": "taishici",
+          "action": "attack",
+          "role": "hit",
+          "type": "Line"
+        }
+      ]
+    },
+    {
+      "key": "taishici7/taishici7_skill_position",
+      "sourceSize": {
+        "width": 3110,
+        "height": 1022
+      },
+      "resolvedSize": {
+        "width": 3110,
+        "height": 1022
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10607",
+          "heroId": "taishici",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "taishici7/taishici7_skill_hit",
+      "sourceSize": {
+        "width": 580,
+        "height": 413
+      },
+      "resolvedSize": {
+        "width": 580,
+        "height": 413
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10607",
+          "heroId": "taishici",
+          "action": "skill",
+          "role": "hit",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "lvbu4/lvbu4_attack_loop",
+      "sourceSize": {
+        "width": 221,
+        "height": 82
+      },
+      "resolvedSize": {
+        "width": 221,
+        "height": 82
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10703",
+          "heroId": "lvbu",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "lvbu4/lvbu4_skill_line",
+      "sourceSize": {
+        "width": 701,
+        "height": 201
+      },
+      "resolvedSize": {
+        "width": 701,
+        "height": 201
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10703",
+          "heroId": "lvbu",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Line"
+        }
+      ]
+    },
+    {
+      "key": "lvbu4/lvbu4_skill_hit",
+      "sourceSize": {
+        "width": 391,
+        "height": 364
+      },
+      "resolvedSize": {
+        "width": 391,
+        "height": 364
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10703",
+          "heroId": "lvbu",
+          "action": "skill",
+          "role": "hit",
+          "type": "Line"
+        }
+      ]
+    },
+    {
+      "key": "lvbu8/lvbu8_attack_loop",
+      "sourceSize": {
+        "width": 171,
+        "height": 66
+      },
+      "resolvedSize": {
+        "width": 171,
+        "height": 66
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10707",
+          "heroId": "lvbu",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "lvbu8/lvbu8_attack_hit",
+      "sourceSize": {
+        "width": 151,
+        "height": 151
+      },
+      "resolvedSize": {
+        "width": 151,
+        "height": 151
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10707",
+          "heroId": "lvbu",
+          "action": "attack",
+          "role": "hit",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "lvbu8/lvbu8_skill_hit3",
+      "sourceSize": {
+        "width": 776,
+        "height": 697
+      },
+      "resolvedSize": {
+        "width": 776,
+        "height": 697
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10707",
+          "heroId": "lvbu",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "lvbu8/lvbu8_skill_hit",
+      "sourceSize": {
+        "width": 1277,
+        "height": 1202
+      },
+      "resolvedSize": {
+        "width": 1277,
+        "height": 1202
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10707",
+          "heroId": "lvbu",
+          "action": "skill",
+          "role": "hit",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "lvbu12/lvbu12_attack_loop",
+      "sourceSize": {
+        "width": 181,
+        "height": 67
+      },
+      "resolvedSize": {
+        "width": 181,
+        "height": 67
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10712",
+          "heroId": "lvbu",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "lvbu12/lvbu12_skill_hit1",
+      "sourceSize": {
+        "width": 803,
+        "height": 755
+      },
+      "resolvedSize": {
+        "width": 803,
+        "height": 755
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10712",
+          "heroId": "lvbu",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "lvbu12/lvbu12_skill_hit2",
+      "sourceSize": {
+        "width": 888,
+        "height": 782
+      },
+      "resolvedSize": {
+        "width": 888,
+        "height": 782
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10712",
+          "heroId": "lvbu",
+          "action": "skill",
+          "role": "hit",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "lvbu13/lvbu13_attack_loop",
+      "sourceSize": {
+        "width": 181,
+        "height": 67
+      },
+      "resolvedSize": {
+        "width": 181,
+        "height": 67
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10713",
+          "heroId": "lvbu",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "lvbu13/lvbu13_skill_hit1",
+      "sourceSize": {
+        "width": 803,
+        "height": 755
+      },
+      "resolvedSize": {
+        "width": 803,
+        "height": 755
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10713",
+          "heroId": "lvbu",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "lvbu13/lvbu13_skill_hit2",
+      "sourceSize": {
+        "width": 888,
+        "height": 782
+      },
+      "resolvedSize": {
+        "width": 888,
+        "height": 782
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10713",
+          "heroId": "lvbu",
+          "action": "skill",
+          "role": "hit",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "lvbu14/lvbu14_attack_loop",
+      "sourceSize": {
+        "width": 181,
+        "height": 67
+      },
+      "resolvedSize": {
+        "width": 181,
+        "height": 67
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10714",
+          "heroId": "lvbu",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "lvbu14/lvbu14_skill_hit1",
+      "sourceSize": {
+        "width": 803,
+        "height": 755
+      },
+      "resolvedSize": {
+        "width": 803,
+        "height": 755
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10714",
+          "heroId": "lvbu",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "lvbu14/lvbu14_skill_hit2",
+      "sourceSize": {
+        "width": 888,
+        "height": 782
+      },
+      "resolvedSize": {
+        "width": 888,
+        "height": 782
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10714",
+          "heroId": "lvbu",
+          "action": "skill",
+          "role": "hit",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "huatuo2/huatuo2_attack_line",
+      "sourceSize": {
+        "width": 650,
+        "height": 100
+      },
+      "resolvedSize": {
+        "width": 650,
+        "height": 100
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10801",
+          "heroId": "huatuo",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Line"
+        }
+      ]
+    },
+    {
+      "key": "huatuo2/huatuo2_skill_line",
+      "sourceSize": {
+        "width": 916,
+        "height": 797
+      },
+      "resolvedSize": {
+        "width": 916,
+        "height": 797
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10801",
+          "heroId": "huatuo",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Line"
+        }
+      ]
+    },
+    {
+      "key": "huatuo2/huatuo2_skill_loop",
+      "sourceSize": {
+        "width": 305,
+        "height": 449
+      },
+      "resolvedSize": {
+        "width": 305,
+        "height": 449
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10801",
+          "heroId": "huatuo",
+          "action": "skill",
+          "role": "hit",
+          "type": "Line"
+        }
+      ]
+    },
+    {
+      "key": "huatuo5/huatuo5_attack_loop",
+      "sourceSize": {
+        "width": 198,
+        "height": 98
+      },
+      "resolvedSize": {
+        "width": 198,
+        "height": 98
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10805",
+          "heroId": "huatuo",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "huatuo5/huatuo5_attack_hit",
+      "sourceSize": {
+        "width": 179,
+        "height": 221
+      },
+      "resolvedSize": {
+        "width": 179,
+        "height": 221
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10805",
+          "heroId": "huatuo",
+          "action": "attack",
+          "role": "hit",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "huatuo5/huatuo5_skill_hit",
+      "sourceSize": {
+        "width": 309,
+        "height": 558
+      },
+      "resolvedSize": {
+        "width": 309,
+        "height": 558
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10805",
+          "heroId": "huatuo",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "huatuo7/huatuo7_attack_loop",
+      "sourceSize": {
+        "width": 220,
+        "height": 37
+      },
+      "resolvedSize": {
+        "width": 220,
+        "height": 37
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10807",
+          "heroId": "huatuo",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "huatuo7/huatuo7_attack_hit",
+      "sourceSize": {
+        "width": 370,
+        "height": 254
+      },
+      "resolvedSize": {
+        "width": 370,
+        "height": 254
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10807",
+          "heroId": "huatuo",
+          "action": "attack",
+          "role": "hit",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "huatuo7/huatuo7_skill_loop",
+      "sourceSize": {
+        "width": 0,
+        "height": 0
+      },
+      "resolvedSize": {
+        "width": 1069.8848823823103,
+        "height": 1784.966302101948
+      },
+      "bounds": {
+        "x": -536.1125237942073,
+        "y": -1267.2377233042253,
+        "width": 1024.0573340304636,
+        "height": 1713.3854560096268,
+        "frames": 222
+      },
+      "sourceMissing": true,
+      "refs": [
+        {
+          "id": "10807",
+          "heroId": "huatuo",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "huatuo7/huatuo7_skill_hit",
+      "sourceSize": {
+        "width": 0,
+        "height": 0
+      },
+      "resolvedSize": {
+        "width": 519.088085945197,
+        "height": 415.2432898098518
+      },
+      "bounds": {
+        "x": -287.8591923474494,
+        "y": -293.2912470731639,
+        "width": 494.36125129037356,
+        "height": 395.4882985512416,
+        "frames": 222
+      },
+      "sourceMissing": true,
+      "refs": [
+        {
+          "id": "10807",
+          "heroId": "huatuo",
+          "action": "skill",
+          "role": "hit",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "zhenji2/zhenji2_attack_line",
+      "sourceSize": {
+        "width": 800,
+        "height": 99
+      },
+      "resolvedSize": {
+        "width": 800,
+        "height": 99
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10901",
+          "heroId": "zhenji",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Line"
+        }
+      ]
+    },
+    {
+      "key": "zhenji2/zhenji2_skill_line",
+      "sourceSize": {
+        "width": 800,
+        "height": 1125
+      },
+      "resolvedSize": {
+        "width": 800,
+        "height": 1125
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10901",
+          "heroId": "zhenji",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "zhenji2/zhenji2_skill_hit",
+      "sourceSize": {
+        "width": 351,
+        "height": 436
+      },
+      "resolvedSize": {
+        "width": 351,
+        "height": 436
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10901",
+          "heroId": "zhenji",
+          "action": "skill",
+          "role": "hit",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "zhenji3/zhenji3_attack_loop",
+      "sourceSize": {
+        "width": 123,
+        "height": 58
+      },
+      "resolvedSize": {
+        "width": 123,
+        "height": 58
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10902",
+          "heroId": "zhenji",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "zhenji3/zhenji3_skill_loop",
+      "sourceSize": {
+        "width": 100,
+        "height": 117
+      },
+      "resolvedSize": {
+        "width": 100,
+        "height": 117
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10902",
+          "heroId": "zhenji",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "zhenji3/zhenji3_skill_hit",
+      "sourceSize": {
+        "width": 757,
+        "height": 828
+      },
+      "resolvedSize": {
+        "width": 757,
+        "height": 828
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10902",
+          "heroId": "zhenji",
+          "action": "skill",
+          "role": "hit",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "zhenji4/zhenji4_attack_loop",
+      "sourceSize": {
+        "width": 201,
+        "height": 69
+      },
+      "resolvedSize": {
+        "width": 201,
+        "height": 69
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10903",
+          "heroId": "zhenji",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "zhenji4/zhenji4_skill_hit",
+      "sourceSize": {
+        "width": 887,
+        "height": 849
+      },
+      "resolvedSize": {
+        "width": 887,
+        "height": 849
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10903",
+          "heroId": "zhenji",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "zhenji9/zhenji9_attack_loop",
+      "sourceSize": {
+        "width": 302,
+        "height": 203
+      },
+      "resolvedSize": {
+        "width": 302,
+        "height": 203
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10909",
+          "heroId": "zhenji",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "zhenji9/zhenji9_attack_hit",
+      "sourceSize": {
+        "width": 329,
+        "height": 307
+      },
+      "resolvedSize": {
+        "width": 329,
+        "height": 307
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10909",
+          "heroId": "zhenji",
+          "action": "attack",
+          "role": "hit",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "zhenji9/zhenji9_skill_hit",
+      "sourceSize": {
+        "width": 357,
+        "height": 285
+      },
+      "resolvedSize": {
+        "width": 357,
+        "height": 285
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "10909",
+          "heroId": "zhenji",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "huangyueying2/huangyueying2_attack_loop",
+      "sourceSize": {
+        "width": 101,
+        "height": 62
+      },
+      "resolvedSize": {
+        "width": 101,
+        "height": 62
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11001",
+          "heroId": "huangyueying",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "huangyueying2/huangyueying2_skill_hit",
+      "sourceSize": {
+        "width": 952,
+        "height": 1055
+      },
+      "resolvedSize": {
+        "width": 952,
+        "height": 1055
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11001",
+          "heroId": "huangyueying",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "huangyueying3/huangyueying3_attack_loop",
+      "sourceSize": {
+        "width": 157,
+        "height": 92
+      },
+      "resolvedSize": {
+        "width": 157,
+        "height": 92
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11002",
+          "heroId": "huangyueying",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "huangyueying3/huangyueying3_skill_hit",
+      "sourceSize": {
+        "width": 697,
+        "height": 732
+      },
+      "resolvedSize": {
+        "width": 697,
+        "height": 732
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11002",
+          "heroId": "huangyueying",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "huangyueying6/huangyueying6_attack_loop",
+      "sourceSize": {
+        "width": 281,
+        "height": 82
+      },
+      "resolvedSize": {
+        "width": 281,
+        "height": 82
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11005",
+          "heroId": "huangyueying",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "huangyueying6/huangyueying6_attack_hit",
+      "sourceSize": {
+        "width": 137,
+        "height": 130
+      },
+      "resolvedSize": {
+        "width": 137,
+        "height": 130
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11005",
+          "heroId": "huangyueying",
+          "action": "attack",
+          "role": "hit",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "huangyueying6/huangyueying6_skill_hit",
+      "sourceSize": {
+        "width": 1552,
+        "height": 1462
+      },
+      "resolvedSize": {
+        "width": 1552,
+        "height": 1462
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11005",
+          "heroId": "huangyueying",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "huangyueying8/huangyueying8_attack_loop",
+      "sourceSize": {
+        "width": 348,
+        "height": 83
+      },
+      "resolvedSize": {
+        "width": 348,
+        "height": 83
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11006",
+          "heroId": "huangyueying",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "huangyueying8/huangyueying8_attack_hit",
+      "sourceSize": {
+        "width": 162,
+        "height": 159
+      },
+      "resolvedSize": {
+        "width": 162,
+        "height": 159
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11006",
+          "heroId": "huangyueying",
+          "action": "attack",
+          "role": "hit",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "huangyueying8/huangyueying8_skill_hit",
+      "sourceSize": {
+        "width": 1269,
+        "height": 770
+      },
+      "resolvedSize": {
+        "width": 1269,
+        "height": 770
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11006",
+          "heroId": "huangyueying",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Center"
+        }
+      ]
+    },
+    {
+      "key": "sunce3/sunce3_attack_hit",
+      "sourceSize": {
+        "width": 512,
+        "height": 788
+      },
+      "resolvedSize": {
+        "width": 512,
+        "height": 788
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11102",
+          "heroId": "sunce",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "sunce3/sunce3_skill_hit",
+      "sourceSize": {
+        "width": 1356,
+        "height": 1884
+      },
+      "resolvedSize": {
+        "width": 1356,
+        "height": 1884
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11102",
+          "heroId": "sunce",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "sunce6/sunce6_attack_hit",
+      "sourceSize": {
+        "width": 436,
+        "height": 436
+      },
+      "resolvedSize": {
+        "width": 436,
+        "height": 436
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11104",
+          "heroId": "sunce",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "sunce6/sunce6_skill_hit",
+      "sourceSize": {
+        "width": 838,
+        "height": 809
+      },
+      "resolvedSize": {
+        "width": 838,
+        "height": 809
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11104",
+          "heroId": "sunce",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "sunce6/sunce6_skill_hit2",
+      "sourceSize": {
+        "width": 0,
+        "height": 0
+      },
+      "resolvedSize": {
+        "width": 536.5961460989852,
+        "height": 565.7608263146539
+      },
+      "bounds": {
+        "x": -258.33427936424,
+        "y": -256.3838299127944,
+        "width": 513.3574320331808,
+        "height": 541.259058704243,
+        "frames": 66
+      },
+      "sourceMissing": true,
+      "refs": [
+        {
+          "id": "11104",
+          "heroId": "sunce",
+          "action": "skill",
+          "role": "hit",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "sunce7/sunce7_attack_loop",
+      "sourceSize": {
+        "width": 257,
+        "height": 240
+      },
+      "resolvedSize": {
+        "width": 257,
+        "height": 240
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11107",
+          "heroId": "sunce",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Parabola"
+        }
+      ]
+    },
+    {
+      "key": "sunce7/sunce7_attack_hit",
+      "sourceSize": {
+        "width": 341,
+        "height": 453
+      },
+      "resolvedSize": {
+        "width": 341,
+        "height": 453
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11107",
+          "heroId": "sunce",
+          "action": "attack",
+          "role": "hit",
+          "type": "Parabola"
+        }
+      ]
+    },
+    {
+      "key": "sunce7/sunce7_skill_loop",
+      "sourceSize": {
+        "width": 286,
+        "height": 253
+      },
+      "resolvedSize": {
+        "width": 286,
+        "height": 253
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11107",
+          "heroId": "sunce",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Parabola"
+        }
+      ]
+    },
+    {
+      "key": "sunce7/sunce7_skill_hit",
+      "sourceSize": {
+        "width": 201,
+        "height": 185
+      },
+      "resolvedSize": {
+        "width": 201,
+        "height": 185
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11107",
+          "heroId": "sunce",
+          "action": "skill",
+          "role": "hit",
+          "type": "Parabola"
+        }
+      ]
+    },
+    {
+      "key": "sunce8/sunce8_attack_position",
+      "sourceSize": {
+        "width": 441,
+        "height": 244
+      },
+      "resolvedSize": {
+        "width": 441,
+        "height": 244
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11108",
+          "heroId": "sunce",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "sunce8/sunce8_attack_hit",
+      "sourceSize": {
+        "width": 123,
+        "height": 172
+      },
+      "resolvedSize": {
+        "width": 123,
+        "height": 172
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11108",
+          "heroId": "sunce",
+          "action": "attack",
+          "role": "hit",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "sunce8/sunce8_skill_hit",
+      "sourceSize": {
+        "width": 1944,
+        "height": 1287
+      },
+      "resolvedSize": {
+        "width": 1944,
+        "height": 1287
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11108",
+          "heroId": "sunce",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Center"
+        }
+      ]
+    },
+    {
+      "key": "sunce9/sunce9_attack_loop",
+      "sourceSize": {
+        "width": 205,
+        "height": 134
+      },
+      "resolvedSize": {
+        "width": 205,
+        "height": 134
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11109",
+          "heroId": "sunce",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "sunce9/sunce9_attack_hit",
+      "sourceSize": {
+        "width": 501,
+        "height": 385
+      },
+      "resolvedSize": {
+        "width": 501,
+        "height": 385
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11109",
+          "heroId": "sunce",
+          "action": "attack",
+          "role": "hit",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "sunce9/sunce9_skill_position",
+      "sourceSize": {
+        "width": 1316,
+        "height": 1040
+      },
+      "resolvedSize": {
+        "width": 1316,
+        "height": 1040
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11109",
+          "heroId": "sunce",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "sunce9/sunce9_skill_hit",
+      "sourceSize": {
+        "width": 546,
+        "height": 518
+      },
+      "resolvedSize": {
+        "width": 546,
+        "height": 518
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11109",
+          "heroId": "sunce",
+          "action": "skill",
+          "role": "hit",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "jiaxu2/jiaxu2_attack_loop",
+      "sourceSize": {
+        "width": 149,
+        "height": 100
+      },
+      "resolvedSize": {
+        "width": 149,
+        "height": 100
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11201",
+          "heroId": "jiaxu",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "jiaxu2/jiaxu2_skill_loop",
+      "sourceSize": {
+        "width": 270,
+        "height": 103
+      },
+      "resolvedSize": {
+        "width": 270,
+        "height": 103
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11201",
+          "heroId": "jiaxu",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "jiaxu2/jiaxu2_skill_hit",
+      "sourceSize": {
+        "width": 565,
+        "height": 565
+      },
+      "resolvedSize": {
+        "width": 565,
+        "height": 565
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11201",
+          "heroId": "jiaxu",
+          "action": "skill",
+          "role": "hit",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "jiaxu5/jiaxu5_attack_loop",
+      "sourceSize": {
+        "width": 239,
+        "height": 159
+      },
+      "resolvedSize": {
+        "width": 239,
+        "height": 159
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11204",
+          "heroId": "jiaxu",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "jiaxu5/jiaxu5_skill_hit",
+      "sourceSize": {
+        "width": 582,
+        "height": 569
+      },
+      "resolvedSize": {
+        "width": 582,
+        "height": 569
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11204",
+          "heroId": "jiaxu",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "jiaxu8/jiaxu8_attack_loop",
+      "sourceSize": {
+        "width": 171,
+        "height": 64
+      },
+      "resolvedSize": {
+        "width": 171,
+        "height": 64
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11208",
+          "heroId": "jiaxu",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "jiaxu8/jiaxu8_attack_hit",
+      "sourceSize": {
+        "width": 148,
+        "height": 136
+      },
+      "resolvedSize": {
+        "width": 148,
+        "height": 136
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11208",
+          "heroId": "jiaxu",
+          "action": "attack",
+          "role": "hit",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "jiaxu8/jiaxu8_skill_position",
+      "sourceSize": {
+        "width": 1213,
+        "height": 1473
+      },
+      "resolvedSize": {
+        "width": 1213,
+        "height": 1473
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11208",
+          "heroId": "jiaxu",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Center"
+        }
+      ]
+    },
+    {
+      "key": "jiaxu8/jiaxu8_skill_hit",
+      "sourceSize": {
+        "width": 130,
+        "height": 140
+      },
+      "resolvedSize": {
+        "width": 130,
+        "height": 140
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11208",
+          "heroId": "jiaxu",
+          "action": "skill",
+          "role": "hit",
+          "type": "Center"
+        }
+      ]
+    },
+    {
+      "key": "caoren3/caoren3_attack_line",
+      "sourceSize": {
+        "width": 892,
+        "height": 203
+      },
+      "resolvedSize": {
+        "width": 892,
+        "height": 203
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11302",
+          "heroId": "caoren",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Line"
+        }
+      ]
+    },
+    {
+      "key": "caoren3/caoren3_skill_hit",
+      "sourceSize": {
+        "width": 510,
+        "height": 1221
+      },
+      "resolvedSize": {
+        "width": 510,
+        "height": 1221
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11302",
+          "heroId": "caoren",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "caoren7/caoren7_attack_loop",
+      "sourceSize": {
+        "width": 142,
+        "height": 64
+      },
+      "resolvedSize": {
+        "width": 142,
+        "height": 64
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11307",
+          "heroId": "caoren",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "caoren7/caoren7_attack_hit",
+      "sourceSize": {
+        "width": 123,
+        "height": 136
+      },
+      "resolvedSize": {
+        "width": 123,
+        "height": 136
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11307",
+          "heroId": "caoren",
+          "action": "attack",
+          "role": "hit",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "caoren7/caoren7_skill_loop",
+      "sourceSize": {
+        "width": 2080,
+        "height": 661
+      },
+      "resolvedSize": {
+        "width": 2080,
+        "height": 661
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11307",
+          "heroId": "caoren",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "caoren7/caoren7_skill_hit",
+      "sourceSize": {
+        "width": 113,
+        "height": 136
+      },
+      "resolvedSize": {
+        "width": 113,
+        "height": 136
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11307",
+          "heroId": "caoren",
+          "action": "skill",
+          "role": "hit",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "caoren9/caoren9_attack_loop",
+      "sourceSize": {
+        "width": 341,
+        "height": 164
+      },
+      "resolvedSize": {
+        "width": 341,
+        "height": 164
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11309",
+          "heroId": "caoren",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "caoren9/caoren9_attack_hit",
+      "sourceSize": {
+        "width": 388,
+        "height": 424
+      },
+      "resolvedSize": {
+        "width": 388,
+        "height": 424
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11309",
+          "heroId": "caoren",
+          "action": "attack",
+          "role": "hit",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "caoren9/caoren9_skill_hit",
+      "sourceSize": {
+        "width": 747,
+        "height": 584
+      },
+      "resolvedSize": {
+        "width": 747,
+        "height": 584
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11309",
+          "heroId": "caoren",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Center"
+        }
+      ]
+    },
+    {
+      "key": "jiangwei2/jiangwei2_attack_line",
+      "sourceSize": {
+        "width": 500,
+        "height": 101
+      },
+      "resolvedSize": {
+        "width": 500,
+        "height": 101
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11401",
+          "heroId": "jiangwei",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Line"
+        }
+      ]
+    },
+    {
+      "key": "jiangwei2/jiangwei2_skill_hit",
+      "sourceSize": {
+        "width": 1063,
+        "height": 723
+      },
+      "resolvedSize": {
+        "width": 1063,
+        "height": 723
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11401",
+          "heroId": "jiangwei",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "jiangwei3/jiangwei3_attack_loop",
+      "sourceSize": {
+        "width": 192,
+        "height": 101
+      },
+      "resolvedSize": {
+        "width": 192,
+        "height": 101
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11402",
+          "heroId": "jiangwei",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "jiangwei3/jiangwei3_skill_hit",
+      "sourceSize": {
+        "width": 1134,
+        "height": 1359
+      },
+      "resolvedSize": {
+        "width": 1134,
+        "height": 1359
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11402",
+          "heroId": "jiangwei",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "jiangwei5/jiangwei5_attack_loop",
+      "sourceSize": {
+        "width": 354,
+        "height": 291
+      },
+      "resolvedSize": {
+        "width": 354,
+        "height": 291
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11403",
+          "heroId": "jiangwei",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "jiangwei5/jiangwei5_attack_hit",
+      "sourceSize": {
+        "width": 354,
+        "height": 291
+      },
+      "resolvedSize": {
+        "width": 354,
+        "height": 291
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11403",
+          "heroId": "jiangwei",
+          "action": "attack",
+          "role": "hit",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "jiangwei5/jiangwei5_skill_hit",
+      "sourceSize": {
+        "width": 1231,
+        "height": 963
+      },
+      "resolvedSize": {
+        "width": 1231,
+        "height": 963
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11403",
+          "heroId": "jiangwei",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "jiangwei6/jiangwei6_attack_loop",
+      "sourceSize": {
+        "width": 315,
+        "height": 90
+      },
+      "resolvedSize": {
+        "width": 315,
+        "height": 90
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11406",
+          "heroId": "jiangwei",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "jiangwei6/jiangwei6_attack_hit",
+      "sourceSize": {
+        "width": 267,
+        "height": 123
+      },
+      "resolvedSize": {
+        "width": 267,
+        "height": 123
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11406",
+          "heroId": "jiangwei",
+          "action": "attack",
+          "role": "hit",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "jiangwei6/jiangwei6_skill_hit",
+      "sourceSize": {
+        "width": 1270,
+        "height": 453
+      },
+      "resolvedSize": {
+        "width": 1270,
+        "height": 453
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11406",
+          "heroId": "jiangwei",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "jiangwei8/jiangwei8_attack_line",
+      "sourceSize": {
+        "width": 588,
+        "height": 167
+      },
+      "resolvedSize": {
+        "width": 588,
+        "height": 167
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11408",
+          "heroId": "jiangwei",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Line"
+        }
+      ]
+    },
+    {
+      "key": "jiangwei8/jiangwei8_skill_hit2",
+      "sourceSize": {
+        "width": 256,
+        "height": 233
+      },
+      "resolvedSize": {
+        "width": 256,
+        "height": 233
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11408",
+          "heroId": "jiangwei",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "jiangwei11/jiangwei11_attack_line",
+      "sourceSize": {
+        "width": 1204,
+        "height": 340
+      },
+      "resolvedSize": {
+        "width": 1204,
+        "height": 340
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11411",
+          "heroId": "jiangwei",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Line"
+        }
+      ]
+    },
+    {
+      "key": "jiangwei11/jiangwei11_attack_hit",
+      "sourceSize": {
+        "width": 172,
+        "height": 157
+      },
+      "resolvedSize": {
+        "width": 172,
+        "height": 157
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11411",
+          "heroId": "jiangwei",
+          "action": "attack",
+          "role": "hit",
+          "type": "Line"
+        }
+      ]
+    },
+    {
+      "key": "jiangwei11/jiangwei11_skill_hit",
+      "sourceSize": {
+        "width": 359,
+        "height": 455
+      },
+      "resolvedSize": {
+        "width": 359,
+        "height": 455
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11411",
+          "heroId": "jiangwei",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "jiangwei12/jiangwei12_attack_loop",
+      "sourceSize": {
+        "width": 449,
+        "height": 233
+      },
+      "resolvedSize": {
+        "width": 449,
+        "height": 233
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11412",
+          "heroId": "jiangwei",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "jiangwei12/jiangwei12_attack_hit",
+      "sourceSize": {
+        "width": 491,
+        "height": 357
+      },
+      "resolvedSize": {
+        "width": 491,
+        "height": 357
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11412",
+          "heroId": "jiangwei",
+          "action": "attack",
+          "role": "hit",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "jiangwei12/jiangwei12_skill_hit",
+      "sourceSize": {
+        "width": 620,
+        "height": 785
+      },
+      "resolvedSize": {
+        "width": 620,
+        "height": 785
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11412",
+          "heroId": "jiangwei",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "sunjian5/sunjian5_attack_line",
+      "sourceSize": {
+        "width": 677,
+        "height": 99
+      },
+      "resolvedSize": {
+        "width": 677,
+        "height": 99
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11504",
+          "heroId": "sunjian",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Line"
+        }
+      ]
+    },
+    {
+      "key": "sunjian5/sunjian5_skill_hit",
+      "sourceSize": {
+        "width": 1803,
+        "height": 1979
+      },
+      "resolvedSize": {
+        "width": 1803,
+        "height": 1979
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11504",
+          "heroId": "sunjian",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "gongsunzan2/gongsunzan2_attack_line",
+      "sourceSize": {
+        "width": 382,
+        "height": 46
+      },
+      "resolvedSize": {
+        "width": 382,
+        "height": 46
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11601",
+          "heroId": "gongsunzan",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Line"
+        }
+      ]
+    },
+    {
+      "key": "gongsunzan2/gongsunzan2_skill_loop",
+      "sourceSize": {
+        "width": 268,
+        "height": 76
+      },
+      "resolvedSize": {
+        "width": 268,
+        "height": 76
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11601",
+          "heroId": "gongsunzan",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "gongsunzan2/gongsunzan2_skill_hit",
+      "sourceSize": {
+        "width": 1057,
+        "height": 515
+      },
+      "resolvedSize": {
+        "width": 1057,
+        "height": 515
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11601",
+          "heroId": "gongsunzan",
+          "action": "skill",
+          "role": "hit",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "gongsunzan3/gongsunzan3_attack_loop",
+      "sourceSize": {
+        "width": 316,
+        "height": 43
+      },
+      "resolvedSize": {
+        "width": 316,
+        "height": 43
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11602",
+          "heroId": "gongsunzan",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Line"
+        }
+      ]
+    },
+    {
+      "key": "gongsunzan3/gongsunzan3_skill_loop",
+      "sourceSize": {
+        "width": 329,
+        "height": 81
+      },
+      "resolvedSize": {
+        "width": 329,
+        "height": 81
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11602",
+          "heroId": "gongsunzan",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "gongsunzan3/gongsunzan3_skill_hit",
+      "sourceSize": {
+        "width": 747,
+        "height": 681
+      },
+      "resolvedSize": {
+        "width": 747,
+        "height": 681
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11602",
+          "heroId": "gongsunzan",
+          "action": "skill",
+          "role": "hit",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "gongsunzan7/gongsunzan7_attack_loop",
+      "sourceSize": {
+        "width": 152,
+        "height": 149
+      },
+      "resolvedSize": {
+        "width": 152,
+        "height": 149
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11605",
+          "heroId": "gongsunzan",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Parabola"
+        }
+      ]
+    },
+    {
+      "key": "gongsunzan7/gongsunzan7_skill_hit",
+      "sourceSize": {
+        "width": 0,
+        "height": 0
+      },
+      "resolvedSize": {
+        "width": 1522.980542361551,
+        "height": 1811.7806313930075
+      },
+      "bounds": {
+        "x": -791.4525624930881,
+        "y": -1190.260671417564,
+        "width": 1454.1088538401768,
+        "height": 1725.5053632314357,
+        "frames": 117
+      },
+      "sourceMissing": true,
+      "refs": [
+        {
+          "id": "11605",
+          "heroId": "gongsunzan",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "gongsunzan8/gongsunzan8_attack_line",
+      "sourceSize": {
+        "width": 1339,
+        "height": 323
+      },
+      "resolvedSize": {
+        "width": 1339,
+        "height": 323
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11608",
+          "heroId": "gongsunzan",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Line"
+        }
+      ]
+    },
+    {
+      "key": "gongsunzan8/gongsunzan8_attack_hit",
+      "sourceSize": {
+        "width": 138,
+        "height": 140
+      },
+      "resolvedSize": {
+        "width": 138,
+        "height": 140
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11608",
+          "heroId": "gongsunzan",
+          "action": "attack",
+          "role": "hit",
+          "type": "Line"
+        }
+      ]
+    },
+    {
+      "key": "gongsunzan8/gongsunzan8_skill_position",
+      "sourceSize": {
+        "width": 977,
+        "height": 1123
+      },
+      "resolvedSize": {
+        "width": 977,
+        "height": 1123
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11608",
+          "heroId": "gongsunzan",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Center"
+        }
+      ]
+    },
+    {
+      "key": "gongsunzan8/gongsunzan8_skill_hit",
+      "sourceSize": {
+        "width": 424,
+        "height": 436
+      },
+      "resolvedSize": {
+        "width": 424,
+        "height": 436
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11608",
+          "heroId": "gongsunzan",
+          "action": "skill",
+          "role": "hit",
+          "type": "Center"
+        }
+      ]
+    },
+    {
+      "key": "daqiao3/daqiao3_attack_loop",
+      "sourceSize": {
+        "width": 106,
+        "height": 88
+      },
+      "resolvedSize": {
+        "width": 106,
+        "height": 88
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11903",
+          "heroId": "daqiao",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "daqiao3/daqiao3_attack_hit",
+      "sourceSize": {
+        "width": 215,
+        "height": 204
+      },
+      "resolvedSize": {
+        "width": 215,
+        "height": 204
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11903",
+          "heroId": "daqiao",
+          "action": "attack",
+          "role": "hit",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "daqiao3/daqiao3_skill_hit1",
+      "sourceSize": {
+        "width": 358,
+        "height": 251
+      },
+      "resolvedSize": {
+        "width": 358,
+        "height": 251
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11903",
+          "heroId": "daqiao",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "daqiao4/daqiao4_attack_loop",
+      "sourceSize": {
+        "width": 683,
+        "height": 428
+      },
+      "resolvedSize": {
+        "width": 683,
+        "height": 428
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11904",
+          "heroId": "daqiao",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "daqiao4/daqiao4_skill_hit1",
+      "sourceSize": {
+        "width": 3600,
+        "height": 1920
+      },
+      "resolvedSize": {
+        "width": 3600,
+        "height": 1920
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11904",
+          "heroId": "daqiao",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Center"
+        }
+      ]
+    },
+    {
+      "key": "daqiao4/daqiao4_skill_hit2",
+      "sourceSize": {
+        "width": 364,
+        "height": 364
+      },
+      "resolvedSize": {
+        "width": 364,
+        "height": 364
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11904",
+          "heroId": "daqiao",
+          "action": "skill",
+          "role": "hit",
+          "type": "Center"
+        }
+      ]
+    },
+    {
+      "key": "daqiao5/daqiao5_attack_loop",
+      "sourceSize": {
+        "width": 380,
+        "height": 190
+      },
+      "resolvedSize": {
+        "width": 380,
+        "height": 190
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11905",
+          "heroId": "daqiao",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "daqiao5/daqiao5_attack_hit",
+      "sourceSize": {
+        "width": 487,
+        "height": 396
+      },
+      "resolvedSize": {
+        "width": 487,
+        "height": 396
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11905",
+          "heroId": "daqiao",
+          "action": "attack",
+          "role": "hit",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "daqiao5/daqiao5_skill_loop",
+      "sourceSize": {
+        "width": 655,
+        "height": 595
+      },
+      "resolvedSize": {
+        "width": 655,
+        "height": 595
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11905",
+          "heroId": "daqiao",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Center"
+        }
+      ]
+    },
+    {
+      "key": "daqiao6/daqiao6_attack_hit",
+      "sourceSize": {
+        "width": 222,
+        "height": 374
+      },
+      "resolvedSize": {
+        "width": 222,
+        "height": 374
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11906",
+          "heroId": "daqiao",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "daqiao6/daqiao6_skill_position2",
+      "sourceSize": {
+        "width": 552,
+        "height": 436
+      },
+      "resolvedSize": {
+        "width": 552,
+        "height": 436
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11906",
+          "heroId": "daqiao",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Center"
+        }
+      ]
+    },
+    {
+      "key": "daqiao6/daqiao6_skill_hit",
+      "sourceSize": {
+        "width": 338,
+        "height": 181
+      },
+      "resolvedSize": {
+        "width": 338,
+        "height": 181
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11906",
+          "heroId": "daqiao",
+          "action": "skill",
+          "role": "hit",
+          "type": "Center"
+        }
+      ]
+    },
+    {
+      "key": "daqiao8/daqiao8_attack_loop",
+      "sourceSize": {
+        "width": 336,
+        "height": 207
+      },
+      "resolvedSize": {
+        "width": 336,
+        "height": 207
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11908",
+          "heroId": "daqiao",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "daqiao8/daqiao8_attack_hit",
+      "sourceSize": {
+        "width": 249,
+        "height": 217
+      },
+      "resolvedSize": {
+        "width": 249,
+        "height": 217
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11908",
+          "heroId": "daqiao",
+          "action": "attack",
+          "role": "hit",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "daqiao8/daqiao8_skill_position",
+      "sourceSize": {
+        "width": 1343,
+        "height": 756
+      },
+      "resolvedSize": {
+        "width": 1343,
+        "height": 756
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "11908",
+          "heroId": "daqiao",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Center"
+        }
+      ]
+    },
+    {
+      "key": "zhangjiao2_1/zhangjiao2_attack_line",
+      "sourceSize": {
+        "width": 683,
+        "height": 244
+      },
+      "resolvedSize": {
+        "width": 683,
+        "height": 244
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "12002",
+          "heroId": "zhangjiao",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Line"
+        }
+      ]
+    },
+    {
+      "key": "zhangjiao2_2/zhangjiao2_skill_hit",
+      "sourceSize": {
+        "width": 974,
+        "height": 506
+      },
+      "resolvedSize": {
+        "width": 974,
+        "height": 506
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "12002",
+          "heroId": "zhangjiao",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "zhangjiao3_1/zhangjiao3_attack_line",
+      "sourceSize": {
+        "width": 498,
+        "height": 101
+      },
+      "resolvedSize": {
+        "width": 498,
+        "height": 101
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "12003",
+          "heroId": "zhangjiao",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Line"
+        }
+      ]
+    },
+    {
+      "key": "zhangjiao3_1/zhangjiao3_attack_hit",
+      "sourceSize": {
+        "width": 0,
+        "height": 0
+      },
+      "resolvedSize": {
+        "width": 360.82508196184955,
+        "height": 344.31586989116425
+      },
+      "bounds": {
+        "x": -127.23056158263086,
+        "y": -216.34192517864102,
+        "width": 347.7144997689323,
+        "height": 331.9889679402474,
+        "frames": 26
+      },
+      "sourceMissing": true,
+      "refs": [
+        {
+          "id": "12003",
+          "heroId": "zhangjiao",
+          "action": "attack",
+          "role": "hit",
+          "type": "Line"
+        }
+      ]
+    },
+    {
+      "key": "zhangjiao3_2/zhangjiao3_skill_hit",
+      "sourceSize": {
+        "width": 223,
+        "height": 282
+      },
+      "resolvedSize": {
+        "width": 223,
+        "height": 282
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "12003",
+          "heroId": "zhangjiao",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "zhangjiao4_1/zhangjiao4_attack_loop",
+      "sourceSize": {
+        "width": 387,
+        "height": 58
+      },
+      "resolvedSize": {
+        "width": 387,
+        "height": 58
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "12004",
+          "heroId": "zhangjiao",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "zhangjiao4_1/zhangjiao4_attack_hit",
+      "sourceSize": {
+        "width": 0,
+        "height": 0
+      },
+      "resolvedSize": {
+        "width": 354.19203054617145,
+        "height": 357.30445540479735
+      },
+      "bounds": {
+        "x": -179.11116891281222,
+        "y": -216.39456934386914,
+        "width": 342.4152614172834,
+        "height": 345.1947007210007,
+        "frames": 26
+      },
+      "sourceMissing": true,
+      "refs": [
+        {
+          "id": "12004",
+          "heroId": "zhangjiao",
+          "action": "attack",
+          "role": "hit",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "zhangjiao4_2/zhangjiao4_skill_hit",
+      "sourceSize": {
+        "width": 1087,
+        "height": 861
+      },
+      "resolvedSize": {
+        "width": 1087,
+        "height": 861
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "12004",
+          "heroId": "zhangjiao",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "zhangjiao5/zhangjiao5_attack_loop",
+      "sourceSize": {
+        "width": 212,
+        "height": 177
+      },
+      "resolvedSize": {
+        "width": 212,
+        "height": 177
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "12005",
+          "heroId": "zhangjiao",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "zhangjiao5/zhangjiao5_attack_hit",
+      "sourceSize": {
+        "width": 0,
+        "height": 0
+      },
+      "resolvedSize": {
+        "width": 438.67520356053154,
+        "height": 406.63326345699295
+      },
+      "bounds": {
+        "x": -209.12938289004134,
+        "y": -237.33995027759065,
+        "width": 419.7355687816073,
+        "height": 385.9499046443623,
+        "frames": 34
+      },
+      "sourceMissing": true,
+      "refs": [
+        {
+          "id": "12005",
+          "heroId": "zhangjiao",
+          "action": "attack",
+          "role": "hit",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "zhangjiao5/zhangjiao5_skill_hit",
+      "sourceSize": {
+        "width": 0,
+        "height": 0
+      },
+      "resolvedSize": {
+        "width": 1058.8822693029144,
+        "height": 1684.528465566082
+      },
+      "bounds": {
+        "x": -496.6651990870893,
+        "y": -1040.366451410151,
+        "width": 1008.4593040980137,
+        "height": 1606.6894137137674,
+        "frames": 101
+      },
+      "sourceMissing": true,
+      "refs": [
+        {
+          "id": "12005",
+          "heroId": "zhangjiao",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "zhangjiao6/zhangjiao6_attack_loop",
+      "sourceSize": {
+        "width": 142,
+        "height": 64
+      },
+      "resolvedSize": {
+        "width": 142,
+        "height": 64
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "12006",
+          "heroId": "zhangjiao",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "zhangjiao6/zhangjiao6_attack_hit",
+      "sourceSize": {
+        "width": 139,
+        "height": 136
+      },
+      "resolvedSize": {
+        "width": 139,
+        "height": 136
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "12006",
+          "heroId": "zhangjiao",
+          "action": "attack",
+          "role": "hit",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "zhangjiao6/zhangjiao6_skill_line",
+      "sourceSize": {
+        "width": 818,
+        "height": 383
+      },
+      "resolvedSize": {
+        "width": 818,
+        "height": 383
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "12006",
+          "heroId": "zhangjiao",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "zhangjiao6/zhangjiao6_skill_hit",
+      "sourceSize": {
+        "width": 424,
+        "height": 344
+      },
+      "resolvedSize": {
+        "width": 424,
+        "height": 344
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "12006",
+          "heroId": "zhangjiao",
+          "action": "skill",
+          "role": "hit",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "zhangjiao7/zhangjiao7_attack_loop",
+      "sourceSize": {
+        "width": 383,
+        "height": 118
+      },
+      "resolvedSize": {
+        "width": 383,
+        "height": 118
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "12007",
+          "heroId": "zhangjiao",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Parabola"
+        }
+      ]
+    },
+    {
+      "key": "zhangjiao7/zhangjiao7_attack_hit",
+      "sourceSize": {
+        "width": 247,
+        "height": 303
+      },
+      "resolvedSize": {
+        "width": 247,
+        "height": 303
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "12007",
+          "heroId": "zhangjiao",
+          "action": "attack",
+          "role": "hit",
+          "type": "Parabola"
+        }
+      ]
+    },
+    {
+      "key": "zhangjiao7/zhangjiao7_skill_hit",
+      "sourceSize": {
+        "width": 334,
+        "height": 591
+      },
+      "resolvedSize": {
+        "width": 334,
+        "height": 591
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "12007",
+          "heroId": "zhangjiao",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "lusu2/lusu2_attack_loop",
+      "sourceSize": {
+        "width": 200,
+        "height": 158
+      },
+      "resolvedSize": {
+        "width": 200,
+        "height": 158
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "12101",
+          "heroId": "lusu",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "lusu2/lusu2_attack_hit",
+      "sourceSize": {
+        "width": 531,
+        "height": 467
+      },
+      "resolvedSize": {
+        "width": 531,
+        "height": 467
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "12101",
+          "heroId": "lusu",
+          "action": "attack",
+          "role": "hit",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "lusu2/lusu2_skill_position",
+      "sourceSize": {
+        "width": 1980,
+        "height": 793
+      },
+      "resolvedSize": {
+        "width": 1980,
+        "height": 793
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "12101",
+          "heroId": "lusu",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Center"
+        }
+      ]
+    },
+    {
+      "key": "lusu2/lusu2_skill_hit",
+      "sourceSize": {
+        "width": 250,
+        "height": 250
+      },
+      "resolvedSize": {
+        "width": 250,
+        "height": 250
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "12101",
+          "heroId": "lusu",
+          "action": "skill",
+          "role": "hit",
+          "type": "Center"
+        }
+      ]
+    },
+    {
+      "key": "lusu3/lusu3_attack_hit",
+      "sourceSize": {
+        "width": 240,
+        "height": 412
+      },
+      "resolvedSize": {
+        "width": 240,
+        "height": 412
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "12103",
+          "heroId": "lusu",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "lusu3/lusu3_skill_position",
+      "sourceSize": {
+        "width": 1141,
+        "height": 1478
+      },
+      "resolvedSize": {
+        "width": 1141,
+        "height": 1478
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "12103",
+          "heroId": "lusu",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "lusu3/lusu3_skill_hit",
+      "sourceSize": {
+        "width": 503,
+        "height": 503
+      },
+      "resolvedSize": {
+        "width": 503,
+        "height": 503
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "12103",
+          "heroId": "lusu",
+          "action": "skill",
+          "role": "hit",
+          "type": "Position"
+        }
+      ]
+    },
+    {
+      "key": "lusu5/lusu5_attack_loop",
+      "sourceSize": {
+        "width": 248,
+        "height": 95
+      },
+      "resolvedSize": {
+        "width": 248,
+        "height": 95
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "12105",
+          "heroId": "lusu",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "lusu5/lusu5_attack_hit",
+      "sourceSize": {
+        "width": 288,
+        "height": 244
+      },
+      "resolvedSize": {
+        "width": 288,
+        "height": 244
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "12105",
+          "heroId": "lusu",
+          "action": "attack",
+          "role": "hit",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "lusu5/lusu5_skill_position",
+      "sourceSize": {
+        "width": 731,
+        "height": 583
+      },
+      "resolvedSize": {
+        "width": 731,
+        "height": 583
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "12105",
+          "heroId": "lusu",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Center"
+        }
+      ]
+    },
+    {
+      "key": "lusu5/lusu5_skill_hit",
+      "sourceSize": {
+        "width": 508,
+        "height": 567
+      },
+      "resolvedSize": {
+        "width": 508,
+        "height": 567
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "12105",
+          "heroId": "lusu",
+          "action": "skill",
+          "role": "hit",
+          "type": "Center"
+        }
+      ]
+    },
+    {
+      "key": "lusu6/lusu6_attack_loop",
+      "sourceSize": {
+        "width": 282,
+        "height": 174
+      },
+      "resolvedSize": {
+        "width": 282,
+        "height": 174
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "12106",
+          "heroId": "lusu",
+          "action": "attack",
+          "role": "projectile",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "lusu6/lusu6_attack_hit",
+      "sourceSize": {
+        "width": 0,
+        "height": 0
+      },
+      "resolvedSize": {
+        "width": 539.1943465718398,
+        "height": 651.142213545999
+      },
+      "bounds": {
+        "x": -233.06545572787033,
+        "y": -389.48144799679955,
+        "width": 515.2490447195463,
+        "height": 634.0055193590357,
+        "frames": 42
+      },
+      "sourceMissing": true,
+      "refs": [
+        {
+          "id": "12106",
+          "heroId": "lusu",
+          "action": "attack",
+          "role": "hit",
+          "type": "Move"
+        }
+      ]
+    },
+    {
+      "key": "lusu6/lusu6_sklii_hit",
+      "sourceSize": {
+        "width": 928,
+        "height": 812
+      },
+      "resolvedSize": {
+        "width": 928,
+        "height": 812
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "12106",
+          "heroId": "lusu",
+          "action": "skill",
+          "role": "projectile",
+          "type": "Center"
+        }
+      ]
+    },
+    {
+      "key": "battleEffect/axwq_pijiu/axwq_pijiu",
+      "sourceSize": {
+        "width": 574,
+        "height": 617
+      },
+      "resolvedSize": {
+        "width": 574,
+        "height": 617
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "ice",
+          "role": "toy/status"
+        }
+      ]
+    },
+    {
+      "key": "battleEffect/axwq_yzcyj/axwq_yzcyj",
+      "sourceSize": {
+        "width": 1029,
+        "height": 1105
+      },
+      "resolvedSize": {
+        "width": 1029,
+        "height": 1105
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "arrow",
+          "role": "toy/status"
+        }
+      ]
+    },
+    {
+      "key": "battleEffect/axwq_bing/axwq_bing",
+      "sourceSize": {
+        "width": 1273,
+        "height": 1164
+      },
+      "resolvedSize": {
+        "width": 1273,
+        "height": 1164
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "heal",
+          "role": "toy/status"
+        }
+      ]
+    },
+    {
+      "key": "buff_frozen/buff_bingdong",
+      "sourceSize": {
+        "width": 163,
+        "height": 179
+      },
+      "resolvedSize": {
+        "width": 163,
+        "height": 179
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "frozen",
+          "role": "toy/status"
+        }
+      ]
+    },
+    {
+      "key": "buff_recovery/buff_huixue",
+      "sourceSize": {
+        "width": 216,
+        "height": 166
+      },
+      "resolvedSize": {
+        "width": 216,
+        "height": 166
+      },
+      "bounds": null,
+      "sourceMissing": false,
+      "refs": [
+        {
+          "id": "recovery",
+          "role": "toy/status"
+        }
+      ]
+    }
+  ]
+}

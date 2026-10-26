@@ -1,0 +1,188 @@
+{
+  "component": "ui_common/Star",
+  "client": "wxapkg_dec/355_game_correct/subpackages/game/game.js",
+  "rules": [
+    "HeroModule.getHeroShowStar: star % 5, zero remainder shows 5; star 0 returns 1",
+    "HeroModule.getHeroStarColor: ceil(star / 5), capped at 6",
+    "UIHelper.showHeroStar + Star.color controller select the original texture"
+  ],
+  "controller": {
+    "1": "gyzy_icon_jinxing",
+    "2": "gyzy_icon_zixing",
+    "3": "gyzy_icon_chengxing",
+    "4": "gyzy_icon_hongxing",
+    "5": "xingxing_man",
+    "6": "gyzy_icon_manxingzi"
+  },
+  "zeroStar": "One original empty-star icon for the unpromoted camp state",
+  "files": [
+    {
+      "file": "assets/ui/stars/empty.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png",
+      "item": "xingxing_kong",
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          991,
+          566,
+          46,
+          48
+        ],
+        "rotated": false,
+        "offset": [
+          0,
+          0
+        ],
+        "size": [
+          46,
+          48
+        ]
+      },
+      "sha256": "65a32de3a04b23f7085587c992f2bdeafecf191853e6b8c1e039b53c3fee8dd1"
+    },
+    {
+      "file": "assets/ui/stars/gold.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png",
+      "item": "gyzy_icon_jinxing",
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          952,
+          516,
+          46,
+          48
+        ],
+        "rotated": false,
+        "offset": [
+          0,
+          0
+        ],
+        "size": [
+          46,
+          48
+        ]
+      },
+      "sha256": "659ee26248dd1fb4dc0681d2c91b29834912b53288fe8dd0e0f123da4961037b"
+    },
+    {
+      "file": "assets/ui/stars/purple.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png",
+      "item": "gyzy_icon_zixing",
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          943,
+          590,
+          46,
+          48
+        ],
+        "rotated": false,
+        "offset": [
+          0,
+          0
+        ],
+        "size": [
+          46,
+          48
+        ]
+      },
+      "sha256": "206f9cd1ae2dda3accd66f7121ca42b1ca5b6d48b57c4fac8c0e1cc11d6f6c51"
+    },
+    {
+      "file": "assets/ui/stars/orange.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png",
+      "item": "gyzy_icon_chengxing",
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          1118,
+          954,
+          46,
+          48
+        ],
+        "rotated": false,
+        "offset": [
+          0,
+          0
+        ],
+        "size": [
+          46,
+          48
+        ]
+      },
+      "sha256": "65037187d054ba04368d99267a7a5188bd39bffb7e1f647ed987de82279c25ac"
+    },
+    {
+      "file": "assets/ui/stars/red.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png",
+      "item": "gyzy_icon_hongxing",
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          1074,
+          904,
+          46,
+          48
+        ],
+        "rotated": false,
+        "offset": [
+          0,
+          0
+        ],
+        "size": [
+          46,
+          48
+        ]
+      },
+      "sha256": "73776f11ceeecc999b12288a8ccedf3c8116830e2871e486e5c6af9e31318140"
+    },
+    {
+      "file": "assets/ui/stars/crown.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png",
+      "item": "xingxing_man",
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          1129,
+          56,
+          54,
+          45
+        ],
+        "rotated": false,
+        "offset": [
+          0,
+          0
+        ],
+        "size": [
+          54,
+          45
+        ]
+      },
+      "sha256": "33cc57167f40f9a9a2504bd55687a21f48ed577d9f201406ed5b68f4f061528e"
+    },
+    {
+      "file": "assets/ui/stars/purple-crown.png",
+      "source": "远程资源工具\\远程资源数据\\版本数据\\3c7b0bfc39\\按原名保存\\3c7b0bfc39\\ui_common\\native\\ui_common_atlas0.png",
+      "item": "gyzy_icon_manxingzi",
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          574,
+          136,
+          54,
+          44
+        ],
+        "rotated": false,
+        "offset": [
+          0,
+          1
+        ],
+        "size": [
+          54,
+          45
+        ]
+      },
+      "sha256": "ed73cef4c1c0c0f508e5b3dd3e3b936e2c88a01f52e6e53e3475287bbd64659d"
+    }
+  ]
+}
