@@ -1,6 +1,6 @@
 # 向咸鱼开炮
 
-**在线试玩：https://zhudate.github.io/xxykp/**
+**在线试玩：https://date555.github.io/xxykp/**
 
 游戏通过 GitHub Pages 免费托管，推送 `main` 后会自动更新。
 
